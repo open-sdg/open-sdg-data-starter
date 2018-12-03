@@ -1,7 +1,16 @@
 #!/usr/bin/env bash
 # This script deploys the built site to the prod-pages branch of the same repo.
-git config --global user.email "no-reply@example.com"
-git config --global user.name "CircleCI"
+
+# Customize these variables for your specific implementation.
+###################################
+GH_NAME="CircleCI"
+GH_EMAIL="no-reply@example.com"
+GH_ORG_PROD="CHANGEME"
+###################################
+
+# There is probably no need to modify anything below this point.
+git config --global user.email $GH_EMAIL
+git config --global user.name $GH_NAME
 
 # CircleCI will identify the SSH key with a "Host" of gh-prod. In order to tell
 # Git to use this key, we need to hack the SSH key:
