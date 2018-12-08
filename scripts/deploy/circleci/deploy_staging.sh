@@ -14,8 +14,8 @@ GH_EMAIL="no-reply@example.com"
 ###################################
 
 # There is probably no need to modify anything below this point.
-git config --global user.email $GH_EMAIL
-git config --global user.name $GH_NAME
+git config --global user.email "$GH_EMAIL"
+git config --global user.name "$GH_NAME"
 
 # CircleCI will identify the SSH key with a "Host" of gh-stg. In order to tell
 # Git to use this key, we need to hack the SSH key:
