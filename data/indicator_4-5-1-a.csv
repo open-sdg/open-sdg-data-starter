@@ -1,0 +1,25 @@
+Year,Units,Education type,Value
+2015,%,Primary,1.0
+2016,%,Primary,1.0
+2017,%,Primary,1.0
+2015,%,Lower secondary,1.01
+2016,%,Lower secondary,1.01
+2017,%,Lower secondary,1.01
+2015,%,High,1.2
+2016,%,High,1.21
+2017,%,High,1.17
+2015,%,Secondary,1.04
+2016,%,Secondary,1.03
+2017,%,Secondary,1.03
+2015,%,Preliminary vocational,0.43
+2016,%,Preliminary vocational,0.45
+2017,%,Preliminary vocational,0.48
+2015,%,Middle vocational,1.31
+2016,%,Middle vocational,1.29
+2017,%,Middle vocational,1.31
+2015,%,Bachelor,1.26
+2016,%,Bachelor,1.24
+2017,%,Bachelor,1.2
+2015,%,Master,1.57
+2016,%,Master,1.44
+2017,%,Master,1.98

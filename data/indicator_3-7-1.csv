@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Category,Value
+2015,%,,40.2
+2015,%,Any contraceptive method,57.0
+2015,%,Modern  contraceptive methods,28.0

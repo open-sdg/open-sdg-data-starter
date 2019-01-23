@@ -1,0 +1,64 @@
+Year,Units,Sex,Category,Age,Value
+2015,persons,,,,96.0
+2016,persons,,,,75.0
+2017,persons,,,,56.0
+2015,persons,Male,,,50.0
+2016,persons,Male,,,37.0
+2017,persons,Male,,,27.0
+2015,persons,Female,,,46.0
+2016,persons,Female,,,38.0
+2017,persons,Female,,,29.0
+2015,persons,,up to 6 months,,1.0
+2016,persons,,up to 6 months,,1.0
+2017,persons,,up to 6 months,,3.0
+2015,persons,Male,up to 6 months,,0.0
+2016,persons,Male,up to 6 months,,0.0
+2017,persons,Male,up to 6 months,,2.0
+2015,persons,Female,up to 6 months,,1.0
+2016,persons,Female,up to 6 months,,1.0
+2017,persons,Female,up to 6 months,,1.0
+2015,persons,,from 6 months to 1 year,,16.0
+2016,persons,,from 6 months to 1 year,,11.0
+2017,persons,,from 6 months to 1 year,,9.0
+2015,persons,Male,from 6 months to 1 year,,7.0
+2016,persons,Male,from 6 months to 1 year,,5.0
+2017,persons,Male,from 6 months to 1 year,,4.0
+2015,persons,Female,from 6 months to 1 year,,9.0
+2016,persons,Female,from 6 months to 1 year,,6.0
+2017,persons,Female,from 6 months to 1 year,,5.0
+2015,persons,,,aged 1-5 years,56.0
+2016,persons,,,aged 1-5 years,41.0
+2017,persons,,,aged 1-5 years,30.0
+2015,persons,Male,,aged 1-5 years,27.0
+2016,persons,Male,,aged 1-5 years,16.0
+2017,persons,Male,,aged 1-5 years,13.0
+2015,persons,Female,,aged 1-5 years,29.0
+2016,persons,Female,,aged 1-5 years,25.0
+2017,persons,Female,,aged 1-5 years,17.0
+2015,persons,,,aged 6-9 years,10.0
+2016,persons,,,aged 6-9 years,8.0
+2017,persons,,,aged 6-9 years,6.0
+2015,persons,Male,,aged 6-9 years,6.0
+2016,persons,Male,,aged 6-9 years,7.0
+2017,persons,Male,,aged 6-9 years,2.0
+2015,persons,Female,,aged 6-9 years,4.0
+2016,persons,Female,,aged 6-9 years,1.0
+2017,persons,Female,,aged 6-9 years,4.0
+2015,persons,,,aged 10-15 years,9.0
+2016,persons,,,aged 10-15 years,10.0
+2017,persons,,,aged 10-15 years,5.0
+2015,persons,Male,,aged 10-15 years,8.0
+2016,persons,Male,,aged 10-15 years,8.0
+2017,persons,Male,,aged 10-15 years,4.0
+2015,persons,Female,,aged 10-15 years,1.0
+2016,persons,Female,,aged 10-15 years,2.0
+2017,persons,Female,,aged 10-15 years,1.0
+2015,persons,,,aged 16-17 years,4.0
+2016,persons,,,aged 16-17 years,4.0
+2017,persons,,,aged 16-17 years,3.0
+2015,persons,Male,,aged 16-17 years,2.0
+2016,persons,Male,,aged 16-17 years,1.0
+2017,persons,Male,,aged 16-17 years,2.0
+2015,persons,Female,,aged 16-17 years,2.0
+2016,persons,Female,,aged 16-17 years,3.0
+2017,persons,Female,,aged 16-17 years,1.0
