@@ -1,7 +1,16 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Category,Value
+2015,%,(a) electricity,100.0
+2016,%,(a) electricity,100.0
+2017,%,(a) electricity,100.0
+2015,%,(b) proportion of schools connected to the Internet,99.9
+2016,%,(b) proportion of schools connected to the Internet,100.0
+2017,%,(b) proportion of schools connected to the Internet,100.0
+2015,persons,(a) number of teachers per computer,1.8
+2016,persons,(a) number of teachers per computer,1.7
+2017,persons,(a) number of teachers per computer,1.7
+2015,%,(b) water supply,93.9
+2016,%,(b) water supply,95.0
+2017,%,(b) water supply,94.9
+2015,%,(c) sewerage,89.4
+2016,%,(c) sewerage,90.1
+2017,%,(c) sewerage,90.4

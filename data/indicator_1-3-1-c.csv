@@ -1,0 +1,115 @@
+Year,Units,Sex,Category,Age,Value
+2015,%,,,,15.53
+2016,%,,,,15.69
+2017,%,,,,15.41
+2015,%,Male,,,12.73
+2016,%,Male,,,12.93
+2017,%,Male,,,12.74
+2015,%,Female,,,18.09
+2016,%,Female,,,18.19
+2017,%,Female,,,17.82
+2015,%,,age-related,,10.19
+2016,%,,age-related,,10.33
+2017,%,,age-related,,10.52
+2015,%,Male,age-related,,7.93
+2016,%,Male,age-related,,8.09
+2017,%,Male,age-related,,8.3
+2015,%,Female,age-related,,12.25
+2016,%,Female,age-related,,12.36
+2017,%,Female,age-related,,12.53
+2015,%,,on privileged terms,,0.09
+2016,%,,on privileged terms,,0.08
+2017,%,,on privileged terms,,0.08
+2015,%,Male,on privileged terms,,0.14
+2016,%,Male,on privileged terms,,0.13
+2017,%,Male,on privileged terms,,0.12
+2015,%,Female,on privileged terms,,0.05
+2016,%,Female,on privileged terms,,0.05
+2017,%,Female,on privileged terms,,0.04
+2015,%,,long-term service,,0.04
+2016,%,,long-term service,,0.02
+2017,%,,long-term service,,0.02
+2015,%,Male,long-term service,,0.04
+2016,%,Male,long-term service,,0.03
+2017,%,Male,long-term service,,0.03
+2015,%,Female,long-term service,,0.04
+2016,%,Female,long-term service,,0.02
+2017,%,Female,long-term service,,0.01
+2015,%,,partially,,0.5
+2016,%,,partially,,0.49
+2017,%,,partially,,0.47
+2015,%,Male,partially,,0.11
+2016,%,Male,partially,,0.11
+2017,%,Male,partially,,0.1
+2015,%,Female,partially,,0.85
+2016,%,Female,partially,,0.83
+2017,%,Female,partially,,0.8
+2015,%,,disability,,4.28
+2016,%,,disability,,4.35
+2017,%,,disability,,3.93
+2015,%,Male,disability,,4.13
+2016,%,Male,disability,,4.19
+2017,%,Male,disability,,3.82
+2015,%,Female,disability,,4.41
+2016,%,Female,disability,,4.48
+2017,%,Female,disability,,4.02
+2015,%,,in case of losing a breadwinner,,0.36
+2016,%,,in case of losing a breadwinner,,0.34
+2017,%,,in case of losing a breadwinner,,0.3105560810728986
+2015,%,Male,in case of losing a breadwinner,,0.21
+2016,%,Male,in case of losing a breadwinner,,0.21
+2017,%,Male,in case of losing a breadwinner,,0.19
+2015,%,Female,in case of losing a breadwinner,,0.49
+2016,%,Female,in case of losing a breadwinner,,0.45
+2017,%,Female,in case of losing a breadwinner,,0.42
+2016,%,,by other laws,,0.01
+2017,%,,by other laws,,0.02
+2016,%,Male,by other laws,,0.01
+2017,%,Male,by other laws,,0.04
+2016,%,Female,by other laws,,0.002
+2017,%,Female,by other laws,,0.004
+2015,%,,related to military service,,0.08
+2016,%,,related to military service,,0.07
+2017,%,,related to military service,,0.07
+2015,%,Male,related to military service,,0.16
+2016,%,Male,related to military service,,0.15
+2017,%,Male,related to military service,,0.14
+2015,%,Female,related to military service,,0.002
+2016,%,Female,related to military service,,0.001
+2017,%,Female,related to military service,,0.001
+2015,%,,up to 51 years old,,1.02
+2016,%,,up to 51 years old,,0.95
+2017,%,,up to 51 years old,,0.79
+2015,%,Male,up to 51 years old,,0.99
+2016,%,Male,up to 51 years old,,0.94
+2017,%,Male,up to 51 years old,,0.79
+2015,%,Female,up to 51 years old,,1.06
+2016,%,Female,up to 51 years old,,0.97
+2017,%,Female,up to 51 years old,,0.78
+2015,%,,,aged 51 - 55 years,10.32
+2016,%,,,aged 51 - 55 years,10.01
+2017,%,,,aged 51 - 55 years,8.15
+2015,%,Male,,aged 51 - 55 years,10.47
+2016,%,Male,,aged 51 - 55 years,10.38
+2017,%,Male,,aged 51 - 55 years,8.75
+2015,%,Female,,aged 51 - 55 years,10.2
+2016,%,Female,,aged 51 - 55 years,9.72
+2017,%,Female,,aged 51 - 55 years,7.68
+2015,%,,,aged 56 - 62 years,23.32
+2016,%,,,aged 56 - 62 years,22.58
+2017,%,,,aged 56 - 62 years,19.33
+2015,%,Male,,aged 56 - 62 years,20.14
+2016,%,Male,,aged 56 - 62 years,19.87
+2017,%,Male,,aged 56 - 62 years,17.23
+2015,%,Female,,aged 56 - 62 years,25.9
+2016,%,Female,,aged 56 - 62 years,24.76
+2017,%,Female,,aged 56 - 62 years,21.0
+2015,%,,,aged 63 and older,92.73
+2016,%,,,aged 63 and older,92.52
+2017,%,,,aged 63 and older,91.47
+2015,%,Male,,aged 63 and older,88.1
+2016,%,Male,,aged 63 and older,88.25
+2017,%,Male,,aged 63 and older,87.48
+2015,%,Female,,aged 63 and older,95.83
+2016,%,Female,,aged 63 and older,95.38
+2017,%,Female,,aged 63 and older,94.14

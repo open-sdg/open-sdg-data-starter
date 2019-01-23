@@ -1,0 +1,73 @@
+Year,Units,Sex,Category,Age,Value
+2015,%,,,,2.11
+2016,%,,,,2.21
+2017,%,,,,2.12
+2015,%,Male,,,2.31
+2016,%,Male,,,2.42
+2017,%,Male,,,2.36
+2015,%,Female,,,1.93
+2016,%,Female,,,2.02
+2017,%,Female,,,1.9
+2015,%,,old age,,0.12
+2016,%,,old age,,0.13
+2017,%,,old age,,0.16
+2015,%,Male,old age,,0.04
+2016,%,Male,old age,,0.06
+2017,%,Male,old age,,0.07
+2015,%,Female,old age,,0.18
+2016,%,Female,old age,,0.2
+2017,%,Female,old age,,0.23
+2015,%,,disability,,1.6
+2016,%,,disability,,1.68
+2017,%,,disability,,1.57
+2015,%,Male,disability,,1.94
+2016,%,Male,disability,,2.02
+2017,%,Male,disability,,1.95
+2015,%,Female,disability,,1.29
+2016,%,Female,disability,,1.36
+2017,%,Female,disability,,1.23
+2015,%,,in case of losing a breadwinner,,0.39
+2016,%,,in case of losing a breadwinner,,0.4
+2017,%,,in case of losing a breadwinner,,0.39
+2015,%,Male,in case of losing a breadwinner,,0.32
+2016,%,Male,in case of losing a breadwinner,,0.34
+2017,%,Male,in case of losing a breadwinner,,0.34
+2015,%,Female,in case of losing a breadwinner,,0.46
+2016,%,Female,in case of losing a breadwinner,,0.45
+2017,%,Female,in case of losing a breadwinner,,0.44
+2015,%,,up to 51 years old,,2.39
+2016,%,,up to 51 years old,,2.46
+2017,%,,up to 51 years old,,2.34
+2015,%,Male,up to 51 years old,,2.77
+2016,%,Male,up to 51 years old,,2.87
+2017,%,Male,up to 51 years old,,2.77
+2015,%,Female,up to 51 years old,,2.02
+2016,%,Female,up to 51 years old,,2.06
+2017,%,Female,up to 51 years old,,1.93
+2015,%,,,aged 51 - 55 years,1.99
+2016,%,,,aged 51 - 55 years,2.36
+2017,%,,,aged 51 - 55 years,2.2
+2015,%,Male,,aged 51 - 55 years,1.8
+2016,%,Male,,aged 51 - 55 years,2.27
+2017,%,Male,,aged 51 - 55 years,2.37
+2015,%,Female,,aged 51 - 55 years,2.15
+2016,%,Female,,aged 51 - 55 years,2.44
+2017,%,Female,,aged 51 - 55 years,2.06
+2015,%,,,aged 56 - 62 years,1.24
+2016,%,,,aged 56 - 62 years,1.37
+2017,%,,,aged 56 - 62 years,1.27
+2015,%,Male,,aged 56 - 62 years,0.87
+2016,%,Male,,aged 56 - 62 years,0.98
+2017,%,Male,,aged 56 - 62 years,1.02
+2015,%,Female,,aged 56 - 62 years,1.55
+2016,%,Female,,aged 56 - 62 years,1.69
+2017,%,Female,,aged 56 - 62 years,1.46
+2015,%,,,aged 63 and older,1.24
+2016,%,,,aged 63 and older,1.39
+2017,%,,,aged 63 and older,1.54
+2015,%,Male,,aged 63 and older,0.6
+2016,%,Male,,aged 63 and older,0.72
+2017,%,Male,,aged 63 and older,0.84
+2015,%,Female,,aged 63 and older,1.67
+2016,%,Female,,aged 63 and older,1.84
+2017,%,Female,,aged 63 and older,2.01
