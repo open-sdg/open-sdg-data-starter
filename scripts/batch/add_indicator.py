@@ -65,8 +65,12 @@ def add_indicator(id, name):
         default_flow_style=False,
         explicit_start=True,
         explicit_end=True)
-    with open(filepath, 'w') as outfile:
-        outfile.write(yaml_string.replace("\n...\n", "\n---\n"))
+    try:
+        with open(filepath, 'w') as outfile:
+            outfile.write(yaml_string.replace("\n...\n", "\n---\n"))
+    except FileNotFoundError:
+        print('[FAILED] - Please run this script from the root of the repository.')
+        return False
 
     # Now write the data.
     filename = 'indicator_' + id.replace('.', '-') + '.csv'
@@ -76,6 +80,8 @@ def add_indicator(id, name):
     f.write(data)
     f.close()
 
+    return True
+
 def main():
 
     # Abort if there is no parameter provided.
@@ -83,8 +89,8 @@ def main():
         sys.exit('Provide the id number and name of this indicator.')
     id = sys.argv[1]
     name = sys.argv[2]
-    add_indicator(id, name)
-    print("Remember to update and deploy this change before proceeding to the similar script in the site repository.")
+    if add_indicator(id, name):
+        print("[SUCCESS] - Please commit and push the files.")
 
 # Boilerplace syntax for running the main function.
 if __name__ == '__main__':
