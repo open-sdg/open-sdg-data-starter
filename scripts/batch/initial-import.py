@@ -67,32 +67,34 @@ def strip_words(text, words):
 # Figure out from a category value what the name of the column should be.
 def get_disaggregation_column(category):
     category = category.lower()
-    ret = False
     for wildcard in WILDCARD_DISAGGREGATION_COLUMNS:
         # Look for general wildcards to figure out the column name.
         if wildcard in category:
-            ret = WILDCARD_DISAGGREGATION_COLUMNS[wildcard]
-            break
-    if not ret:
-        # Consult a hardcoded list.
-        if category in HARDCODED_DISAGGREGATION_COLUMNS:
-            ret = HARDCODED_DISAGGREGATION_COLUMNS[category]
+            return WILDCARD_DISAGGREGATION_COLUMNS[wildcard]
 
-    if not ret:
-        # Some more detailed checks follow.
+    # Consult a hardcoded list.
+    if category in HARDCODED_DISAGGREGATION_COLUMNS:
+        return HARDCODED_DISAGGREGATION_COLUMNS[category]
 
-        # See if this is 2 integers separated by "to" or "-".
-        ignore = ['years', 'year', 'aged', 'age']
-        for sep in ['to', '-']:
-            words = category.split(sep)
-            if len(words) > 1:
-                if all(strip_words(word, ignore).isdigit() for word in words):
-                    ret = 'Age'
-                    break
-    if not ret:
-        ret = 'Category'
+    # See if this is 2 integers separated by "to" or "-".
+    ignore = ['years', 'year', 'aged', 'age']
+    for sep in ['to', '-']:
+        words = category.split(sep)
+        if len(words) > 1:
+            if all(strip_words(word, ignore).isdigit() for word in words):
+                return 'Age'
 
-    return ret
+    # See if this is 1 integer plus "age" and/or "year".
+    words = category.split(' ')
+    age_flags = ['year', 'age', 'month']
+    # Long sentences are definitely not ages...
+    if len(words) < 7:
+        if any(word.isdigit() for word in words):
+            for age_flag in age_flags:
+                if any(age_flag in word for word in words):
+                    return 'Age'
+
+    return 'Category'
 
 # Start off a dataframe for an indicator.
 def blank_dataframe(disaggregations):
@@ -218,9 +220,11 @@ def write_metadata(id, df, indicator_info):
         'graph_type': 'line',
         'published': True,
         'reporting_status': 'complete',
+        'national_geographical_coverage': 'Armenia',
     }
     source = df.iloc[indicator_info['start']]['Source']
     name = df.iloc[indicator_info['start']]['CategoryOriginal']
+    unit = df.iloc[indicator_info['start']]['Unit']
     name = name.replace(id, '').strip().strip('.').strip()
 
     filename = id.replace('.', '-') + '.md'
@@ -238,6 +242,11 @@ def write_metadata(id, df, indicator_info):
             source = source.replace('\n', ' ').strip()
             metadata['source_active_1'] = True
             metadata['source_organisation_1'] = source
+        # Set the unit of measurement.
+        if isinstance(unit, str):
+            metadata['computation_units'] = unit
+        # Set the geographical coverage.
+        metadata['national_geographical_coverage'] = 'Armenia'
     else:
         metadata = required_metdata
         # Set the name and graph title.
@@ -256,6 +265,9 @@ def write_metadata(id, df, indicator_info):
         parts = id.split('.')
         metadata['sdg_goal'] = parts[0]
         metadata['target_id'] = parts[0] + '.' + parts[1]
+        # Set the unit of measurement.
+        if isinstance(unit, str):
+            metadata['computation_units'] = unit
         # While here, let's create some files for the site repository.
         write_indicator_for_site_repo(metadata)
 
@@ -407,6 +419,10 @@ def main():
 
     # Finally loop through the indicators and create CSV files.
     for id in indicators:
+        # For debugging particular indicators.
+        debug = False
+        #if id == '1.3.1.a':
+        #    debug = True
         # Take a slice of the main dataframe for this indicator.
         indicator_df = get_indicator_dataframe(df, indicators[id])
         all_disaggregations = []
@@ -424,15 +440,16 @@ def main():
                 for disaggregation in category.split('|'):
                     disaggregation = disaggregation.strip()
                     disaggregation_column = get_disaggregation_column(disaggregation)
-                    if disaggregation_column not in all_disaggregations:
-                        all_disaggregations.append(disaggregation_column)
-                    disaggregations[disaggregation_column] = disaggregation
+                    # Only use the disaggregation if it has at least one value.
+                    if any(not isinstance(row[1][year], str) and not np.isnan(row[1][year]) for year in YEARS):
+                        if disaggregation_column not in all_disaggregations:
+                            all_disaggregations.append(disaggregation_column)
+                        disaggregations[disaggregation_column] = disaggregation
             for year in YEARS:
                 value = row[1][year]
                 if not isinstance(value, str) and not np.isnan(value):
                     csv_row = get_csv_row(year, disaggregations, value, unit)
                     csv_rows.append(csv_row)
-
         csv_df = blank_dataframe(all_disaggregations)
         for row in csv_rows:
             csv_df = csv_df.append(row, ignore_index=True)

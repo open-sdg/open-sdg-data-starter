@@ -35,15 +35,15 @@ Year,Units,Sex,Category,Age,Value
 2015,%,Female,in case of losing a breadwinner,,0.46
 2016,%,Female,in case of losing a breadwinner,,0.45
 2017,%,Female,in case of losing a breadwinner,,0.44
-2015,%,,up to 51 years old,,2.39
-2016,%,,up to 51 years old,,2.46
-2017,%,,up to 51 years old,,2.34
-2015,%,Male,up to 51 years old,,2.77
-2016,%,Male,up to 51 years old,,2.87
-2017,%,Male,up to 51 years old,,2.77
-2015,%,Female,up to 51 years old,,2.02
-2016,%,Female,up to 51 years old,,2.06
-2017,%,Female,up to 51 years old,,1.93
+2015,%,,,up to 51 years old,2.39
+2016,%,,,up to 51 years old,2.46
+2017,%,,,up to 51 years old,2.34
+2015,%,Male,,up to 51 years old,2.77
+2016,%,Male,,up to 51 years old,2.87
+2017,%,Male,,up to 51 years old,2.77
+2015,%,Female,,up to 51 years old,2.02
+2016,%,Female,,up to 51 years old,2.06
+2017,%,Female,,up to 51 years old,1.93
 2015,%,,,aged 51 - 55 years,1.99
 2016,%,,,aged 51 - 55 years,2.36
 2017,%,,,aged 51 - 55 years,2.2
