@@ -21,3 +21,33 @@ these files as needed, and then add/commit/push them with Git.
 
 Finally, the next step is to perform the same steps in the other repository (if
 you have not already).
+
+## Github user validation
+
+Pull-requests to change data or metadata will fail testing if the Github user
+is not on a pre-determined list. The list is in the `scripts/validate` folder.
+Users can be set as `administrator` so that they can submit pull-requests for
+any file. The syntax for this is:
+
+```
+my-github-username: administrator
+```
+
+Alternatively, they can be given access to a list of specific indicators. The
+syntax for this is:
+
+```
+my-github-username:
+  indicators:
+    - 1-1-1
+    - 1-1-2
+```
+
+The indicators can include wildcards to give access to an entire goal or target:
+
+```
+my-github-username:
+  indicators:
+    - 1-1-*
+    - 2-*-*
+```
