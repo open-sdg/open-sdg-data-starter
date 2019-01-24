@@ -67,32 +67,34 @@ def strip_words(text, words):
 # Figure out from a category value what the name of the column should be.
 def get_disaggregation_column(category):
     category = category.lower()
-    ret = False
     for wildcard in WILDCARD_DISAGGREGATION_COLUMNS:
         # Look for general wildcards to figure out the column name.
         if wildcard in category:
-            ret = WILDCARD_DISAGGREGATION_COLUMNS[wildcard]
-            break
-    if not ret:
-        # Consult a hardcoded list.
-        if category in HARDCODED_DISAGGREGATION_COLUMNS:
-            ret = HARDCODED_DISAGGREGATION_COLUMNS[category]
+            return WILDCARD_DISAGGREGATION_COLUMNS[wildcard]
 
-    if not ret:
-        # Some more detailed checks follow.
+    # Consult a hardcoded list.
+    if category in HARDCODED_DISAGGREGATION_COLUMNS:
+        return HARDCODED_DISAGGREGATION_COLUMNS[category]
 
-        # See if this is 2 integers separated by "to" or "-".
-        ignore = ['years', 'year', 'aged', 'age']
-        for sep in ['to', '-']:
-            words = category.split(sep)
-            if len(words) > 1:
-                if all(strip_words(word, ignore).isdigit() for word in words):
-                    ret = 'Age'
-                    break
-    if not ret:
-        ret = 'Category'
+    # See if this is 2 integers separated by "to" or "-".
+    ignore = ['years', 'year', 'aged', 'age']
+    for sep in ['to', '-']:
+        words = category.split(sep)
+        if len(words) > 1:
+            if all(strip_words(word, ignore).isdigit() for word in words):
+                return 'Age'
 
-    return ret
+    # See if this is 1 integer plus "age" and/or "year".
+    words = category.split(' ')
+    age_flags = ['year', 'age', 'month']
+    # Long sentences are definitely not ages...
+    if len(words) < 7:
+        if any(word.isdigit() for word in words):
+            for age_flag in age_flags:
+                if any(age_flag in word for word in words):
+                    return 'Age'
+
+    return 'Category'
 
 # Start off a dataframe for an indicator.
 def blank_dataframe(disaggregations):
