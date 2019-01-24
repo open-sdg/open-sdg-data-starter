@@ -19,4 +19,5 @@ This will create a new "1.2.z" indicator called "Title of indicator".
 Note that this only creates template files. You will still need to customize
 these files as needed, and then add/commit/push them with Git.
 
-Finally, the next step is to perform the same steps in the site repository.
+Finally, the next step is to perform the same steps in the other repository (if
+you have not already).
