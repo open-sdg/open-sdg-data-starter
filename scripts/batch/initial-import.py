@@ -407,6 +407,10 @@ def main():
 
     # Finally loop through the indicators and create CSV files.
     for id in indicators:
+        # For debugging particular indicators.
+        debug = False
+        #if id == '1.3.1.a':
+        #    debug = True
         # Take a slice of the main dataframe for this indicator.
         indicator_df = get_indicator_dataframe(df, indicators[id])
         all_disaggregations = []
@@ -424,15 +428,16 @@ def main():
                 for disaggregation in category.split('|'):
                     disaggregation = disaggregation.strip()
                     disaggregation_column = get_disaggregation_column(disaggregation)
-                    if disaggregation_column not in all_disaggregations:
-                        all_disaggregations.append(disaggregation_column)
-                    disaggregations[disaggregation_column] = disaggregation
+                    # Only use the disaggregation if it has at least one value.
+                    if any(not isinstance(row[1][year], str) and not np.isnan(row[1][year]) for year in YEARS):
+                        if disaggregation_column not in all_disaggregations:
+                            all_disaggregations.append(disaggregation_column)
+                        disaggregations[disaggregation_column] = disaggregation
             for year in YEARS:
                 value = row[1][year]
                 if not isinstance(value, str) and not np.isnan(value):
                     csv_row = get_csv_row(year, disaggregations, value, unit)
                     csv_rows.append(csv_row)
-
         csv_df = blank_dataframe(all_disaggregations)
         for row in csv_rows:
             csv_df = csv_df.append(row, ignore_index=True)
