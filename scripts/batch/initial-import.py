@@ -220,9 +220,11 @@ def write_metadata(id, df, indicator_info):
         'graph_type': 'line',
         'published': True,
         'reporting_status': 'complete',
+        'national_geographical_coverage': 'Armenia',
     }
     source = df.iloc[indicator_info['start']]['Source']
     name = df.iloc[indicator_info['start']]['CategoryOriginal']
+    unit = df.iloc[indicator_info['start']]['Unit']
     name = name.replace(id, '').strip().strip('.').strip()
 
     filename = id.replace('.', '-') + '.md'
@@ -240,6 +242,11 @@ def write_metadata(id, df, indicator_info):
             source = source.replace('\n', ' ').strip()
             metadata['source_active_1'] = True
             metadata['source_organisation_1'] = source
+        # Set the unit of measurement.
+        if isinstance(unit, str):
+            metadata['computation_units'] = unit
+        # Set the geographical coverage.
+        metadata['national_geographical_coverage'] = 'Armenia'
     else:
         metadata = required_metdata
         # Set the name and graph title.
@@ -258,6 +265,9 @@ def write_metadata(id, df, indicator_info):
         parts = id.split('.')
         metadata['sdg_goal'] = parts[0]
         metadata['target_id'] = parts[0] + '.' + parts[1]
+        # Set the unit of measurement.
+        if isinstance(unit, str):
+            metadata['computation_units'] = unit
         # While here, let's create some files for the site repository.
         write_indicator_for_site_repo(metadata)
 
