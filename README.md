@@ -51,3 +51,12 @@ my-github-username:
     - 1-1-*
     - 2-*-*
 ```
+
+## Production deployments
+
+To start a production deployment, merge the `develop` branch into `master`. You
+can do this in Github.com by creating a new pull-request. The steps are:
+
+1. Click "New pull request"
+2. Set "base: master" and "compare: develop"
+3. Click "Create pull request"
