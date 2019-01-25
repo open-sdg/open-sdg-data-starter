@@ -24,14 +24,9 @@ git clone git@gh-staging:$GH_ORG_STAGING/$CIRCLE_PROJECT_REPONAME.git out
 
 cd out
 git checkout gh-pages || git checkout --orphan gh-pages
-git rm -rfq .
-cd ..
-
-# The fully built site is already available at /tmp/build.
-cp -a /tmp/build/_site/. out/.
-
-mkdir -p out/.circleci && cp -a .circleci/. out/.circleci/.
-cd out
+# Clear the "staging" subfolder and copy the built site into it.
+git rm -rfq staging
+cp -a /tmp/build/_site staging
 
 git add -A
 git commit -m "Automated deployment to GitHub Pages: ${CIRCLE_SHA1}" --allow-empty
