@@ -1,0 +1,109 @@
+Year,Units,Sex,Age,Category,Value
+2015,persons,,,,864.0
+2016,persons,,,,810.0
+2017,persons,,,,824.0
+2015,persons,Male,,,456.0
+2016,persons,Male,,,445.0
+2017,persons,Male,,,445.0
+2015,persons,Female,,,408.0
+2016,persons,Female,,,365.0
+2017,persons,Female,,,379.0
+2015,persons,,up to 1 year old,,68.0
+2016,persons,,up to 1 year old,,47.0
+2017,persons,,up to 1 year old,,59.0
+2015,persons,Male,up to 1 year old,,34.0
+2016,persons,Male,up to 1 year old,,25.0
+2017,persons,Male,up to 1 year old,,27.0
+2015,persons,Female,up to 1 year old,,34.0
+2016,persons,Female,up to 1 year old,,22.0
+2017,persons,Female,up to 1 year old,,32.0
+2015,persons,,aged 1-6 years,,199.0
+2016,persons,,aged 1-6 years,,208.0
+2017,persons,,aged 1-6 years,,170.0
+2015,persons,Male,aged 1-6 years,,107.0
+2016,persons,Male,aged 1-6 years,,117.0
+2017,persons,Male,aged 1-6 years,,95.0
+2015,persons,Female,aged 1-6 years,,92.0
+2016,persons,Female,aged 1-6 years,,91.0
+2017,persons,Female,aged 1-6 years,,75.0
+2015,persons,,aged 7-9 years,,147.0
+2016,persons,,aged 7-9 years,,145.0
+2017,persons,,aged 7-9 years,,176.0
+2015,persons,Male,aged 7-9 years,,79.0
+2016,persons,Male,aged 7-9 years,,76.0
+2017,persons,Male,aged 7-9 years,,99.0
+2015,persons,Female,aged 7-9 years,,68.0
+2016,persons,Female,aged 7-9 years,,69.0
+2017,persons,Female,aged 7-9 years,,77.0
+2015,persons,,aged 10-15 years,,246.0
+2016,persons,,aged 10-15 years,,231.0
+2017,persons,,aged 10-15 years,,221.0
+2015,persons,Male,aged 10-15 years,,136.0
+2016,persons,Male,aged 10-15 years,,137.0
+2017,persons,Male,aged 10-15 years,,132.0
+2015,persons,Female,aged 10-15 years,,110.0
+2016,persons,Female,aged 10-15 years,,94.0
+2017,persons,Female,aged 10-15 years,,89.0
+2015,persons,,aged 16-17 years,,204.0
+2016,persons,,aged 16-17 years,,179.0
+2017,persons,,aged 16-17 years,,198.0
+2015,persons,Male,aged 16-17 years,,100.0
+2016,persons,Male,aged 16-17 years,,90.0
+2017,persons,Male,aged 16-17 years,,92.0
+2015,persons,Female,aged 16-17 years,,104.0
+2016,persons,Female,aged 16-17 years,,89.0
+2017,persons,Female,aged 16-17 years,,106.0
+2015,%,,,total to the population of respective age,0.12499963831123174
+2016,%,,,total to the population of respective age,0.11671587465579623
+2017,%,,,total to the population of respective age,0.11789871298674354
+2015,%,Male,,total to the population of respective age,0.12373886757227598
+2016,%,Male,,total to the population of respective age,0.12031969890333326
+2017,%,Male,,total to the population of respective age,0.11966129132011949
+2015,%,Female,,total to the population of respective age,0.12643948878779238
+2016,%,Female,,total to the population of respective age,0.11260392725477796
+2017,%,Female,,total to the population of respective age,0.11589434349982569
+2015,%,,up to 1 year old,,0.16106110847939364
+2016,%,,up to 1 year old,,0.11501284717973816
+2017,%,,up to 1 year old,,0.15762336031631535
+2015,%,Male,up to 1 year old,,0.15178571428571427
+2016,%,Male,up to 1 year old,,0.1157193112386595
+2017,%,Male,up to 1 year old,,0.13791694335189253
+2015,%,Female,up to 1 year old,,0.1715438950554995
+2016,%,Female,up to 1 year old,,0.1142204454597373
+2017,%,Female,up to 1 year old,,0.17923154475187633
+2015,%,,aged 1-6 years,,0.07874327318771762
+2016,%,,aged 1-6 years,,0.08236384227324205
+2017,%,,aged 1-6 years,,0.06836781886549637
+2015,%,Male,aged 1-6 years,,0.07958408020885244
+2016,%,Male,aged 1-6 years,,0.08708272859216255
+2017,%,Male,aged 1-6 years,,0.07197133268180338
+2015,%,Female,aged 1-6 years,,0.07778745423645694
+2016,%,Female,aged 1-6 years,,0.07699923000769993
+2017,%,Female,aged 1-6 years,,0.06429049015069692
+2015,%,,aged 7-9 years,,0.1262572039612124
+2016,%,,aged 7-9 years,,0.11978323365165384
+2017,%,,aged 7-9 years,,0.1383919795557303
+2015,%,Male,aged 7-9 years,,0.12716297786720324
+2016,%,Male,aged 7-9 years,,0.11793001784467375
+2017,%,Male,aged 7-9 years,,0.14629821191074333
+2015,%,Female,aged 7-9 years,,0.12522097819681793
+2016,%,Female,aged 7-9 years,,0.12189305209603053
+2017,%,Female,aged 7-9 years,,0.12940089068145536
+2015,%,,aged 10-15 years,,0.11779296210993054
+2016,%,,aged 10-15 years,,0.10907133548642982
+2017,%,,aged 10-15 years,,0.10061598838135735
+2015,%,Male,aged 10-15 years,,0.12149908428998972
+2016,%,Male,aged 10-15 years,,0.12081661448917502
+2017,%,Male,aged 10-15 years,,0.11236241987793356
+2015,%,Female,aged 10-15 years,,0.1135120632365385
+2016,%,Female,aged 10-15 years,,0.09553525149146788
+2017,%,Female,aged 10-15 years,,0.08710971909562494
+2015,%,,aged 16-17 years,,0.28735632183908044
+2016,%,,aged 16-17 years,,0.2642066420664207
+2017,%,,aged 16-17 years,,0.30001363698349925
+2015,%,Male,aged 16-17 years,,0.265893802015475
+2016,%,Male,aged 16-17 years,,0.2496601847485367
+2017,%,Male,aged 16-17 years,,0.2616460952164268
+2015,%,Female,aged 16-17 years,,0.3115358116406554
+2016,%,Female,aged 16-17 years,,0.2807482413803981
+2017,%,Female,aged 16-17 years,,0.3437652018809794

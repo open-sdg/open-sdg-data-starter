@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Sex,Age,Value
+2015,number,,,39311.4
+2015,number,Male,,27300.0
+2015,number,Female,,12000.0
+2015,number,,5-11 age,11200.0
+2015,number,,12-15 age,14000.0
+2015,number,,16-17 age,14100.0
