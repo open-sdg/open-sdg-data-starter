@@ -133,12 +133,12 @@ prose:
             element: select
             label: "Reporting status"
             options:
-              - name: 'notstarted'
-                value: 'notstarted'
-              - name: 'inprogress'
-                value: 'inprogress'
               - name: 'complete'
                 value: 'complete'
+              - name: 'inprogress'
+                value: 'inprogress'
+              - name: 'notstarted'
+                value: 'notstarted'
             scope: data
       - name: data_non_statistical
         field:
