@@ -59,7 +59,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "PASTE_STAGING_FINGERPRINT_HERE"
+            - "12:df:37:a8:2a:c2:07:6d:64:8a:d9:3e:f4:5f:ae:04"
       - attach_workspace:
           at: /tmp/build
       - run:
