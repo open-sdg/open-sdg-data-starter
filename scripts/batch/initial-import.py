@@ -1,0 +1,554 @@
+# -*- coding: utf-8 -*-
+"""
+This script imports existing data for Armenia from an Excel file.
+"""
+
+import glob
+import os.path
+import pandas as pd
+import numpy as np
+import yaml
+
+# These global objects will be read/written from various functions, so need to
+# be created here.
+indicator_map = {}
+disagg_table = {}
+meta_translations = {}
+
+# For more readable code below.
+HEADER_YEAR = 'Year'
+HEADER_VALUE = 'Value'
+HEADER_UNIT = 'Units'
+FOLDER_DATA_CSV = 'data'
+FOLDER_METADATA_YAML = 'meta'
+
+# Info about columns in the source data.
+YEARS = ['2010','2011','2012','2013','2014','2015','2016','2017','2018']
+METADATA = ['source','compilation','implementation','customisation','classification','availability']
+
+# Start off a dataframe for an indicator.
+def blank_dataframe(disaggregations):
+    """This starts a blank dataframe with our required tidy columns."""
+
+    # Start with two columns, year and value.
+    structure = {}
+    structure[HEADER_YEAR] = []
+    structure[HEADER_UNIT] = []
+    for disaggregation in disaggregations:
+        structure[disaggregation] = []
+    structure[HEADER_VALUE] = []
+    blank = pd.DataFrame(structure)
+    # Make sure the year column is typed for integers.
+    blank[HEADER_YEAR] = blank[HEADER_YEAR].astype(int)
+
+    return blank
+
+# Write a dataframe to disk as a CSV file.
+def write_csv(id, df):
+    indicator = 'indicator_' + id.replace('.', '-') + '.csv'
+
+    csv_filename = indicator
+
+    try:
+        path = os.path.join(FOLDER_DATA_CSV, csv_filename)
+        df.to_csv(path, index=False, encoding='utf-8')
+    except Exception as e:
+        print(id, e)
+        return False
+
+    return True
+
+# Get an indicator ID from the beginning of some text, if it is there.
+def indicator_id(text):
+    ret = False
+    if isinstance(text, str):
+        words = text.split(' ')
+        id = words[0]
+        if '.' in id:
+            if id.endswith('.'):
+                id = id[:-1]
+            ret = id
+    # Some cleanup.
+    if ret == 'г':
+        ret = False
+    # If False, return that now.
+    if ret == False:
+        return False
+    # Number of parts.
+    parts = ret.split('.')
+    num_parts = len(parts)
+    # Require at least three parts.
+    if num_parts < 3:
+        return False
+    # If there are 4 parts, assume the 4th is a glitch.
+    if num_parts == 4:
+        parts = parts[:-1]
+
+    # If the 3rd part is longer than 1 character and starts with a number,
+    # assume it should just be the number.
+    if len(parts[2]) > 1 and parts[2][0].isdigit():
+        parts[2] = parts[2][0]
+
+    # Finally join the parts and return it.
+    ret = '.'.join(parts)
+
+    # Debugging - is this somehow returning non-Latin characters?
+    if not isLatin(ret):
+        print('WARNING: Non-latin charcters in indicator id: ' + ret)
+
+    return ret
+
+# Create a dict representing one row in ultimate CSV file.
+def get_csv_row(year, disaggregations, value, unit):
+    ret = {}
+    ret[HEADER_YEAR] = year
+    ret[HEADER_UNIT] = unit
+    for disaggregation in disaggregations:
+        ret[disaggregation] = disaggregations[disaggregation]
+    ret[HEADER_VALUE] = value
+    return ret
+
+# Read the excel file.
+def read_excel(sheet):
+    # Read the Excel spreadsheet into a dataframe.
+    excel_opts = {
+        'sheet_name': sheet,
+        'header': None,
+        'names': ['id','global','national','unit'] + YEARS + METADATA,
+        'skiprows': [0,1,2,3,4],
+        'usecols': [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+    }
+    df = pd.read_excel('scripts/batch/data.xls', **excel_opts)
+    return df
+
+# Read the disaggregation info spreadsheet.
+def read_disaggregations():
+    # Read the Excel spreadsheet into a dataframe.
+    excel_opts = {
+        'header': None,
+        'names': ['value', 'category'],
+        'skiprows': [0],
+        'usecols': [0,1]
+    }
+    df = pd.read_excel('scripts/batch/disaggregations.xls', **excel_opts)
+    return df
+
+# Get the metadata for an indicator.
+def get_metadata(filepath):
+    with open(filepath, 'r') as stream:
+        try:
+            # Currently the YAML in `meta` has "front matter" and "content",
+            # and we only want the "front matter". So we have to get a bit
+            # fancy below.
+            for doc in yaml.safe_load_all(stream):
+                if hasattr(doc, 'items'):
+                    return doc
+        except yaml.YAMLError as e:
+            print(e)
+
+def get_indicator_sort_order(id):
+    parts = id.split('.')
+    ret = []
+    for part in parts:
+        if len(part) < 2:
+            part = '0' + part
+        ret.append(part)
+    return '-'.join(ret)
+
+def write_indicator_for_site_repo(metadata):
+    indicator = metadata['indicator'].replace('.', '-')
+    output = {
+        'indicator': metadata['indicator'],
+        'layout': 'indicator',
+        'permalink': '/' + indicator + '/',
+    }
+
+    # Write to a string first because I want to override trailing dots
+    yaml_string = yaml.dump(output,
+        default_flow_style=False,
+        explicit_start=True,
+        explicit_end=True)
+    # Create the place to put the files.
+    folder = 'move-to-site-repo'
+    os.makedirs(folder, exist_ok=True)
+    filepath = os.path.join(folder, indicator + '.md')
+    with open(filepath, 'w') as outfile:
+        outfile.write(yaml_string.replace("\n...\n", "\n---\n"))
+
+# Is this indicator national or global?
+def get_national_or_global(row):
+    # Indicators can have global and/or national names. Prefer national.
+    if not pd.isna(row['national']):
+        return 'national'
+    if not pd.isna(row['global']):
+        return 'global'
+    # Otherwise this is not an indicator start row.
+    return False
+
+# Get the name of an indicator.
+def get_indicator_name(row, national_or_global, indicator_id):
+    name = row[national_or_global]
+    name = name.replace(indicator_id, '')
+    return name.strip()
+
+# Is this row the beginning of an indicator? If so, return the indicator id.
+def is_indicator_start(row):
+    # At this point we don't know yet whether this is global or national. So
+    # we have to look in both columns. We prefer national.
+    if pd.isna(row['global']) and pd.isna(row['national']) and pd.isna(row['id']):
+        return False
+    else:
+        # First look in a dedicated column for it.
+        id = indicator_id(row['id'])
+        if not id:
+            id = indicator_id(row['national'])
+        if not id:
+            id = indicator_id(row['global'])
+        if id:
+            return id
+        else:
+            return False
+
+# Is this row the beginning of a disaggregation category? If so, return that
+# category.
+def is_disaggregation_start(row, indicator_id):
+    # Disaggregation categories never have yearly data.
+    if has_yearly_data(row):
+        return False
+    # Disaggregation categories should not have any metadata. (Though some do,
+    # so commenting this out.)
+    #if has_metadata(row):
+    #    return False
+    # Disaggregation categories will either be under 'global' or 'national'.
+    national_or_global = indicator_map[indicator_id]['national_or_global']
+    disaggregation = row[national_or_global]
+    if pd.isnull(disaggregation):
+        return False
+    # Finally check against our disaggregations table. If we don't know about
+    # this one, ignore it.
+    if isinstance(disaggregation, str):
+        disaggregation = disaggregation.strip()
+    if not is_valid_disaggregation(disaggregation):
+        return False
+    return disaggregation
+
+def isLatin(s):
+    try:
+        s.encode(encoding='utf-8').decode('ascii')
+    except UnicodeDecodeError:
+        return False
+    else:
+        return True
+
+# Does this row have any metadata?
+def has_metadata(row):
+    if row[METADATA].isnull().all():
+        return False
+    return True
+
+# Is this row a set of yearly data?
+def has_yearly_data(row):
+    if row[YEARS].isnull().all():
+        return False
+    return True
+
+# Convert the indicator id into a goal id.
+def get_indicator_goal(id):
+    return id.split('.')[0]
+
+# Convert the indicator id into a target id.
+def get_indicator_target(id):
+    return '.'.join(id.split('.')[:-1])
+
+# Is there any source information?
+def has_source_info(row):
+    if pd.isna(row['implementation']) and pd.isna(row['compilation']) and pd.isna(row['source']):
+        return False
+    return True
+
+# Convert an indicator id into a translation key.
+def get_translation_key(indicator_id):
+    return 'name-' + indicator_id.replace('.', '-')
+
+# Clean up rows of data.
+def clean_row(row):
+    # TODO: Remove non-numeric values from year columns.
+    remove = ['...','(',')','*','…','-']
+    convert = {',': '.'}
+    for year in YEARS:
+        if not pd.isnull(row[year]):
+            if isinstance(row[year], str):
+                val = row[year]
+                for item in remove:
+                    val = val.replace(item, '')
+                for find in convert:
+                    val = val.replace(find, convert[find])
+                val = val.strip()
+                # If we are left with an empty string, change to null.
+                if val == '':
+                    val = None
+                # Finally convert numbers to actual numbers.
+                if val != None:
+                    converted_val = val
+                    # Floats.
+                    try:
+                        converted_val = float(val)
+                        val = converted_val
+                    except ValueError:
+                        pass
+                    try:
+                        converted_val = int(val)
+                        val = converted_val
+                    except:
+                        pass
+                # At this point, if it is still a string, kill it.
+                if isinstance(val, str):
+                    val = None
+                row[year] = val
+    return row
+
+# Create rough data structure from an Excel sheet.
+def parse_excel_sheet(sheet):
+    global indicator_map
+    df = read_excel(sheet)
+    # Figure out where each indicator starts and set the ID.
+    current_id = False
+    current_disaggregations = []
+    found_all_disaggregations = False
+    round_these_columns = ['customisation','classification','availability']
+    fix_empty_values = ['source','unit','availability','customisation','classification','implementation','compilation']
+    for index, row in df.iterrows():
+
+        # Skip blank rows.
+        if row.isnull().all():
+            continue
+
+        # Clean up rows.
+        row = clean_row(row)
+
+        # Is this the beginning of an indicator?
+        indicator_start = is_indicator_start(row)
+        if indicator_start:
+            # Round some columns by converting them to ints.
+            for column in round_these_columns:
+                if isinstance(row[column], float) and not pd.isnull(row[column]):
+                    row[column] = int(row[column])
+            # Fix empty values in these columns.
+            for column in fix_empty_values:
+                if pd.isnull(row[column]):
+                    row[column] = None
+                elif isinstance(row[column], str):
+                    row[column] = row[column].strip()
+
+            current_id = indicator_start
+            # Reset some disaggregation-related variables.
+            current_disaggregations = []
+            found_all_disaggregations = False
+            # Is this is in the national or global column?
+            national_or_global = get_national_or_global(row)
+            # Not already there, initialize the data about this one.
+            if current_id not in indicator_map:
+                name_translation_key = get_translation_key(current_id)
+                name_translation = 'meta.' + name_translation_key
+                name = get_indicator_name(row, national_or_global, current_id)
+                # Output some text to copy into a translation file.
+                print(name_translation_key + ': ' + name)
+                tags = []
+                # Give it a tag if the customisation value is more than 1.
+                if isinstance(row['customisation'], int) and row['customisation'] > 1:
+                    tag = 'meta.customisation-' + str(row['customisation'])
+                    tags.append(tag)
+                indicator_map[current_id] = {
+                    'national_or_global': national_or_global,
+                    'meta': {
+                        'indicator': current_id,
+                        'sdg_goal': get_indicator_goal(current_id),
+                        'target_id': get_indicator_target(current_id),
+                        'indicator_name': name_translation,
+                        'graph_title': name_translation,
+                        'indicator_sort_order': get_indicator_sort_order(current_id),
+                        'source_active_1': has_source_info(row),
+                        'source_data_1': row['source'],
+                        'source_compilation_1': row['compilation'],
+                        'source_implementation_1': row['implementation'],
+                        'customisation': row['customisation'],
+                        'classification': row['classification'],
+                        'availability': row['availability'],
+                        'computation_units': row['unit'],
+                        'tags': tags
+                    },
+                    'data': []
+                }
+                # Set the reporting status according to the presence of data.
+                if not has_yearly_data(row):
+                    indicator_map[current_id]['meta']['reporting_status'] = 'notstarted'
+                else:
+                    indicator_map[current_id]['meta']['reporting_status'] = 'complete'
+
+
+            # In some cases, there is data in the starting row. We assume
+            # in these cases that there is no disaggregation.
+            if has_yearly_data(row):
+                data = {
+                    'disaggregations': [],
+                    'years': row[YEARS]
+                }
+                indicator_map[current_id]['data'].append(data)
+
+        # Otherwise, is this more data for an indicator?
+        elif current_id:
+            # First look up some info about this indicator.
+            national_or_global = indicator_map[current_id]['national_or_global']
+            # Does this row indicate a disaggregation category?
+            disagg_start = is_disaggregation_start(row, current_id)
+            if disagg_start:
+                # If we had previous found all categories (in other words,
+                # we encountered a value after finding some categories) then
+                # we start a new list here.
+                if found_all_disaggregations:
+                    current_disaggregations = [disagg_start]
+                    found_all_disaggregations = False
+                # Otherwise, we append to the current list.
+                else:
+                    current_disaggregations.append(disagg_start)
+                continue
+
+            # If we get to this point we assume everything is yearly data.
+            # If there is no yearly data, we won't know how to understand
+            # what this row is.
+            if not has_yearly_data(row):
+                continue
+
+            # Now we are looking at a row with values. This means that all
+            # the disaggregation categories have been found.
+            found_all_disaggregations = True
+            row_disaggregation = current_disaggregations.copy()
+            if not pd.isnull(row[national_or_global]):
+                # Add this disaggregation, if any.
+                if is_valid_disaggregation(row[national_or_global]):
+                    # Strip whitespace if it is a string.
+                    disagg_value = row[national_or_global]
+                    if isinstance(disagg_value, str):
+                        disagg_value = disagg_value.strip()
+                    row_disaggregation.append(disagg_value)
+            data = {
+                'disaggregations': row_disaggregation,
+                'years': row[YEARS]
+            }
+            indicator_map[current_id]['data'].append(data)
+
+# Check a string is a valid disaggregation.
+def is_valid_disaggregation(disagg):
+    if disagg is None or not disagg:
+        return False
+    if disagg not in disagg_table:
+        return False
+    return True
+
+# Convert list of disaggregations into a category:value structure.
+def build_disaggregation_dict(disagg_list):
+    disagg_dict = {}
+    for disagg in disagg_list:
+        category = disagg_table[disagg]
+        disagg_dict[category] = disagg
+    return disagg_dict
+
+# Output the metadata.
+def output_meta(indicator_id):
+    # First some defaults for indicators that don't exist yet.
+    defaults = {
+        'data_non_statistical': False,
+        'graph_type': 'line',
+    }
+    required = {
+        'published': True,
+        'reporting_status': 'complete',
+        'national_geographical_coverage': 'Казахстан',
+    }
+    # Get the existing metadata, if any.
+    filename = indicator_id.replace('.', '-') + '.md'
+    filepath = os.path.join(FOLDER_METADATA_YAML, filename)
+    metadata = defaults.copy()
+    if os.path.isfile(filepath):
+        metadata = get_metadata(filepath)
+
+    metadata.update(required)
+    metadata.update(indicator_map[indicator_id]['meta'])
+
+    yaml_string = yaml.dump(metadata,
+        default_flow_style=False,
+        explicit_start=True,
+        explicit_end=True,
+        allow_unicode=True)
+    with open(filepath, 'w') as outfile:
+        outfile.write(yaml_string.replace("\n...\n", "\n---\n"))
+
+    write_indicator_for_site_repo(metadata)
+
+# Output data.
+def output_data(indicator_id):
+    indicator_info = indicator_map[indicator_id]
+    csv_rows = []
+    all_disaggregations = []
+    for series in indicator_info['data']:
+        disaggs = build_disaggregation_dict(series['disaggregations'])
+        for category in disaggs:
+            if (category not in all_disaggregations):
+                all_disaggregations.append(category)
+        for year, value in series['years'].iteritems():
+            # Filter out some invalid data.
+            if not year.isdigit():
+                continue
+            if pd.isnull(value):
+                continue
+            if isinstance(value, str):
+                continue
+            csv_row = get_csv_row(year, disaggs, value, indicator_info['meta']['computation_units'])
+            csv_rows.append(csv_row)
+
+    csv_df = blank_dataframe(all_disaggregations)
+    for row in csv_rows:
+        csv_df = csv_df.append(row, ignore_index=True)
+
+    if not csv_df.empty:
+        write_csv(indicator_id, csv_df)
+
+# Process indicator.
+def process_indicator(indicator_id):
+    output_data(indicator_id)
+    output_meta(indicator_id)
+
+# Main function.
+def main():
+    """Tidy up all of the indicator CSVs in the data folder."""
+
+    global disagg_table
+    status = True
+
+    # Read the disaggregation table.
+    disaggs = read_disaggregations()
+    disaggs['value'] = disaggs['value'].str.strip()
+    disaggs['category'] = disaggs['category'].str.strip()
+    disagg_table = dict(zip(disaggs.value, disaggs.category))
+
+    # Sheets in the Excel file.
+    sheets = ['SDG 1','SDG 2','SDG 3','SDG 4','SDG 5','SDG 6','SDG 7','SDG 8','SDG 9','SDG 10','SDG 11','SDG 12','SDG 13','SDG 14','SDG 15','SDG 16','SDG 17']
+
+    # Get the source data, one sheet at a time.
+    for sheet in sheets:
+        parse_excel_sheet(sheet)
+        # Just one sheet for now.
+        #break
+
+    # Now we have rough data, and need to clean/fix it.
+    for indicator_id in indicator_map:
+        process_indicator(indicator_id)
+
+    return status
+
+if __name__ == '__main__':
+    if not main():
+        raise RuntimeError("Failed tidy conversion")
+    else:
+        #print(indicators)
+        print("Success")
