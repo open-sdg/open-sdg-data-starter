@@ -1,5 +1,5 @@
 Year,Region,City,GeoCode,Value
-2013,Kyrgyzstan,,KGZ,14.9
+2013,,,138,14.9
 2013,Batken oblast,,,13.3
 2013,Djalal-Abad oblast,,,13.2
 2013,Ysyk-Kul oblast,,,11.3
@@ -9,7 +9,7 @@ Year,Region,City,GeoCode,Value
 2013,Chui oblast,,,14.5
 2013,,Bishkek city,,22.9
 2013,,Osh city,,55.6
-2014,Kyrgyzstan,,KGZ,15.6
+2014,,,138,15.6
 2014,Batken oblast,,,12.5
 2014,Djalal-Abad oblast,,,14.4
 2014,Ysyk-Kul oblast,,,9.3
@@ -19,7 +19,7 @@ Year,Region,City,GeoCode,Value
 2014,Chui oblast,,,13.4
 2014,,Bishkek city,,26
 2014,,Osh city,,64
-2015,Kyrgyzstan,,KGZ,14
+2015,,,138,14
 2015,Batken oblast,,,11.2
 2015,Djalal-Abad oblast,,,12.7
 2015,Ysyk-Kul oblast,,,12.2
@@ -29,7 +29,7 @@ Year,Region,City,GeoCode,Value
 2015,Chui oblast,,,12.6
 2015,,Bishkek city,,23
 2015,,Osh city,,62
-2016,Kyrgyzstan,,KGZ,12.7
+2016,,,138,12.7
 2016,Batken oblast,,,10.6
 2016,Djalal-Abad oblast,,,11.5
 2016,Ysyk-Kul oblast,,,8.4
@@ -39,7 +39,7 @@ Year,Region,City,GeoCode,Value
 2016,Chui oblast,,,10.4
 2016,,Bishkek city,,22.8
 2016,,Osh city,,50.2
-2017,Kyrgyzstan,,KGZ,11.8
+2017,,,138,11.8
 2017,Batken oblast,,,10.6
 2017,Djalal-Abad oblast,,,9.9
 2017,Ysyk-Kul oblast,,,9.4
