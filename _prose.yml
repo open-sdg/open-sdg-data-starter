@@ -133,12 +133,12 @@ prose:
             element: select
             label: "Reporting status"
             options:
-              - name: 'notstarted'
-                value: 'notstarted'
-              - name: 'inprogress'
-                value: 'inprogress'
               - name: 'complete'
                 value: 'complete'
+              - name: 'inprogress'
+                value: 'inprogress'
+              - name: 'notstarted'
+                value: 'notstarted'
             scope: data
       - name: data_non_statistical
         field:
@@ -401,7 +401,7 @@ prose:
             element: checkbox
             label: Source 4 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_4
         field:
             element: text
@@ -462,13 +462,13 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_4
-## Source 5
+      ## Source 5
       - name: source_active_5
         field:
             element: checkbox
             label: Source 5 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_5
         field:
             element: text
@@ -529,13 +529,13 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_5
-## Source 6
+      ## Source 6
       - name: source_active_6
         field:
             element: checkbox
             label: Source 6 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_6
         field:
             element: text
