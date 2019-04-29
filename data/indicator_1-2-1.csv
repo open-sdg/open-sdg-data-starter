@@ -1,7 +1,532 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Oblast,Sex,Urbanisation,Value
+2010,,,,33.7
+2013,,,,37
+2014,,,,30.6
+2015,,,,32.1
+2016,,,,25.4
+2017,,,,25.6
+2010,,Male,,32.7
+2013,,Male,,36.5
+2014,,Male,,29.7
+2015,,Male,,31.5
+2016,,Male,,25
+2017,,Male,,25
+2010,,Female,,34.8
+2013,,Female,,37.5
+2014,,Female,,31.5
+2015,,Female,,32.7
+2016,,Female,,25.7
+2017,,Female,,26.3
+2010,Batken oblast,,,33.6
+2013,Batken oblast,,,53.9
+2014,Batken oblast,,,40.7
+2015,Batken oblast,,,41.2
+2016,Batken oblast,,,37
+2017,Batken oblast,,,40.5
+2010,Batken oblast,Male,,31.9
+2013,Batken oblast,Male,,53.6
+2014,Batken oblast,Male,,39
+2015,Batken oblast,Male,,40.9
+2016,Batken oblast,Male,,36.1
+2017,Batken oblast,Male,,39.6
+2010,Batken oblast,Female,,35.6
+2013,Batken oblast,Female,,54.1
+2014,Batken oblast,Female,,42.4
+2015,Batken oblast,Female,,41.4
+2016,Batken oblast,Female,,38
+2017,Batken oblast,Female,,41.5
+2010,Djalal-Abad oblast  ,,,44.7
+2013,Djalal-Abad oblast  ,,,46.4
+2014,Djalal-Abad oblast  ,,,46.4
+2015,Djalal-Abad oblast  ,,,45.1
+2016,Djalal-Abad oblast  ,,,32.2
+2017,Djalal-Abad oblast  ,,,32.6
+2010,Djalal-Abad oblast  ,Male,,43.7
+2013,Djalal-Abad oblast  ,Male,,47.4
+2014,Djalal-Abad oblast  ,Male,,47
+2015,Djalal-Abad oblast  ,Male,,45.2
+2016,Djalal-Abad oblast  ,Male,,33.1
+2017,Djalal-Abad oblast  ,Male,,34
+2010,Djalal-Abad oblast  ,Female,,45.8
+2013,Djalal-Abad oblast  ,Female,,45.5
+2014,Djalal-Abad oblast  ,Female,,45.8
+2015,Djalal-Abad oblast  ,Female,,44.9
+2016,Djalal-Abad oblast  ,Female,,31.4
+2017,Djalal-Abad oblast  ,Female,,31.1
+2010,Ysyk-Kul oblast ,,,38
+2013,Ysyk-Kul oblast ,,,39.5
+2014,Ysyk-Kul oblast ,,,26
+2015,Ysyk-Kul oblast ,,,28.9
+2016,Ysyk-Kul oblast ,,,24.7
+2017,Ysyk-Kul oblast ,,,24.2
+2010,Ysyk-Kul oblast ,Male,,39
+2013,Ysyk-Kul oblast ,Male,,40.4
+2014,Ysyk-Kul oblast ,Male,,26.4
+2015,Ysyk-Kul oblast ,Male,,29.1
+2016,Ysyk-Kul oblast ,Male,,24.7
+2017,Ysyk-Kul oblast ,Male,,24.3
+2010,Ysyk-Kul oblast ,Female,,36.9
+2013,Ysyk-Kul oblast ,Female,,38.5
+2014,Ysyk-Kul oblast ,Female,,25.7
+2015,Ysyk-Kul oblast ,Female,,28.7
+2016,Ysyk-Kul oblast ,Female,,24.7
+2017,Ysyk-Kul oblast ,Female,,24.1
+2010,Naryn oblast,,,53.5
+2013,Naryn oblast,,,43.8
+2014,Naryn oblast,,,30.6
+2015,Naryn oblast,,,38
+2016,Naryn oblast,,,37.8
+2017,Naryn oblast,,,29.2
+2010,Naryn oblast,Male,,53.4
+2013,Naryn oblast,Male,,44.8
+2014,Naryn oblast,Male,,32.4
+2015,Naryn oblast,Male,,39.5
+2016,Naryn oblast,Male,,39.6
+2017,Naryn oblast,Male,,31.2
+2010,Naryn oblast,Female,,53.7
+2013,Naryn oblast,Female,,42.7
+2014,Naryn oblast,Female,,28.6
+2015,Naryn oblast,Female,,36.4
+2016,Naryn oblast,Female,,35.9
+2017,Naryn oblast,Female,,27.1
+2010,Osh oblast,,,41.9
+2013,Osh oblast,,,43.4
+2014,Osh oblast,,,31.7
+2015,Osh oblast,,,28.9
+2016,Osh oblast,,,22
+2017,Osh oblast,,,14.3
+2010,Osh oblast,Male,,40.6
+2013,Osh oblast,Male,,42.7
+2014,Osh oblast,Male,,30.5
+2015,Osh oblast,Male,,28.4
+2016,Osh oblast,Male,,21.8
+2017,Osh oblast,Male,,12.9
+2010,Osh oblast,Female,,43.2
+2013,Osh oblast,Female,,44.2
+2014,Osh oblast,Female,,33.1
+2015,Osh oblast,Female,,29.5
+2016,Osh oblast,Female,,22.3
+2017,Osh oblast,Female,,15.7
+2010,Talas oblast,,,42.3
+2013,Talas oblast,,,23.1
+2014,Talas oblast,,,19
+2015,Talas oblast,,,21.5
+2016,Talas oblast,,,18.1
+2017,Talas oblast,,,20.7
+2010,Talas oblast,Male,,44.3
+2013,Talas oblast,Male,,23.3
+2014,Talas oblast,Male,,19.7
+2015,Talas oblast,Male,,22.6
+2016,Talas oblast,Male,,19.1
+2017,Talas oblast,Male,,21.4
+2010,Talas oblast,Female,,40.1
+2013,Talas oblast,Female,,22.8
+2014,Talas oblast,Female,,18.4
+2015,Talas oblast,Female,,20.4
+2016,Talas oblast,Female,,17.1
+2017,Talas oblast,Female,,19.9
+2010,Chui oblast,,,21.9
+2013,Chui oblast,,,23.6
+2014,Chui oblast,,,21.6
+2015,Chui oblast,,,24.8
+2016,Chui oblast,,,30.3
+2017,Chui oblast,,,33.3
+2010,Chui oblast,Male,,21.8
+2013,Chui oblast,Male,,23.5
+2014,Chui oblast,Male,,20.8
+2015,Chui oblast,Male,,24.2
+2016,Chui oblast,Male,,29.8
+2017,Chui oblast,Male,,32.3
+2010,Chui oblast,Female,,21.9
+2013,Chui oblast,Female,,23.7
+2014,Chui oblast,Female,,22.4
+2015,Chui oblast,Female,,25.4
+2016,Chui oblast,Female,,30.9
+2017,Chui oblast,Female,,34.4
+2010,Bishkek city,,,7.9
+2013,Bishkek city,,,20.4
+2014,Bishkek city,,,17.6
+2015,Bishkek city,,,23.5
+2016,Bishkek city,,,9.8
+2017,Bishkek city,,,15.9
+2010,Bishkek city,Male,,7.3
+2013,Bishkek city,Male,,18.4
+2014,Bishkek city,Male,,15.8
+2015,Bishkek city,Male,,22.2
+2016,Bishkek city,Male,,8.9
+2017,Bishkek city,Male,,14.3
+2010,Bishkek city,Female,,8.7
+2013,Bishkek city,Female,,22.8
+2014,Bishkek city,Female,,19.9
+2015,Bishkek city,Female,,25.2
+2016,Bishkek city,Female,,10.9
+2017,Bishkek city,Female,,17.9
+2013,Osh city,,,40.9
+2014,Osh city,,,33.4
+2015,Osh city,,,38.3
+2016,Osh city,,,24.6
+2017,Osh city,,,33.5
+2013,Osh city,Male,,40.2
+2014,Osh city,Male,,32
+2015,Osh city,Male,,35.8
+2016,Osh city,Male,,23.2
+2017,Osh city,Male,,30.9
+2013,Osh city,Female,,41.6
+2014,Osh city,Female,,35
+2015,Osh city,Female,,41
+2016,Osh city,Female,,26.2
+2017,Osh city,Female,,36.4
+2010,,,Urban,23.6
+2013,,,Urban,28.5
+2014,,,Urban,26.9
+2015,,,Urban,29.3
+2016,,,Urban,18.6
+2017,,,Urban,20.4
+2010,,Male,Urban,22.1
+2013,,Male,Urban,27.3
+2014,,Male,Urban,25.3
+2015,,Male,Urban,28.3
+2016,,Male,Urban,18.3
+2017,,Male,Urban,19.6
+2010,,Female,Urban,25.4
+2013,,Female,Urban,30
+2014,,Female,Urban,28.7
+2015,,Female,Urban,30.5
+2016,,Female,Urban,19.1
+2017,,Female,Urban,21.5
+2010,Batken oblast,,Urban,26.6
+2013,Batken oblast,,Urban,39.6
+2014,Batken oblast,,Urban,24.6
+2015,Batken oblast,,Urban,28.3
+2016,Batken oblast,,Urban,25.7
+2017,Batken oblast,,Urban,32.4
+2010,Batken oblast,Male,Urban,26.6
+2013,Batken oblast,Male,Urban,37.9
+2014,Batken oblast,Male,Urban,22.8
+2015,Batken oblast,Male,Urban,27.5
+2016,Batken oblast,Male,Urban,25.2
+2017,Batken oblast,Male,Urban,30.6
+2010,Batken oblast,Female,Urban,26.7
+2013,Batken oblast,Female,Urban,41.4
+2014,Batken oblast,Female,Urban,26.7
+2015,Batken oblast,Female,Urban,29.4
+2016,Batken oblast,Female,Urban,26.4
+2017,Batken oblast,Female,Urban,34.6
+2010,Djalal-Abad oblast  ,,Urban,32.7
+2013,Djalal-Abad oblast  ,,Urban,46
+2014,Djalal-Abad oblast  ,,Urban,54.2
+2015,Djalal-Abad oblast  ,,Urban,49
+2016,Djalal-Abad oblast  ,,Urban,36.3
+2017,Djalal-Abad oblast  ,,Urban,25.5
+2010,Djalal-Abad oblast  ,Male,Urban,33.2
+2013,Djalal-Abad oblast  ,Male,Urban,47.6
+2014,Djalal-Abad oblast  ,Male,Urban,55
+2015,Djalal-Abad oblast  ,Male,Urban,50.3
+2016,Djalal-Abad oblast  ,Male,Urban,39.7
+2017,Djalal-Abad oblast  ,Male,Urban,28.7
+2010,Djalal-Abad oblast  ,Female,Urban,32.2
+2013,Djalal-Abad oblast  ,Female,Urban,44.4
+2014,Djalal-Abad oblast  ,Female,Urban,53.2
+2015,Djalal-Abad oblast  ,Female,Urban,47.5
+2016,Djalal-Abad oblast  ,Female,Urban,32.4
+2017,Djalal-Abad oblast  ,Female,Urban,21.8
+2010,Ysyk-Kul oblast ,,Urban,26.4
+2013,Ysyk-Kul oblast ,,Urban,18.5
+2014,Ysyk-Kul oblast ,,Urban,15.9
+2015,Ysyk-Kul oblast ,,Urban,18.8
+2016,Ysyk-Kul oblast ,,Urban,15.1
+2017,Ysyk-Kul oblast ,,Urban,14.1
+2010,Ysyk-Kul oblast ,Male,Urban,26.3
+2013,Ysyk-Kul oblast ,Male,Urban,18.2
+2014,Ysyk-Kul oblast ,Male,Urban,16.1
+2015,Ysyk-Kul oblast ,Male,Urban,19.2
+2016,Ysyk-Kul oblast ,Male,Urban,15.2
+2017,Ysyk-Kul oblast ,Male,Urban,14.7
+2010,Ysyk-Kul oblast ,Female,Urban,26.5
+2013,Ysyk-Kul oblast ,Female,Urban,18.9
+2014,Ysyk-Kul oblast ,Female,Urban,15.7
+2015,Ysyk-Kul oblast ,Female,Urban,18.3
+2016,Ysyk-Kul oblast ,Female,Urban,14.9
+2017,Ysyk-Kul oblast ,Female,Urban,13.4
+2010,Naryn oblast,,Urban,39.3
+2013,Naryn oblast,,Urban,42.5
+2014,Naryn oblast,,Urban,26.4
+2015,Naryn oblast,,Urban,27.5
+2016,Naryn oblast,,Urban,27.7
+2017,Naryn oblast,,Urban,22.3
+2010,Naryn oblast,Male,Urban,40.4
+2013,Naryn oblast,Male,Urban,41.5
+2014,Naryn oblast,Male,Urban,26.1
+2015,Naryn oblast,Male,Urban,26.4
+2016,Naryn oblast,Male,Urban,28
+2017,Naryn oblast,Male,Urban,21.9
+2010,Naryn oblast,Female,Urban,38
+2013,Naryn oblast,Female,Urban,43.5
+2014,Naryn oblast,Female,Urban,26.8
+2015,Naryn oblast,Female,Urban,28.8
+2016,Naryn oblast,Female,Urban,27.4
+2017,Naryn oblast,Female,Urban,22.8
+2010,Osh oblast,,Urban,47
+2013,Osh oblast,,Urban,59.9
+2014,Osh oblast,,Urban,45.8
+2015,Osh oblast,,Urban,50.2
+2016,Osh oblast,,Urban,35.1
+2017,Osh oblast,,Urban,18.1
+2010,Osh oblast,Male,Urban,43
+2013,Osh oblast,Male,Urban,61.3
+2014,Osh oblast,Male,Urban,47.6
+2015,Osh oblast,Male,Urban,50.8
+2016,Osh oblast,Male,Urban,36.2
+2017,Osh oblast,Male,Urban,18.6
+2010,Osh oblast,Female,Urban,51.2
+2013,Osh oblast,Female,Urban,58.2
+2014,Osh oblast,Female,Urban,43.7
+2015,Osh oblast,Female,Urban,49.4
+2016,Osh oblast,Female,Urban,33.8
+2017,Osh oblast,Female,Urban,17.5
+2010,Talas oblast,,Urban,34.3
+2013,Talas oblast,,Urban,6.4
+2014,Talas oblast,,Urban,10.7
+2015,Talas oblast,,Urban,10.7
+2016,Talas oblast,,Urban,12.4
+2017,Talas oblast,,Urban,14.4
+2010,Talas oblast,Male,Urban,36.5
+2013,Talas oblast,Male,Urban,7
+2014,Talas oblast,Male,Urban,10.3
+2015,Talas oblast,Male,Urban,9.9
+2016,Talas oblast,Male,Urban,11.6
+2017,Talas oblast,Male,Urban,14.1
+2010,Talas oblast,Female,Urban,31.9
+2013,Talas oblast,Female,Urban,5.7
+2014,Talas oblast,Female,Urban,11.1
+2015,Talas oblast,Female,Urban,11.6
+2016,Talas oblast,Female,Urban,13.3
+2017,Talas oblast,Female,Urban,14.8
+2010,Chui oblast,,Urban,24.2
+2013,Chui oblast,,Urban,12
+2014,Chui oblast,,Urban,18.6
+2015,Chui oblast,,Urban,15.3
+2016,Chui oblast,,Urban,16
+2017,Chui oblast,,Urban,12.6
+2010,Chui oblast,Male,Urban,22.1
+2013,Chui oblast,Male,Urban,11
+2014,Chui oblast,Male,Urban,15.7
+2015,Chui oblast,Male,Urban,15.5
+2016,Chui oblast,Male,Urban,15.3
+2017,Chui oblast,Male,Urban,11.9
+2010,Chui oblast,Female,Urban,26.7
+2013,Chui oblast,Female,Urban,13.3
+2014,Chui oblast,Female,Urban,22.3
+2015,Chui oblast,Female,Urban,15.1
+2016,Chui oblast,Female,Urban,17
+2017,Chui oblast,Female,Urban,13.6
+2010,Bishkek city,,Urban,7.9
+2013,Bishkek city,,Urban,20.4
+2014,Bishkek city,,Urban,17.6
+2015,Bishkek city,,Urban,23.5
+2016,Bishkek city,,Urban,9.8
+2017,Bishkek city,,Urban,15.9
+2010,Bishkek city,Male,Urban,7.3
+2013,Bishkek city,Male,Urban,18.4
+2014,Bishkek city,Male,Urban,15.8
+2015,Bishkek city,Male,Urban,22.2
+2016,Bishkek city,Male,Urban,8.9
+2017,Bishkek city,Male,Urban,14.3
+2010,Bishkek city,Female,Urban,8.7
+2013,Bishkek city,Female,Urban,22.8
+2014,Bishkek city,Female,Urban,19.9
+2015,Bishkek city,Female,Urban,25.2
+2016,Bishkek city,Female,Urban,10.9
+2017,Bishkek city,Female,Urban,17.9
+2013,Osh city,,Urban,40.9
+2014,Osh city,,Urban,33.4
+2015,Osh city,,Urban,38.3
+2016,Osh city,,Urban,24.6
+2017,Osh city,,Urban,33.5
+2013,Osh city,Male,Urban,40.2
+2014,Osh city,Male,Urban,32
+2015,Osh city,Male,Urban,35.8
+2016,Osh city,Male,Urban,23.2
+2017,Osh city,Male,Urban,30.9
+2013,Osh city,Female,Urban,41.6
+2014,Osh city,Female,Urban,35
+2015,Osh city,Female,Urban,41
+2016,Osh city,Female,Urban,26.2
+2017,Osh city,Female,Urban,36.4
+2010,,,Rural,39.5
+2013,,,Rural,41.4
+2014,,,Rural,32.6
+2015,,,Rural,33.6
+2016,,,Rural,29
+2017,,,Rural,28.4
+2010,,Male,Rural,39.2
+2013,,Male,Rural,41.6
+2014,,Male,Rural,32.3
+2015,,Male,Rural,33.4
+2016,,Male,Rural,29
+2017,,Male,Rural,28.1
+2010,,Female,Rural,39.9
+2013,,Female,Rural,41.1
+2014,,Female,Rural,33
+2015,,Female,Rural,33.8
+2016,,Female,Rural,29.1
+2017,,Female,Rural,28.7
+2010,Batken oblast,,Rural,35.8
+2013,Batken oblast,,Rural,58.2
+2014,Batken oblast,,Rural,47.5
+2015,Batken oblast,,Rural,46.6
+2016,Batken oblast,,Rural,41.9
+2017,Batken oblast,,Rural,43.9
+2010,Batken oblast,Male,Rural,33.6
+2013,Batken oblast,Male,Rural,58.7
+2014,Batken oblast,Male,Rural,46.5
+2015,Batken oblast,Male,Rural,47.3
+2016,Batken oblast,Male,Rural,41.3
+2017,Batken oblast,Male,Rural,43.8
+2010,Batken oblast,Female,Rural,38.4
+2013,Batken oblast,Female,Rural,57.8
+2014,Batken oblast,Female,Rural,48.5
+2015,Batken oblast,Female,Rural,46
+2016,Batken oblast,Female,Rural,42.5
+2017,Batken oblast,Female,Rural,44.1
+2010,Djalal-Abad oblast  ,,Rural,49.7
+2013,Djalal-Abad oblast  ,,Rural,46.5
+2014,Djalal-Abad oblast  ,,Rural,43.3
+2015,Djalal-Abad oblast  ,,Rural,43.8
+2016,Djalal-Abad oblast  ,,Rural,30.9
+2017,Djalal-Abad oblast  ,,Rural,35
+2010,Djalal-Abad oblast  ,Male,Rural,48.1
+2013,Djalal-Abad oblast  ,Male,Rural,47.3
+2014,Djalal-Abad oblast  ,Male,Rural,43.7
+2015,Djalal-Abad oblast  ,Male,Rural,43.5
+2016,Djalal-Abad oblast  ,Male,Rural,30.8
+2017,Djalal-Abad oblast  ,Male,Rural,35.9
+2010,Djalal-Abad oblast  ,Female,Rural,51.3
+2013,Djalal-Abad oblast  ,Female,Rural,45.7
+2014,Djalal-Abad oblast  ,Female,Rural,42.9
+2015,Djalal-Abad oblast  ,Female,Rural,44.1
+2016,Djalal-Abad oblast  ,Female,Rural,31.1
+2017,Djalal-Abad oblast  ,Female,Rural,34
+2010,Ysyk-Kul oblast ,,Rural,42.7
+2013,Ysyk-Kul oblast ,,Rural,47.7
+2014,Ysyk-Kul oblast ,,Rural,30
+2015,Ysyk-Kul oblast ,,Rural,32.9
+2016,Ysyk-Kul oblast ,,Rural,28.6
+2017,Ysyk-Kul oblast ,,Rural,28.3
+2010,Ysyk-Kul oblast ,Male,Rural,44.3
+2013,Ysyk-Kul oblast ,Male,Rural,49.8
+2014,Ysyk-Kul oblast ,Male,Rural,30.8
+2015,Ysyk-Kul oblast ,Male,Rural,33.4
+2016,Ysyk-Kul oblast ,Male,Rural,28.9
+2017,Ysyk-Kul oblast ,Male,Rural,28.5
+2010,Ysyk-Kul oblast ,Female,Rural,41
+2013,Ysyk-Kul oblast ,Female,Rural,45.6
+2014,Ysyk-Kul oblast ,Female,Rural,29.2
+2015,Ysyk-Kul oblast ,Female,Rural,32.4
+2016,Ysyk-Kul oblast ,Female,Rural,28.3
+2017,Ysyk-Kul oblast ,Female,Rural,28.1
+2010,Naryn oblast,,Rural,56.1
+2013,Naryn oblast,,Rural,44
+2014,Naryn oblast,,Rural,31.2
+2015,Naryn oblast,,Rural,39.7
+2016,Naryn oblast,,Rural,39.5
+2017,Naryn oblast,,Rural,30.4
+2010,Naryn oblast,Male,Rural,55.8
+2013,Naryn oblast,Male,Rural,45.3
+2014,Naryn oblast,Male,Rural,33.4
+2015,Naryn oblast,Male,Rural,41.7
+2016,Naryn oblast,Male,Rural,41.5
+2017,Naryn oblast,Male,Rural,32.7
+2010,Naryn oblast,Female,Rural,56.4
+2013,Naryn oblast,Female,Rural,42.5
+2014,Naryn oblast,Female,Rural,28.9
+2015,Naryn oblast,Female,Rural,37.6
+2016,Naryn oblast,Female,Rural,37.3
+2017,Naryn oblast,Female,Rural,27.8
+2010,Osh oblast,,Rural,40
+2013,Osh oblast,,Rural,42
+2014,Osh oblast,,Rural,30.6
+2015,Osh oblast,,Rural,27.2
+2016,Osh oblast,,Rural,21
+2017,Osh oblast,,Rural,14
+2010,Osh oblast,Male,Rural,39.7
+2013,Osh oblast,Male,Rural,41.1
+2014,Osh oblast,Male,Rural,29
+2015,Osh oblast,Male,Rural,26.5
+2016,Osh oblast,Male,Rural,20.6
+2017,Osh oblast,Male,Rural,12.5
+2010,Osh oblast,Female,Rural,40.2
+2013,Osh oblast,Female,Rural,43.1
+2014,Osh oblast,Female,Rural,32.3
+2015,Osh oblast,Female,Rural,28
+2016,Osh oblast,Female,Rural,21.4
+2017,Osh oblast,Female,Rural,15.6
+2010,Talas oblast,,Rural,43.7
+2013,Talas oblast,,Rural,25.8
+2014,Talas oblast,,Rural,20.4
+2015,Talas oblast,,Rural,23.3
+2016,Talas oblast,,Rural,19.1
+2017,Talas oblast,,Rural,21.8
+2010,Talas oblast,Male,Rural,45.7
+2013,Talas oblast,Male,Rural,26.1
+2014,Talas oblast,Male,Rural,21.4
+2015,Talas oblast,Male,Rural,24.8
+2016,Talas oblast,Male,Rural,20.5
+2017,Talas oblast,Male,Rural,22.7
+2010,Talas oblast,Female,Rural,41.5
+2013,Talas oblast,Female,Rural,25.5
+2014,Talas oblast,Female,Rural,19.5
+2015,Talas oblast,Female,Rural,21.8
+2016,Talas oblast,Female,Rural,17.7
+2017,Talas oblast,Female,Rural,20.8
+2010,Chui oblast,,Rural,21.4
+2013,Chui oblast,,Rural,26.2
+2014,Chui oblast,,Rural,22.2
+2015,Chui oblast,,Rural,26.9
+2016,Chui oblast,,Rural,33.4
+2017,Chui oblast,,Rural,37.8
+2010,Chui oblast,Male,Rural,21.7
+2013,Chui oblast,Male,Rural,26.5
+2014,Chui oblast,Male,Rural,22
+2015,Chui oblast,Male,Rural,26.3
+2016,Chui oblast,Male,Rural,33.3
+2017,Chui oblast,Male,Rural,37.3
+2010,Chui oblast,Female,Rural,21
+2013,Chui oblast,Female,Rural,25.8
+2014,Chui oblast,Female,Rural,22.5
+2015,Chui oblast,Female,Rural,27.5
+2016,Chui oblast,Female,Rural,33.5
+2017,Chui oblast,Female,Rural,38.3
+2010,Bishkek city,,Rural,
+2013,Bishkek city,,Rural,
+2014,Bishkek city,,Rural,
+2015,Bishkek city,,Rural,
+2016,Bishkek city,,Rural,
+2017,Bishkek city,,Rural,
+2010,Bishkek city,Male,Rural,
+2013,Bishkek city,Male,Rural,
+2014,Bishkek city,Male,Rural,
+2015,Bishkek city,Male,Rural,
+2016,Bishkek city,Male,Rural,
+2017,Bishkek city,Male,Rural,
+2010,Bishkek city,Female,Rural,
+2013,Bishkek city,Female,Rural,
+2014,Bishkek city,Female,Rural,
+2015,Bishkek city,Female,Rural,
+2016,Bishkek city,Female,Rural,
+2017,Bishkek city,Female,Rural,
+2013,Osh city,,Rural,
+2014,Osh city,,Rural,
+2015,Osh city,,Rural,
+2016,Osh city,,Rural,
+2017,Osh city,,Rural,
+2013,Osh city,Male,Rural,
+2014,Osh city,Male,Rural,
+2015,Osh city,Male,Rural,
+2016,Osh city,Male,Rural,
+2017,Osh city,Male,Rural,
+2013,Osh city,Female,Rural,
+2014,Osh city,Female,Rural,
+2015,Osh city,Female,Rural,
+2016,Osh city,Female,Rural,
+2017,Osh city,Female,Rural,
