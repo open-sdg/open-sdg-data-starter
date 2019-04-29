@@ -35,42 +35,42 @@ Year,Oblast,Sex,Urbanisation,Value
 2015,Batken oblast,Female,,41.4
 2016,Batken oblast,Female,,38
 2017,Batken oblast,Female,,41.5
-2010,Djalal-Abad oblast  ,,,44.7
-2013,Djalal-Abad oblast  ,,,46.4
-2014,Djalal-Abad oblast  ,,,46.4
-2015,Djalal-Abad oblast  ,,,45.1
-2016,Djalal-Abad oblast  ,,,32.2
-2017,Djalal-Abad oblast  ,,,32.6
-2010,Djalal-Abad oblast  ,Male,,43.7
-2013,Djalal-Abad oblast  ,Male,,47.4
-2014,Djalal-Abad oblast  ,Male,,47
-2015,Djalal-Abad oblast  ,Male,,45.2
-2016,Djalal-Abad oblast  ,Male,,33.1
-2017,Djalal-Abad oblast  ,Male,,34
-2010,Djalal-Abad oblast  ,Female,,45.8
-2013,Djalal-Abad oblast  ,Female,,45.5
-2014,Djalal-Abad oblast  ,Female,,45.8
-2015,Djalal-Abad oblast  ,Female,,44.9
-2016,Djalal-Abad oblast  ,Female,,31.4
-2017,Djalal-Abad oblast  ,Female,,31.1
-2010,Ysyk-Kul oblast ,,,38
-2013,Ysyk-Kul oblast ,,,39.5
-2014,Ysyk-Kul oblast ,,,26
-2015,Ysyk-Kul oblast ,,,28.9
-2016,Ysyk-Kul oblast ,,,24.7
-2017,Ysyk-Kul oblast ,,,24.2
-2010,Ysyk-Kul oblast ,Male,,39
-2013,Ysyk-Kul oblast ,Male,,40.4
-2014,Ysyk-Kul oblast ,Male,,26.4
-2015,Ysyk-Kul oblast ,Male,,29.1
-2016,Ysyk-Kul oblast ,Male,,24.7
-2017,Ysyk-Kul oblast ,Male,,24.3
-2010,Ysyk-Kul oblast ,Female,,36.9
-2013,Ysyk-Kul oblast ,Female,,38.5
-2014,Ysyk-Kul oblast ,Female,,25.7
-2015,Ysyk-Kul oblast ,Female,,28.7
-2016,Ysyk-Kul oblast ,Female,,24.7
-2017,Ysyk-Kul oblast ,Female,,24.1
+2010,Djalal-Abad oblast,,,44.7
+2013,Djalal-Abad oblast,,,46.4
+2014,Djalal-Abad oblast,,,46.4
+2015,Djalal-Abad oblast,,,45.1
+2016,Djalal-Abad oblast,,,32.2
+2017,Djalal-Abad oblast,,,32.6
+2010,Djalal-Abad oblast,Male,,43.7
+2013,Djalal-Abad oblast,Male,,47.4
+2014,Djalal-Abad oblast,Male,,47
+2015,Djalal-Abad oblast,Male,,45.2
+2016,Djalal-Abad oblast,Male,,33.1
+2017,Djalal-Abad oblast,Male,,34
+2010,Djalal-Abad oblast,Female,,45.8
+2013,Djalal-Abad oblast,Female,,45.5
+2014,Djalal-Abad oblast,Female,,45.8
+2015,Djalal-Abad oblast,Female,,44.9
+2016,Djalal-Abad oblast,Female,,31.4
+2017,Djalal-Abad oblast,Female,,31.1
+2010,Ysyk-Kul oblast,,,38
+2013,Ysyk-Kul oblast,,,39.5
+2014,Ysyk-Kul oblast,,,26
+2015,Ysyk-Kul oblast,,,28.9
+2016,Ysyk-Kul oblast,,,24.7
+2017,Ysyk-Kul oblast,,,24.2
+2010,Ysyk-Kul oblast,Male,,39
+2013,Ysyk-Kul oblast,Male,,40.4
+2014,Ysyk-Kul oblast,Male,,26.4
+2015,Ysyk-Kul oblast,Male,,29.1
+2016,Ysyk-Kul oblast,Male,,24.7
+2017,Ysyk-Kul oblast,Male,,24.3
+2010,Ysyk-Kul oblast,Female,,36.9
+2013,Ysyk-Kul oblast,Female,,38.5
+2014,Ysyk-Kul oblast,Female,,25.7
+2015,Ysyk-Kul oblast,Female,,28.7
+2016,Ysyk-Kul oblast,Female,,24.7
+2017,Ysyk-Kul oblast,Female,,24.1
 2010,Naryn oblast,,,53.5
 2013,Naryn oblast,,,43.8
 2014,Naryn oblast,,,30.6
@@ -212,42 +212,42 @@ Year,Oblast,Sex,Urbanisation,Value
 2015,Batken oblast,Female,Urban,29.4
 2016,Batken oblast,Female,Urban,26.4
 2017,Batken oblast,Female,Urban,34.6
-2010,Djalal-Abad oblast  ,,Urban,32.7
-2013,Djalal-Abad oblast  ,,Urban,46
-2014,Djalal-Abad oblast  ,,Urban,54.2
-2015,Djalal-Abad oblast  ,,Urban,49
-2016,Djalal-Abad oblast  ,,Urban,36.3
-2017,Djalal-Abad oblast  ,,Urban,25.5
-2010,Djalal-Abad oblast  ,Male,Urban,33.2
-2013,Djalal-Abad oblast  ,Male,Urban,47.6
-2014,Djalal-Abad oblast  ,Male,Urban,55
-2015,Djalal-Abad oblast  ,Male,Urban,50.3
-2016,Djalal-Abad oblast  ,Male,Urban,39.7
-2017,Djalal-Abad oblast  ,Male,Urban,28.7
-2010,Djalal-Abad oblast  ,Female,Urban,32.2
-2013,Djalal-Abad oblast  ,Female,Urban,44.4
-2014,Djalal-Abad oblast  ,Female,Urban,53.2
-2015,Djalal-Abad oblast  ,Female,Urban,47.5
-2016,Djalal-Abad oblast  ,Female,Urban,32.4
-2017,Djalal-Abad oblast  ,Female,Urban,21.8
-2010,Ysyk-Kul oblast ,,Urban,26.4
-2013,Ysyk-Kul oblast ,,Urban,18.5
-2014,Ysyk-Kul oblast ,,Urban,15.9
-2015,Ysyk-Kul oblast ,,Urban,18.8
-2016,Ysyk-Kul oblast ,,Urban,15.1
-2017,Ysyk-Kul oblast ,,Urban,14.1
-2010,Ysyk-Kul oblast ,Male,Urban,26.3
-2013,Ysyk-Kul oblast ,Male,Urban,18.2
-2014,Ysyk-Kul oblast ,Male,Urban,16.1
-2015,Ysyk-Kul oblast ,Male,Urban,19.2
-2016,Ysyk-Kul oblast ,Male,Urban,15.2
-2017,Ysyk-Kul oblast ,Male,Urban,14.7
-2010,Ysyk-Kul oblast ,Female,Urban,26.5
-2013,Ysyk-Kul oblast ,Female,Urban,18.9
-2014,Ysyk-Kul oblast ,Female,Urban,15.7
-2015,Ysyk-Kul oblast ,Female,Urban,18.3
-2016,Ysyk-Kul oblast ,Female,Urban,14.9
-2017,Ysyk-Kul oblast ,Female,Urban,13.4
+2010,Djalal-Abad oblast,,Urban,32.7
+2013,Djalal-Abad oblast,,Urban,46
+2014,Djalal-Abad oblast,,Urban,54.2
+2015,Djalal-Abad oblast,,Urban,49
+2016,Djalal-Abad oblast,,Urban,36.3
+2017,Djalal-Abad oblast,,Urban,25.5
+2010,Djalal-Abad oblast,Male,Urban,33.2
+2013,Djalal-Abad oblast,Male,Urban,47.6
+2014,Djalal-Abad oblast,Male,Urban,55
+2015,Djalal-Abad oblast,Male,Urban,50.3
+2016,Djalal-Abad oblast,Male,Urban,39.7
+2017,Djalal-Abad oblast,Male,Urban,28.7
+2010,Djalal-Abad oblast,Female,Urban,32.2
+2013,Djalal-Abad oblast,Female,Urban,44.4
+2014,Djalal-Abad oblast,Female,Urban,53.2
+2015,Djalal-Abad oblast,Female,Urban,47.5
+2016,Djalal-Abad oblast,Female,Urban,32.4
+2017,Djalal-Abad oblast,Female,Urban,21.8
+2010,Ysyk-Kul oblast,,Urban,26.4
+2013,Ysyk-Kul oblast,,Urban,18.5
+2014,Ysyk-Kul oblast,,Urban,15.9
+2015,Ysyk-Kul oblast,,Urban,18.8
+2016,Ysyk-Kul oblast,,Urban,15.1
+2017,Ysyk-Kul oblast,,Urban,14.1
+2010,Ysyk-Kul oblast,Male,Urban,26.3
+2013,Ysyk-Kul oblast,Male,Urban,18.2
+2014,Ysyk-Kul oblast,Male,Urban,16.1
+2015,Ysyk-Kul oblast,Male,Urban,19.2
+2016,Ysyk-Kul oblast,Male,Urban,15.2
+2017,Ysyk-Kul oblast,Male,Urban,14.7
+2010,Ysyk-Kul oblast,Female,Urban,26.5
+2013,Ysyk-Kul oblast,Female,Urban,18.9
+2014,Ysyk-Kul oblast,Female,Urban,15.7
+2015,Ysyk-Kul oblast,Female,Urban,18.3
+2016,Ysyk-Kul oblast,Female,Urban,14.9
+2017,Ysyk-Kul oblast,Female,Urban,13.4
 2010,Naryn oblast,,Urban,39.3
 2013,Naryn oblast,,Urban,42.5
 2014,Naryn oblast,,Urban,26.4
@@ -389,42 +389,42 @@ Year,Oblast,Sex,Urbanisation,Value
 2015,Batken oblast,Female,Rural,46
 2016,Batken oblast,Female,Rural,42.5
 2017,Batken oblast,Female,Rural,44.1
-2010,Djalal-Abad oblast  ,,Rural,49.7
-2013,Djalal-Abad oblast  ,,Rural,46.5
-2014,Djalal-Abad oblast  ,,Rural,43.3
-2015,Djalal-Abad oblast  ,,Rural,43.8
-2016,Djalal-Abad oblast  ,,Rural,30.9
-2017,Djalal-Abad oblast  ,,Rural,35
-2010,Djalal-Abad oblast  ,Male,Rural,48.1
-2013,Djalal-Abad oblast  ,Male,Rural,47.3
-2014,Djalal-Abad oblast  ,Male,Rural,43.7
-2015,Djalal-Abad oblast  ,Male,Rural,43.5
-2016,Djalal-Abad oblast  ,Male,Rural,30.8
-2017,Djalal-Abad oblast  ,Male,Rural,35.9
-2010,Djalal-Abad oblast  ,Female,Rural,51.3
-2013,Djalal-Abad oblast  ,Female,Rural,45.7
-2014,Djalal-Abad oblast  ,Female,Rural,42.9
-2015,Djalal-Abad oblast  ,Female,Rural,44.1
-2016,Djalal-Abad oblast  ,Female,Rural,31.1
-2017,Djalal-Abad oblast  ,Female,Rural,34
-2010,Ysyk-Kul oblast ,,Rural,42.7
-2013,Ysyk-Kul oblast ,,Rural,47.7
-2014,Ysyk-Kul oblast ,,Rural,30
-2015,Ysyk-Kul oblast ,,Rural,32.9
-2016,Ysyk-Kul oblast ,,Rural,28.6
-2017,Ysyk-Kul oblast ,,Rural,28.3
-2010,Ysyk-Kul oblast ,Male,Rural,44.3
-2013,Ysyk-Kul oblast ,Male,Rural,49.8
-2014,Ysyk-Kul oblast ,Male,Rural,30.8
-2015,Ysyk-Kul oblast ,Male,Rural,33.4
-2016,Ysyk-Kul oblast ,Male,Rural,28.9
-2017,Ysyk-Kul oblast ,Male,Rural,28.5
-2010,Ysyk-Kul oblast ,Female,Rural,41
-2013,Ysyk-Kul oblast ,Female,Rural,45.6
-2014,Ysyk-Kul oblast ,Female,Rural,29.2
-2015,Ysyk-Kul oblast ,Female,Rural,32.4
-2016,Ysyk-Kul oblast ,Female,Rural,28.3
-2017,Ysyk-Kul oblast ,Female,Rural,28.1
+2010,Djalal-Abad oblast,,Rural,49.7
+2013,Djalal-Abad oblast,,Rural,46.5
+2014,Djalal-Abad oblast,,Rural,43.3
+2015,Djalal-Abad oblast,,Rural,43.8
+2016,Djalal-Abad oblast,,Rural,30.9
+2017,Djalal-Abad oblast,,Rural,35
+2010,Djalal-Abad oblast,Male,Rural,48.1
+2013,Djalal-Abad oblast,Male,Rural,47.3
+2014,Djalal-Abad oblast,Male,Rural,43.7
+2015,Djalal-Abad oblast,Male,Rural,43.5
+2016,Djalal-Abad oblast,Male,Rural,30.8
+2017,Djalal-Abad oblast,Male,Rural,35.9
+2010,Djalal-Abad oblast,Female,Rural,51.3
+2013,Djalal-Abad oblast,Female,Rural,45.7
+2014,Djalal-Abad oblast,Female,Rural,42.9
+2015,Djalal-Abad oblast,Female,Rural,44.1
+2016,Djalal-Abad oblast,Female,Rural,31.1
+2017,Djalal-Abad oblast,Female,Rural,34
+2010,Ysyk-Kul oblast,,Rural,42.7
+2013,Ysyk-Kul oblast,,Rural,47.7
+2014,Ysyk-Kul oblast,,Rural,30
+2015,Ysyk-Kul oblast,,Rural,32.9
+2016,Ysyk-Kul oblast,,Rural,28.6
+2017,Ysyk-Kul oblast,,Rural,28.3
+2010,Ysyk-Kul oblast,Male,Rural,44.3
+2013,Ysyk-Kul oblast,Male,Rural,49.8
+2014,Ysyk-Kul oblast,Male,Rural,30.8
+2015,Ysyk-Kul oblast,Male,Rural,33.4
+2016,Ysyk-Kul oblast,Male,Rural,28.9
+2017,Ysyk-Kul oblast,Male,Rural,28.5
+2010,Ysyk-Kul oblast,Female,Rural,41
+2013,Ysyk-Kul oblast,Female,Rural,45.6
+2014,Ysyk-Kul oblast,Female,Rural,29.2
+2015,Ysyk-Kul oblast,Female,Rural,32.4
+2016,Ysyk-Kul oblast,Female,Rural,28.3
+2017,Ysyk-Kul oblast,Female,Rural,28.1
 2010,Naryn oblast,,Rural,56.1
 2013,Naryn oblast,,Rural,44
 2014,Naryn oblast,,Rural,31.2
