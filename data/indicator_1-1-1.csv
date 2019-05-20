@@ -34,19 +34,19 @@ Year,Units,Sex,Location,Age,Employment status,Value
 2017,%,,,,self-employed,0.93
 2015,%,,,,other employed,0.21
 2016,%,,,,other employed,0.25
-2017,,,,,other employed,0.81
+2017,%,,,,other employed,0.81
 2015,%,,,,unemployment,2.58
 2016,%,,,,unemployment,2.12
-2017,,,,,unemployment,1.77
+2017,%,,,,unemployment,1.77
 2015,%,,,,economically inactive  population,1.53
 2016,%,,,,economically inactive  population,1.23
-2017,,,,,economically inactive  population,0.82
+2017,%,,,,economically inactive  population,0.82
 2015,%,,,,pensioners,1.79
 2016,%,,,,pensioners,1.55
-2017,,,,,pensioners,0.91
+2017,%,,,,pensioners,0.91
 2015,%,,,,students,0.78
 2016,%,,,,students,0.45
-2017,,,,,students,0.51
+2017,%,,,,students,0.51
 2015,%,,,,other inactive population,1.79
 2016,%,,,,other inactive population,1.47
-2017,,,,,other inactive population,0.95
+2017,%,,,,other inactive population,0.95
