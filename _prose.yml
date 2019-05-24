@@ -72,6 +72,16 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
+      - name: availability
+        field:
+            element: text
+            label: "Availability"
+            scope: national
+      - name: classification
+        field:
+            element: text
+            label: "Classification"
+            scope: national
       - name: "national_indicator_available"
         field:
             element: text
