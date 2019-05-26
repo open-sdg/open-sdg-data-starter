@@ -9,12 +9,18 @@ import pandas as pd
 import numpy as np
 import yaml
 
+DEBUG = True
+def alert(message):
+    if DEBUG:
+        print(message)
+
 # These global objects will be read/written from various functions, so need to
 # be created here.
 indicator_map = {}
 disagg_table = {}
 meta_translations = {}
 disagg_mismatches = {}
+single_disagg_values = {}
 
 # For more readable code below.
 HEADER_YEAR = 'Year'
@@ -320,16 +326,19 @@ def parse_excel_sheet(sheet):
     fix_empty_values = ['source','unit','availability','customisation','classification','implementation','compilation']
     for index, row in df.iterrows():
 
+        # Clean up rows.
+        row = clean_row(row)
+
         # Skip blank rows.
         if row.isnull().all():
             continue
 
-        # Clean up rows.
-        row = clean_row(row)
+        alert('Parsing new row')
 
         # Is this the beginning of an indicator?
         indicator_start = is_indicator_start(row)
         if indicator_start:
+            alert('Start of indicator: ' + indicator_start)
             # Round some columns by converting them to ints.
             for column in round_these_columns:
                 if isinstance(row[column], float) and not pd.isnull(row[column]):
@@ -391,6 +400,7 @@ def parse_excel_sheet(sheet):
             # In some cases, there is data in the starting row. We assume
             # in these cases that there is no disaggregation.
             if has_yearly_data(row):
+                alert('Data was in starting row: ' + current_id)
                 data = {
                     'disaggregations': [],
                     'years': row[YEARS]
@@ -404,21 +414,26 @@ def parse_excel_sheet(sheet):
             # Does this row indicate a disaggregation category?
             disagg_start = is_disaggregation_start(row, current_id)
             if disagg_start:
+                alert('Disaggregation start: ' + disagg_start)
                 # If we had previous found all categories (in other words,
                 # we encountered a value after finding some categories) then
                 # we start a new list here.
                 if found_all_disaggregations:
+                    alert('Had previously found all disaggregations')
                     current_disaggregations = [disagg_start]
                     found_all_disaggregations = False
                 # Otherwise, we append to the current list.
                 else:
                     current_disaggregations.append(disagg_start)
+
+                alert('Continuing to next row')
                 continue
 
             # If we get to this point we assume everything is yearly data.
             # If there is no yearly data, we won't know how to understand
             # what this row is.
             if not has_yearly_data(row):
+                alert('Assuming end of current disaggregations')
                 # We have to assume that this means that any current
                 # disaggregations have ended, so reset the disagg stuff.
                 current_disaggregations = []
@@ -431,22 +446,30 @@ def parse_excel_sheet(sheet):
             row_disaggregation = current_disaggregations.copy()
             if not pd.isnull(row[national_or_global]):
                 # Add this disaggregation, if any.
-                if is_valid_disaggregation(row[national_or_global]):
-                    # Strip whitespace if it is a string.
-                    disagg_value = row[national_or_global]
-                    if isinstance(disagg_value, str):
-                        disagg_value = disagg_value.strip()
+                disagg_value = row[national_or_global]
+                # Strip whitespace if it is a string.
+                if isinstance(disagg_value, str):
+                    disagg_value = disagg_value.strip()
+                if is_valid_disaggregation(disagg_value):
                     row_disaggregation.append(disagg_value)
             data = {
                 'disaggregations': row_disaggregation,
                 'years': row[YEARS]
             }
+            alert('Adding a row of data with disaggregations: ' + ', '.join(row_disaggregation))
             indicator_map[current_id]['data'].append(data)
+        else:
+            alert('uhoh')
 
 # Check a string is a valid disaggregation.
 def is_valid_disaggregation(disagg):
     global disagg_mismatches
+    global single_disagg_values
+    #alert('Testing disaggregation for validity: "' + disagg + '"')
     if disagg is None or not disagg:
+        return False
+    if disagg in single_disagg_values:
+        alert('Invalid disaggregation because it is a single-category value: ' + disagg)
         return False
     if disagg not in disagg_table:
         # Save this for a report of database/disaggregation mismatch.
@@ -455,6 +478,7 @@ def is_valid_disaggregation(disagg):
             disagg_string = str(disagg_string)
         disagg_mismatches[disagg_string] = True
         return False
+    #alert('Valid!')
     return True
 
 # Convert list of disaggregations into a category:value structure.
@@ -535,6 +559,7 @@ def main():
     """Tidy up all of the indicator CSVs in the data folder."""
 
     global disagg_table
+    global single_disagg_values
     status = True
 
     # Read the disaggregation table.
@@ -543,7 +568,24 @@ def main():
     disaggs['category'] = disaggs['category'].str.strip()
     disagg_table = dict(zip(disaggs.value, disaggs.category))
 
+    # Note disaggregations from the table that have only 1 value per category.
+    disaggs_by_category = {}
+    for disagg in disagg_table:
+        category = disagg_table[disagg]
+        if category not in disaggs_by_category:
+            disaggs_by_category[category] = [disagg]
+        elif disagg not in disaggs_by_category[category]:
+            disaggs_by_category[category].append(disagg)
+
+    single_disagg_categories = []
+    single_disagg_values = []
+    for category in disaggs_by_category:
+        if len(disaggs_by_category[category]) == 1:
+            single_disagg_categories.append(category)
+            single_disagg_values.append(disaggs_by_category[category][0])
+
     # Sheets in the Excel file.
+    #sheets = ['SDG 4']
     sheets = ['SDG 1','SDG 2','SDG 3','SDG 4','SDG 5','SDG 6','SDG 7','SDG 8','SDG 9','SDG 10','SDG 11','SDG 12','SDG 13','SDG 14','SDG 15','SDG 16','SDG 17']
     #sheets = ['SDG 1','SDG 2','SDG 3','SDG 4','SDG 5','SDG 6', 'SDG 7']
 
