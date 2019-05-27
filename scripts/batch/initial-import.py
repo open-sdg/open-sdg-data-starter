@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This script imports existing data for Armenia from an Excel file.
+This script imports existing data for Kazakhstan from an Excel file.
 """
 
 import glob
