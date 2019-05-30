@@ -1,7 +1,30 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGE,Observation status,Unit measure,Unit multiplier,Value
+2014,1 to 14 years old,Normal value,Percent,Units,57.1
+2018,1 to 14 years old,Normal value,Percent,Units,74.3
+2014,1 to 14 years old,Normal value,Percent,Units,49.4
+2018,1 to 14 years old,Normal value,Percent,Units,46.8
+2014,1 to 14 years old,Normal value,Percent,Units,42.9
+2018,1 to 14 years old,Normal value,Percent,Units,65.5
+2014,1 to 14 years old,Normal value,Percent,Units,48.2
+2018,1 to 14 years old,Normal value,Percent,Units,80.9
+2014,1 to 14 years old,Normal value,Percent,Units,58.0
+2018,1 to 14 years old,Normal value,Percent,Units,74.0
+2014,1 to 14 years old,Normal value,Percent,Units,57.8
+2018,1 to 14 years old,Normal value,Percent,Units,74.4
+2014,1 to 14 years old,Normal value,Percent,Units,71.1
+2018,1 to 14 years old,Normal value,Percent,Units,79.9
+2014,1 to 14 years old,Normal value,Percent,Units,66.8
+2018,1 to 14 years old,Normal value,Percent,Units,83.5
+2014,1 to 14 years old,Normal value,Percent,Units,70.3
+2018,1 to 14 years old,Normal value,Percent,Units,80.5
+2014,1 to 14 years old,Normal value,Percent,Units,71.1
+2018,1 to 14 years old,Normal value,Percent,Units,85.6
+2014,1 to 2 years old,Normal value,Percent,Units,45.5
+2018,1 to 2 years old,Normal value,Percent,Units,55.3
+2014,1 year old,Normal value,Percent,Units,39.5
+2014,2 years old,Normal value,Percent,Units,51.8
+2014,3 to 4 years old,Normal value,Percent,Units,67.1
+2018,3 to 4 years old,Normal value,Percent,Units,71.2
+2014,5 to 6 years old,Normal value,Percent,Units,61.9
+2014,10 to 14 years old,Normal value,Percent,Units,52.7
+2018,10 to 14 years old,Normal value,Percent,Units,78.8
