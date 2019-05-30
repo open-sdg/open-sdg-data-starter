@@ -1,51 +1,121 @@
-Year,Oбласт,GeoCode,Value
-2013,,138,14.9
-2013,Баткенская область,,13.3
-2013,Джалал-Абадская область,,13.2
-2013,Иссык-Кульская область,,11.3
-2013,Нарынская область,,11.6
-2013,Ошская область,,5.1
-2013,Таласская область,,19.9
-2013,Чуйская область,,14.5
-2013,г.Бишкек,,22.9
-2013,г.Ош,,55.6
-2014,,138,15.6
-2014,Баткенская область,,12.5
-2014,Джалал-Абадская область,,14.4
-2014,Иссык-Кульская область,,9.3
-2014,Нарынская область,,12.2
-2014,Ошская область,,5
-2014,Таласская область,,16.7
-2014,Чуйская область,,13.4
-2014,г.Бишкек,,26
-2014,г.Ош,,64
-2015,,138,14
-2015,Баткенская область,,11.2
-2015,Джалал-Абадская область,,12.7
-2015,Иссык-Кульская область,,12.2
-2015,Нарынская область,,8.7
-2015,Ошская область,,4.3
-2015,Таласская область,,12.7
-2015,Чуйская область,,12.6
-2015,г.Бишкек,,23
-2015,г.Ош,,62
-2016,,138,12.7
-2016,Баткенская область,,10.6
-2016,Джалал-Абадская область,,11.5
-2016,Иссык-Кульская область,,8.4
-2016,Нарынская область,,11.2
-2016,Ошская область,,3.5
-2016,Таласская область,,12.3
-2016,Чуйская область,,10.4
-2016,г.Бишкек,,22.8
-2016,г.Ош,,50.2
-2017,,138,11.8
-2017,Баткенская область,,10.6
-2017,Джалал-Абадская область,,9.9
-2017,Иссык-Кульская область,,9.4
-2017,Нарынская область,,10
-2017,Ошская область,,3.1
-2017,Таласская область,,12.3
-2017,Чуйская область,,6.7
-2017,г.Бишкек,,23.2
-2017,г.Ош,,46.9
+Year,AGE,Observation status,Unit measure,Unit multiplier,Value
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,21.062709
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,19.633713
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,18.141025
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,16.397145
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,15.346363
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,14.627093
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,14.891975
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,15.641512
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,13.997993
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,12.670713
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,11.795339
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,13
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,20.020582
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,20.371252
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,17.752959
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,17.905103
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,15.911964
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,13.333333
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,13.29229
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,12.498302
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,11.21983
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,10.61082
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,10.611457
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,6
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,17.491993
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,13.828495
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,13.109231
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,11.41671
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,11.64604
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,11.539979
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,13.183481
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,14.415326
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,12.659814
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,11.493097
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,9.918574
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,29
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,17.433752
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,18.44146
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,16.389014
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,15.933099
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,16.267429
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,14.75265
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,11.261052
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,9.306183
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,12.182109
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,8.420139
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,9.423503
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,17
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,17.912773
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,16.943931
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,14.464366
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,12.251149
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,10.273497
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,12.369975
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,11.58413
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,12.209828
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,8.72093
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,11.227763
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,9.984399
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,7
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,12.608002
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,13.417951
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,10.630954
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,10.695524
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,8.214286
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,6.444122
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,5.10597
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,5.045162
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,4.312545
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,3.485959
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,3.098263
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,15
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,28.86102
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,24.548244
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,25.589948
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,19.147084
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,16.905249
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,15.341309
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,19.851852
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,16.656752
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,12.700333
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,12.33604
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,12.267905
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,*
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,21.918468
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,19.965577
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,18.539076
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,16.0724
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,15.37476
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,14.294878
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,14.537283
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,13.354037
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,12.614628
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,10.407594
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,6.655345
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,5
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,31.519613
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,29.87456
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,27.261589
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,25.128553
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,24.125336
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,21.38653
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,22.854904
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,25.985737
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,23.028611
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,22.846558
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,23.162225
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,6
+2007,under 1 month old,Normal value,"Per 1,000 live births",Units,49.506943
+2008,under 1 month old,Normal value,"Per 1,000 live births",Units,42.992096
+2009,under 1 month old,Normal value,"Per 1,000 live births",Units,49.784765
+2010,under 1 month old,Normal value,"Per 1,000 live births",Units,42.06501
+2011,under 1 month old,Normal value,"Per 1,000 live births",Units,46.632124
+2012,under 1 month old,Normal value,"Per 1,000 live births",Units,53.846154
+2013,under 1 month old,Normal value,"Per 1,000 live births",Units,55.639098
+2014,under 1 month old,Normal value,"Per 1,000 live births",Units,63.961301
+2015,under 1 month old,Normal value,"Per 1,000 live births",Units,61.963775
+2016,under 1 month old,Normal value,"Per 1,000 live births",Units,50.222162
+2017,under 1 month old,Normal value,"Per 1,000 live births",Units,46.864858
+2018,under 1 month old,Normal value,"Per 1,000 live births",Units,16
