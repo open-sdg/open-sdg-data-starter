@@ -1,7 +1,18 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGE,Observation status,Sex,Unit measure,Unit multiplier,Value
+2014,15 to 49 years old,Normal value,Female,Percent,Units,42.0
+2014,15 to 49 years old,Normal value,Female,Percent,Units,45.0
+2014,15 to 49 years old,Normal value,Female,Percent,Units,31.4
+2014,15 to 49 years old,Normal value,Female,Percent,Units,46.0
+2014,15 to 49 years old,Normal value,Female,Percent,Units,58.9
+2014,15 to 49 years old,Normal value,Female,Percent,Units,38.4
+2014,15 to 49 years old,Normal value,Female,Percent,Units,43.4
+2014,15 to 49 years old,Normal value,Female,Percent,Units,47.8
+2014,15 to 49 years old,Normal value,Female,Percent,Units,47.0
+2014,15 to 49 years old,Normal value,Female,Percent,Units,38.3
+2014,15 to 19 years old,Normal value,Female,Percent,Units,17.4
+2014,20 to 24 years old,Normal value,Female,Percent,Units,28.9
+2014,25 to 29 years old,Normal value,Female,Percent,Units,39.2
+2014,30 to 34 years old,Normal value,Female,Percent,Units,50.4
+2014,35 to 39 years old,Normal value,Female,Percent,Units,57.2
+2014,40 to 44 years old,Normal value,Female,Percent,Units,52.2
+2014,45 to 49 years old,Normal value,Female,Percent,Units,29.3
