@@ -1,43 +1,43 @@
-Year,Observation status,Unit measure,Unit multiplier,Value
-2007,Normal value,"Per 100,000 population",Units,1.843658
-2008,Normal value,"Per 100,000 population",Units,0.342848
-2009,Normal value,"Per 100,000 population",Units,0.074304
-2010,Normal value,"Per 100,000 population",Units,0.036711
-2011,Normal value,"Per 100,000 population",Units,0.79786
-2012,Normal value,"Per 100,000 population",Units,0.0535
-2013,Normal value,"Per 100,000 population",Units,0.069932
-2015,Normal value,"Per 100,000 population",Units,0.016786
-2016,Normal value,"Per 100,000 population",Units,0.098687
-2017,Normal value,"Per 100,000 population",Units,0.032266
-2018,Normal value,"Per 100,000 population",Units,0.015815
-2007,Normal value,"Per 100,000 population",Units,5.181616
-2008,Normal value,"Per 100,000 population",Units,0.466742
-2009,Normal value,"Per 100,000 population",Units,0.69695
-2007,Normal value,"Per 100,000 population",Units,0.614139
-2008,Normal value,"Per 100,000 population",Units,0.101307
-2009,Normal value,"Per 100,000 population",Units,0.098527
-2010,Normal value,"Per 100,000 population",Units,0.194196
-2012,Normal value,"Per 100,000 population",Units,0.22188
-2007,Normal value,"Per 100,000 population",Units,0.371395
-2008,Normal value,"Per 100,000 population",Units,0.369493
-2008,Normal value,"Per 100,000 population",Units,0
-2011,Normal value,"Per 100,000 population",Units,0.087772
-2008,Normal value,"Per 100,000 population",Units,0
-2007,Normal value,"Per 100,000 population",Units,3.164849
-2008,Normal value,"Per 100,000 population",Units,0.52547
-2012,Normal value,"Per 100,000 population",Units,0.120415
-2016,Normal value,"Per 100,000 population",Units,0.111566
-2017,Normal value,"Per 100,000 population",Units,0
-2018,Normal value,"Per 100,000 population",Units,0.107362
-2007,Normal value,"Per 100,000 population",Units,5.183496
-2008,Normal value,"Per 100,000 population",Units,1.220988
-2011,Normal value,"Per 100,000 population",Units,4.728536
-2012,Normal value,"Per 100,000 population",Units,0.113064
-2013,Normal value,"Per 100,000 population",Units,0.441934
-2015,Normal value,"Per 100,000 population",Units,0.105495
-2016,Normal value,"Per 100,000 population",Units,0.309465
-2017,Normal value,"Per 100,000 population",Units,0.201764
-2007,Normal value,"Per 100,000 population",Units,0.400375
-2008,Normal value,"Per 100,000 population",Units,0
-2016,Normal value,"Per 100,000 population",Units,0.717257
-2017,Normal value,"Per 100,000 population",Units,0
+Year,Observation status,Area,Unit measure,Unit multiplier,Value
+2007,Normal value,,"Per 100,000 population",Units,1.843658
+2008,Normal value,,"Per 100,000 population",Units,0.342848
+2009,Normal value,,"Per 100,000 population",Units,0.074304
+2010,Normal value,,"Per 100,000 population",Units,0.036711
+2011,Normal value,,"Per 100,000 population",Units,0.79786
+2012,Normal value,,"Per 100,000 population",Units,0.0535
+2013,Normal value,,"Per 100,000 population",Units,0.069932
+2015,Normal value,,"Per 100,000 population",Units,0.016786
+2016,Normal value,,"Per 100,000 population",Units,0.098687
+2017,Normal value,,"Per 100,000 population",Units,0.032266
+2018,Normal value,,"Per 100,000 population",Units,0.015815
+2007,Normal value,Batken,"Per 100,000 population",Units,5.181616
+2008,Normal value,Batken,"Per 100,000 population",Units,0.466742
+2009,Normal value,Batken,"Per 100,000 population",Units,0.69695
+2007,Normal value,Jalal-Abad,"Per 100,000 population",Units,0.614139
+2008,Normal value,Jalal-Abad,"Per 100,000 population",Units,0.101307
+2009,Normal value,Jalal-Abad,"Per 100,000 population",Units,0.098527
+2010,Normal value,Jalal-Abad,"Per 100,000 population",Units,0.194196
+2012,Normal value,Issyk-Kul,"Per 100,000 population",Units,0.22188
+2007,Normal value,Naryn,"Per 100,000 population",Units,0.371395
+2008,Normal value,Naryn,"Per 100,000 population",Units,0.369493
+2008,Normal value,Osh,"Per 100,000 population",Units,0.0
+2011,Normal value,Osh,"Per 100,000 population",Units,0.087772
+2008,Normal value,Talas,"Per 100,000 population",Units,0.0
+2007,Normal value,Chui,"Per 100,000 population",Units,3.164849
+2008,Normal value,Chui,"Per 100,000 population",Units,0.52547
+2012,Normal value,Chui,"Per 100,000 population",Units,0.120415
+2016,Normal value,Chui,"Per 100,000 population",Units,0.111566
+2017,Normal value,Chui,"Per 100,000 population",Units,0.0
+2018,Normal value,Chui,"Per 100,000 population",Units,0.107362
+2007,Normal value,Bishkek (city),"Per 100,000 population",Units,5.183496
+2008,Normal value,Bishkek (city),"Per 100,000 population",Units,1.220988
+2011,Normal value,Bishkek (city),"Per 100,000 population",Units,4.728536
+2012,Normal value,Bishkek (city),"Per 100,000 population",Units,0.113064
+2013,Normal value,Bishkek (city),"Per 100,000 population",Units,0.441934
+2015,Normal value,Bishkek (city),"Per 100,000 population",Units,0.105495
+2016,Normal value,Bishkek (city),"Per 100,000 population",Units,0.309465
+2017,Normal value,Bishkek (city),"Per 100,000 population",Units,0.201764
+2007,Normal value,Osh (city),"Per 100,000 population",Units,0.400375
+2008,Normal value,Osh (city),"Per 100,000 population",Units,0.0
+2016,Normal value,Osh (city),"Per 100,000 population",Units,0.717257
+2017,Normal value,Osh (city),"Per 100,000 population",Units,0.0
