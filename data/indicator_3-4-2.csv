@@ -1,7 +1,111 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Observation status,Area,Unit measure,Unit multiplier,Value
+2007,Normal value,,"Per 100,000 population",Units,9.2
+2008,Normal value,,"Per 100,000 population",Units,8.9
+2009,Normal value,,"Per 100,000 population",Units,8.5
+2010,Normal value,,"Per 100,000 population",Units,9.2
+2011,Normal value,,"Per 100,000 population",Units,8.5
+2012,Normal value,,"Per 100,000 population",Units,9.3
+2013,Normal value,,"Per 100,000 population",Units,7.8
+2014,Normal value,,"Per 100,000 population",Units,7.9
+2015,Normal value,,"Per 100,000 population",Units,7.0
+2016,Normal value,,"Per 100,000 population",Units,6.9
+2017,Normal value,,"Per 100,000 population",Units,6.3
+2007,Normal value,Batken,"Per 100,000 population",Units,6.6
+2008,Normal value,Batken,"Per 100,000 population",Units,8.5
+2009,Normal value,Batken,"Per 100,000 population",Units,7.4
+2010,Normal value,Batken,"Per 100,000 population",Units,6.4
+2011,Normal value,Batken,"Per 100,000 population",Units,8.5
+2012,Normal value,Batken,"Per 100,000 population",Units,9.7
+2013,Normal value,Batken,"Per 100,000 population",Units,6.9
+2014,Normal value,Batken,"Per 100,000 population",Units,6.1
+2015,Normal value,Batken,"Per 100,000 population",Units,8.2
+2016,Normal value,Batken,"Per 100,000 population",Units,5.8
+2017,Normal value,Batken,"Per 100,000 population",Units,6.1
+2007,Normal value,Jalal-Abad,"Per 100,000 population",Units,5.7
+2008,Normal value,Jalal-Abad,"Per 100,000 population",Units,4.7
+2009,Normal value,Jalal-Abad,"Per 100,000 population",Units,2.4
+2010,Normal value,Jalal-Abad,"Per 100,000 population",Units,1.5
+2011,Normal value,Jalal-Abad,"Per 100,000 population",Units,2.3
+2012,Normal value,Jalal-Abad,"Per 100,000 population",Units,3.8
+2013,Normal value,Jalal-Abad,"Per 100,000 population",Units,2.8
+2014,Normal value,Jalal-Abad,"Per 100,000 population",Units,3.9
+2015,Normal value,Jalal-Abad,"Per 100,000 population",Units,2.7
+2016,Normal value,Jalal-Abad,"Per 100,000 population",Units,2.9
+2017,Normal value,Jalal-Abad,"Per 100,000 population",Units,1.4
+2007,Normal value,Issyk-Kul,"Per 100,000 population",Units,20.0
+2008,Normal value,Issyk-Kul,"Per 100,000 population",Units,21.5
+2009,Normal value,Issyk-Kul,"Per 100,000 population",Units,21.2
+2010,Normal value,Issyk-Kul,"Per 100,000 population",Units,23.0
+2011,Normal value,Issyk-Kul,"Per 100,000 population",Units,22.0
+2012,Normal value,Issyk-Kul,"Per 100,000 population",Units,25.1
+2013,Normal value,Issyk-Kul,"Per 100,000 population",Units,19.1
+2014,Normal value,Issyk-Kul,"Per 100,000 population",Units,21.0
+2015,Normal value,Issyk-Kul,"Per 100,000 population",Units,17.6
+2016,Normal value,Issyk-Kul,"Per 100,000 population",Units,15.6
+2017,Normal value,Issyk-Kul,"Per 100,000 population",Units,15.0
+2007,Normal value,Naryn,"Per 100,000 population",Units,14.8
+2008,Normal value,Naryn,"Per 100,000 population",Units,16.3
+2009,Normal value,Naryn,"Per 100,000 population",Units,15.5
+2010,Normal value,Naryn,"Per 100,000 population",Units,19.2
+2011,Normal value,Naryn,"Per 100,000 population",Units,16.7
+2012,Normal value,Naryn,"Per 100,000 population",Units,14.6
+2013,Normal value,Naryn,"Per 100,000 population",Units,13.0
+2014,Normal value,Naryn,"Per 100,000 population",Units,17.2
+2015,Normal value,Naryn,"Per 100,000 population",Units,13.8
+2016,Normal value,Naryn,"Per 100,000 population",Units,13.2
+2017,Normal value,Naryn,"Per 100,000 population",Units,15.2
+2007,Normal value,Osh,"Per 100,000 population",Units,4.6
+2008,Normal value,Osh,"Per 100,000 population",Units,4.4
+2009,Normal value,Osh,"Per 100,000 population",Units,4.5
+2010,Normal value,Osh,"Per 100,000 population",Units,4.2
+2011,Normal value,Osh,"Per 100,000 population",Units,4.7
+2012,Normal value,Osh,"Per 100,000 population",Units,5.3
+2013,Normal value,Osh,"Per 100,000 population",Units,6.2
+2014,Normal value,Osh,"Per 100,000 population",Units,5.8
+2015,Normal value,Osh,"Per 100,000 population",Units,4.4
+2016,Normal value,Osh,"Per 100,000 population",Units,3.9
+2017,Normal value,Osh,"Per 100,000 population",Units,3.8
+2007,Normal value,Talas,"Per 100,000 population",Units,4.9
+2008,Normal value,Talas,"Per 100,000 population",Units,4.0
+2009,Normal value,Talas,"Per 100,000 population",Units,7.5
+2010,Normal value,Talas,"Per 100,000 population",Units,7.8
+2011,Normal value,Talas,"Per 100,000 population",Units,5.1
+2012,Normal value,Talas,"Per 100,000 population",Units,5.1
+2013,Normal value,Talas,"Per 100,000 population",Units,12.4
+2014,Normal value,Talas,"Per 100,000 population",Units,6.1
+2015,Normal value,Talas,"Per 100,000 population",Units,8.4
+2016,Normal value,Talas,"Per 100,000 population",Units,4.3
+2017,Normal value,Talas,"Per 100,000 population",Units,3.1
+2007,Normal value,Chui,"Per 100,000 population",Units,15.8
+2008,Normal value,Chui,"Per 100,000 population",Units,17.9
+2009,Normal value,Chui,"Per 100,000 population",Units,17.8
+2010,Normal value,Chui,"Per 100,000 population",Units,20.1
+2011,Normal value,Chui,"Per 100,000 population",Units,17.2
+2012,Normal value,Chui,"Per 100,000 population",Units,20.5
+2013,Normal value,Chui,"Per 100,000 population",Units,14.2
+2014,Normal value,Chui,"Per 100,000 population",Units,14.4
+2015,Normal value,Chui,"Per 100,000 population",Units,13.8
+2016,Normal value,Chui,"Per 100,000 population",Units,16.7
+2017,Normal value,Chui,"Per 100,000 population",Units,15.2
+2007,Normal value,Bishkek (city),"Per 100,000 population",Units,10.3
+2008,Normal value,Bishkek (city),"Per 100,000 population",Units,5.3
+2009,Normal value,Bishkek (city),"Per 100,000 population",Units,5.7
+2010,Normal value,Bishkek (city),"Per 100,000 population",Units,8.6
+2011,Normal value,Bishkek (city),"Per 100,000 population",Units,6.5
+2012,Normal value,Bishkek (city),"Per 100,000 population",Units,4.2
+2013,Normal value,Bishkek (city),"Per 100,000 population",Units,3.8
+2014,Normal value,Bishkek (city),"Per 100,000 population",Units,3.2
+2015,Normal value,Bishkek (city),"Per 100,000 population",Units,2.5
+2016,Normal value,Bishkek (city),"Per 100,000 population",Units,2.8
+2017,Normal value,Bishkek (city),"Per 100,000 population",Units,2.4
+2007,Normal value,Osh (city),"Per 100,000 population",Units,2.3
+2008,Normal value,Osh (city),"Per 100,000 population",Units,3.9
+2009,Normal value,Osh (city),"Per 100,000 population",Units,4.3
+2010,Normal value,Osh (city),"Per 100,000 population",Units,1.6
+2011,Normal value,Osh (city),"Per 100,000 population",Units,1.6
+2012,Normal value,Osh (city),"Per 100,000 population",Units,2.7
+2013,Normal value,Osh (city),"Per 100,000 population",Units,1.1
+2014,Normal value,Osh (city),"Per 100,000 population",Units,2.2
+2015,Normal value,Osh (city),"Per 100,000 population",Units,1.8
+2016,Normal value,Osh (city),"Per 100,000 population",Units,2.5
+2017,Normal value,Osh (city),"Per 100,000 population",Units,2.5
