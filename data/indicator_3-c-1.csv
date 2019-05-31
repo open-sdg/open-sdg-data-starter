@@ -1,10 +1,10 @@
 Year,Units,Category,Value
-2015,"per 1,000 population",Physicians,4.4
-2016,"per 1,000 population",Physicians,4.4
-2017,"per 1,000 population",Physicians,4.4
-2015,"per 10,000 population",Paramedical personnel,5.9
-2016,"per 10,000 population",Paramedical personnel,5.8
-2017,"per 10,000 population",Paramedical personnel,5.6
-2015,"per 1,000 population",Junior medical personnel,1.8
-2016,"per 1,000 population",Junior medical personnel,1.8
-2017,"per 1,000 population",Junior medical personnel,1.7
+2015,"per 1,000 population",physicians,4.4
+2016,"per 1,000 population",physicians,4.4
+2017,"per 1,000 population",physicians,4.4
+2015,"per 1,000 population",paramedical personnel,5.9
+2016,"per 1,000 population",paramedical personnel,5.8
+2017,"per 1,000 population",paramedical personnel,5.6
+2015,"per 1,000 population",junior medical personnel,1.8
+2016,"per 1,000 population",junior medical personnel,1.8
+2017,"per 1,000 population",junior medical personnel,1.7
