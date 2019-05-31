@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGE,Observation status,Unit measure,Unit multiplier,Value
+2018,under 5 years old,Normal value,Percent,Units,98.9
+2018,under 1 year old,Normal value,Percent,Units,96.9
+2018,1 year old,Normal value,Percent,Units,98.8
+2018,2 years old,Normal value,Percent,Units,99.2
+2018,3 years old,Normal value,Percent,Units,99.9
+2018,4 years old,Normal value,Percent,Units,99.8

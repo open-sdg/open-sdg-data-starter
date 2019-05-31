@@ -1,7 +1,7 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGE,EDUCATION_LEV,Observation status,Unit measure,Unit multiplier,Value
+2018,7 to 14 years old,,Normal value,Percent,Units,57.9
+2018,8 to 9 years old,,Normal value,Percent,Units,47.4
+2018,,"Some primary education, grades 2 or 3",Normal value,Percent,Units,38.7
+2018,7 to 14 years old,,Normal value,Percent,Units,51.3
+2018,8 to 9 years old,,Normal value,Percent,Units,41.8
+2018,,"Some primary education, grades 2 or 3",Normal value,Percent,Units,30.1

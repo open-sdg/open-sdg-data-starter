@@ -1,7 +1,73 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Observation status,Area,Sex,Unit measure,Unit multiplier,Value
+2010,Normal value,,,Percent,Units,7.8
+2013,Normal value,,,Percent,Units,6.9
+2014,Normal value,,,Percent,Units,6.9
+2015,Normal value,,,Percent,Units,7.4
+2016,Normal value,,,Percent,Units,7.6
+2017,Normal value,,,Percent,Units,10.1
+2010,Normal value,Batken,,Percent,Units,6.4
+2013,Normal value,Batken,,Percent,Units,3.1
+2014,Normal value,Batken,,Percent,Units,3.0
+2015,Normal value,Batken,,Percent,Units,2.3
+2016,Normal value,Batken,,Percent,Units,2.4
+2017,Normal value,Batken,,Percent,Units,4.5
+2010,Normal value,Jalal-Abad,,Percent,Units,3.1
+2013,Normal value,Jalal-Abad,,Percent,Units,5.1
+2014,Normal value,Jalal-Abad,,Percent,Units,5.3
+2015,Normal value,Jalal-Abad,,Percent,Units,5.5
+2016,Normal value,Jalal-Abad,,Percent,Units,5.4
+2017,Normal value,Jalal-Abad,,Percent,Units,8.9
+2010,Normal value,Issyk-Kul,,Percent,Units,3.2
+2013,Normal value,Issyk-Kul,,Percent,Units,4.1
+2014,Normal value,Issyk-Kul,,Percent,Units,4.2
+2015,Normal value,Issyk-Kul,,Percent,Units,4.7
+2016,Normal value,Issyk-Kul,,Percent,Units,5.3
+2017,Normal value,Issyk-Kul,,Percent,Units,6.4
+2010,Normal value,Naryn,,Percent,Units,2.4
+2013,Normal value,Naryn,,Percent,Units,1.4
+2014,Normal value,Naryn,,Percent,Units,0.9
+2015,Normal value,Naryn,,Percent,Units,1.1
+2016,Normal value,Naryn,,Percent,Units,1.4
+2017,Normal value,Naryn,,Percent,Units,2.3
+2010,Normal value,Osh,,Percent,Units,6.3
+2013,Normal value,Osh,,Percent,Units,2.7
+2014,Normal value,Osh,,Percent,Units,2.8
+2015,Normal value,Osh,,Percent,Units,3.4
+2016,Normal value,Osh,,Percent,Units,3.3
+2017,Normal value,Osh,,Percent,Units,4.7
+2010,Normal value,Talas,,Percent,Units,2.6
+2013,Normal value,Talas,,Percent,Units,3.0
+2014,Normal value,Talas,,Percent,Units,2.2
+2015,Normal value,Talas,,Percent,Units,1.9
+2016,Normal value,Talas,,Percent,Units,2.1
+2017,Normal value,Talas,,Percent,Units,3.6
+2010,Normal value,Chui,,Percent,Units,14.3
+2013,Normal value,Chui,,Percent,Units,13.7
+2014,Normal value,Chui,,Percent,Units,13.7
+2015,Normal value,Chui,,Percent,Units,15.1
+2016,Normal value,Chui,,Percent,Units,16.0
+2017,Normal value,Chui,,Percent,Units,21.6
+2010,Normal value,Bishkek (city),,Percent,Units,14.5
+2013,Normal value,Bishkek (city),,Percent,Units,13.5
+2014,Normal value,Bishkek (city),,Percent,Units,13.5
+2015,Normal value,Bishkek (city),,Percent,Units,14.8
+2016,Normal value,Bishkek (city),,Percent,Units,15.4
+2017,Normal value,Bishkek (city),,Percent,Units,16.1
+2010,Normal value,Osh (city),,Percent,Units,
+2013,Normal value,Osh (city),,Percent,Units,7.5
+2014,Normal value,Osh (city),,Percent,Units,7.8
+2015,Normal value,Osh (city),,Percent,Units,5.1
+2016,Normal value,Osh (city),,Percent,Units,5.1
+2017,Normal value,Osh (city),,Percent,Units,7.6
+2010,Normal value,,Female,Percent,Units,9.3
+2013,Normal value,,Female,Percent,Units,8.8
+2014,Normal value,,Female,Percent,Units,8.9
+2015,Normal value,,Female,Percent,Units,8.4
+2016,Normal value,,Female,Percent,Units,9.1
+2017,Normal value,,Female,Percent,Units,11.3
+2010,Normal value,,Male,Percent,Units,6.7
+2013,Normal value,,Male,Percent,Units,5.7
+2014,Normal value,,Male,Percent,Units,5.6
+2015,Normal value,,Male,Percent,Units,6.7
+2016,Normal value,,Male,Percent,Units,6.7
+2017,Normal value,,Male,Percent,Units,9.3

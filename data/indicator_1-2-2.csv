@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGE,Observation status,Sex,Unit measure,Unit multiplier,Value
+2015,18 to 25 years old,Normal value,,Percent,Units,6.79069
+2016,18 to 25 years old,Normal value,,Percent,Units,8.50387
+2015,26 to 34 years old,Normal value,,Percent,Units,26.758356
+2016,26 to 34 years old,Normal value,,Percent,Units,17.28565
+2015,35 to 45 years old,Normal value,,Percent,Units,31.71024
+2016,35 to 45 years old,Normal value,,Percent,Units,22.071652
+2015,46 to 54 years old,Normal value,,Percent,Units,19.692742
+2016,46 to 54 years old,Normal value,,Percent,Units,15.333218
+2015,55 to 59 years old,Normal value,,Percent,Units,17.630348
+2016,55 to 59 years old,Normal value,,Percent,Units,15.315743
+2015,60 years old and over,Normal value,,Percent,Units,20.935462
+2016,60 years old and over,Normal value,,Percent,Units,18.405718
+2015,18 to 25 years old,Normal value,Male,Percent,Units,10.259909
+2016,18 to 25 years old,Normal value,Male,Percent,Units,15.15952
+2015,26 to 34 years old,Normal value,Male,Percent,Units,31.510788
+2016,26 to 34 years old,Normal value,Male,Percent,Units,18.446172
+2015,35 to 45 years old,Normal value,Male,Percent,Units,37.783253
+2016,35 to 45 years old,Normal value,Male,Percent,Units,25.664138
+2015,46 to 54 years old,Normal value,Male,Percent,Units,22.620785
+2016,46 to 54 years old,Normal value,Male,Percent,Units,16.818434
+2015,55 to 59 years old,Normal value,Male,Percent,Units,18.812176
+2016,55 to 59 years old,Normal value,Male,Percent,Units,14.583348
+2015,60 years old and over,Normal value,Male,Percent,Units,22.535099
+2016,60 years old and over,Normal value,Male,Percent,Units,22.207182
+2015,18 to 25 years old,Normal value,Female,Percent,Units,4.052113
+2016,18 to 25 years old,Normal value,Female,Percent,Units,3.023204
+2015,26 to 34 years old,Normal value,Female,Percent,Units,11.711487
+2016,26 to 34 years old,Normal value,Female,Percent,Units,14.565238
+2015,35 to 45 years old,Normal value,Female,Percent,Units,12.380541
+2016,35 to 45 years old,Normal value,Female,Percent,Units,11.472544
+2015,46 to 54 years old,Normal value,Female,Percent,Units,12.570721
+2016,46 to 54 years old,Normal value,Female,Percent,Units,11.735491
+2015,55 to 59 years old,Normal value,Female,Percent,Units,15.365182
+2016,55 to 59 years old,Normal value,Female,Percent,Units,16.674837
+2015,60 years old and over,Normal value,Female,Percent,Units,19.46645
+2016,60 years old and over,Normal value,Female,Percent,Units,14.964181
