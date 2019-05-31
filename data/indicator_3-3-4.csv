@@ -1,7 +1,361 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Observation status,Area,Sex,Unit measure,Unit multiplier,Value
+2007,Normal value,,,"Per 100,000 population",Units,12.090992
+2008,Normal value,,,"Per 100,000 population",Units,10.585236
+2009,Normal value,,,"Per 100,000 population",Units,10.866987
+2010,Normal value,,,"Per 100,000 population",Units,9.159392
+2011,Normal value,,,"Per 100,000 population",Units,9.955113
+2012,Normal value,,,"Per 100,000 population",Units,10.075772
+2013,Normal value,,,"Per 100,000 population",Units,8.0
+2014,Normal value,,,"Per 100,000 population",Units,7.5
+2015,Normal value,,,"Per 100,000 population",Units,5.9
+2016,Normal value,,,"Per 100,000 population",Units,6.0
+2017,Normal value,,,"Per 100,000 population",Units,5.3
+2018,Normal value,,,"Per 100,000 population",Units,5.139872
+2007,Normal value,,Female,"Per 100,000 population",Units,10.26386
+2008,Normal value,,Female,"Per 100,000 population",Units,8.088592
+2009,Normal value,,Female,"Per 100,000 population",Units,7.22507
+2010,Normal value,,Female,"Per 100,000 population",Units,6.597241
+2011,Normal value,,Female,"Per 100,000 population",Units,7.700463
+2012,Normal value,,Female,"Per 100,000 population",Units,7.084345
+2013,Normal value,,Female,"Per 100,000 population",Units,6.4
+2014,Normal value,,Female,"Per 100,000 population",Units,5.5
+2015,Normal value,,Female,"Per 100,000 population",Units,4.2
+2016,Normal value,,Female,"Per 100,000 population",Units,4.5
+2017,Normal value,,Female,"Per 100,000 population",Units,4.3
+2018,Normal value,,Female,"Per 100,000 population",Units,3.54522
+2007,Normal value,,Male,"Per 100,000 population",Units,13.967856
+2008,Normal value,,Male,"Per 100,000 population",Units,13.149996
+2009,Normal value,,Male,"Per 100,000 population",Units,14.604805
+2010,Normal value,,Male,"Per 100,000 population",Units,11.787756
+2011,Normal value,,Male,"Per 100,000 population",Units,12.267172
+2012,Normal value,,Male,"Per 100,000 population",Units,13.139518
+2013,Normal value,,Male,"Per 100,000 population",Units,9.5
+2014,Normal value,,Male,"Per 100,000 population",Units,9.5
+2015,Normal value,,Male,"Per 100,000 population",Units,7.5
+2016,Normal value,,Male,"Per 100,000 population",Units,7.5
+2017,Normal value,,Male,"Per 100,000 population",Units,6.2
+2018,Normal value,,Male,"Per 100,000 population",Units,6.760797
+2007,Normal value,Batken,,"Per 100,000 population",Units,20.180533
+2008,Normal value,Batken,,"Per 100,000 population",Units,20.012808
+2009,Normal value,Batken,,"Per 100,000 population",Units,11.615832
+2010,Normal value,Batken,,"Per 100,000 population",Units,4.57193
+2011,Normal value,Batken,,"Per 100,000 population",Units,11.68605
+2012,Normal value,Batken,,"Per 100,000 population",Units,8.592769
+2013,Normal value,Batken,,"Per 100,000 population",Units,7.1
+2014,Normal value,Batken,,"Per 100,000 population",Units,5.7
+2015,Normal value,Batken,,"Per 100,000 population",Units,4.9
+2016,Normal value,Batken,,"Per 100,000 population",Units,8.6
+2017,Normal value,Batken,,"Per 100,000 population",Units,2.6
+2018,Normal value,Batken,,"Per 100,000 population",Units,3.080721
+2007,Normal value,Batken,Female,"Per 100,000 population",Units,18.345435
+2008,Normal value,Batken,Female,"Per 100,000 population",Units,17.247244
+2009,Normal value,Batken,Female,"Per 100,000 population",Units,9.457249
+2010,Normal value,Batken,Female,"Per 100,000 population",Units,3.253393
+2011,Normal value,Batken,Female,"Per 100,000 population",Units,8.215202
+2012,Normal value,Batken,Female,"Per 100,000 population",Units,6.264963
+2013,Normal value,Batken,Female,"Per 100,000 population",Units,7.0
+2014,Normal value,Batken,Female,"Per 100,000 population",Units,5.1
+2015,Normal value,Batken,Female,"Per 100,000 population",Units,4.2
+2016,Normal value,Batken,Female,"Per 100,000 population",Units,9.0
+2017,Normal value,Batken,Female,"Per 100,000 population",Units,2.8
+2018,Normal value,Batken,Female,"Per 100,000 population",Units,2.746401
+2007,Normal value,Batken,Male,"Per 100,000 population",Units,21.956256
+2008,Normal value,Batken,Male,"Per 100,000 population",Units,22.68529
+2009,Normal value,Batken,Male,"Per 100,000 population",Units,13.700569
+2010,Normal value,Batken,Male,"Per 100,000 population",Units,5.848164
+2011,Normal value,Batken,Male,"Per 100,000 population",Units,15.052973
+2012,Normal value,Batken,Male,"Per 100,000 population",Units,10.850459
+2013,Normal value,Batken,Male,"Per 100,000 population",Units,7.2
+2014,Normal value,Batken,Male,"Per 100,000 population",Units,6.2
+2015,Normal value,Batken,Male,"Per 100,000 population",Units,5.7
+2016,Normal value,Batken,Male,"Per 100,000 population",Units,8.3
+2017,Normal value,Batken,Male,"Per 100,000 population",Units,2.3
+2018,Normal value,Batken,Male,"Per 100,000 population",Units,3.402904
+2007,Normal value,Jalal-Abad,,"Per 100,000 population",Units,5.870303
+2008,Normal value,Jalal-Abad,,"Per 100,000 population",Units,6.4034
+2009,Normal value,Jalal-Abad,,"Per 100,000 population",Units,6.305723
+2010,Normal value,Jalal-Abad,,"Per 100,000 population",Units,5.922974
+2011,Normal value,Jalal-Abad,,"Per 100,000 population",Units,4.782698
+2012,Normal value,Jalal-Abad,,"Per 100,000 population",Units,8.916337
+2013,Normal value,Jalal-Abad,,"Per 100,000 population",Units,7.2
+2014,Normal value,Jalal-Abad,,"Per 100,000 population",Units,5.8
+2015,Normal value,Jalal-Abad,,"Per 100,000 population",Units,4.4
+2016,Normal value,Jalal-Abad,,"Per 100,000 population",Units,2.6
+2017,Normal value,Jalal-Abad,,"Per 100,000 population",Units,3.3
+2018,Normal value,Jalal-Abad,,"Per 100,000 population",Units,2.661109
+2007,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,4.656511
+2008,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,4.604632
+2009,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,5.719538
+2010,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,4.08245
+2011,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,4.788933
+2012,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,7.898627
+2013,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,6.6
+2014,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,3.3
+2015,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,3.5
+2016,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,2.4
+2017,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,2.7
+2018,Normal value,Jalal-Abad,Female,"Per 100,000 population",Units,1.673357
+2007,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,7.083701
+2008,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,8.200459
+2009,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,6.89089
+2010,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,7.759592
+2011,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,4.77648
+2012,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,9.930263
+2013,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,7.7
+2014,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,8.3
+2015,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,5.3
+2016,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,2.8
+2017,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,3.9
+2018,Normal value,Jalal-Abad,Male,"Per 100,000 population",Units,3.636935
+2007,Normal value,Issyk-Kul,,"Per 100,000 population",Units,10.136497
+2008,Normal value,Issyk-Kul,,"Per 100,000 population",Units,7.333378
+2009,Normal value,Issyk-Kul,,"Per 100,000 population",Units,9.101396
+2010,Normal value,Issyk-Kul,,"Per 100,000 population",Units,9.25673
+2011,Normal value,Issyk-Kul,,"Per 100,000 population",Units,10.980097
+2012,Normal value,Issyk-Kul,,"Per 100,000 population",Units,8.209561
+2013,Normal value,Issyk-Kul,,"Per 100,000 population",Units,9.9
+2014,Normal value,Issyk-Kul,,"Per 100,000 population",Units,6.9
+2015,Normal value,Issyk-Kul,,"Per 100,000 population",Units,5.4
+2016,Normal value,Issyk-Kul,,"Per 100,000 population",Units,4.4
+2017,Normal value,Issyk-Kul,,"Per 100,000 population",Units,4.6
+2018,Normal value,Issyk-Kul,,"Per 100,000 population",Units,6.168093
+2007,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,6.813722
+2008,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,5.881022
+2009,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,5.848427
+2010,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,4.917674
+2011,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,7.995523
+2012,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,7.042811
+2013,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,6.5
+2014,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,5.2
+2015,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,4.7
+2016,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,2.5
+2017,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,5.4
+2018,Normal value,Issyk-Kul,Female,"Per 100,000 population",Units,2.86608
+2007,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,13.555773
+2008,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,8.824445
+2009,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,12.43031
+2010,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,13.683759
+2011,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,14.018523
+2012,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,9.395469
+2013,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,13.3
+2014,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,8.7
+2015,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,6.0
+2016,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,6.4
+2017,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,3.8
+2018,Normal value,Issyk-Kul,Male,"Per 100,000 population",Units,9.498716
+2007,Normal value,Naryn,,"Per 100,000 population",Units,12.055783
+2008,Normal value,Naryn,,"Per 100,000 population",Units,7.000704
+2009,Normal value,Naryn,,"Per 100,000 population",Units,11.614177
+2010,Normal value,Naryn,,"Per 100,000 population",Units,7.669976
+2011,Normal value,Naryn,,"Per 100,000 population",Units,11.003939
+2012,Normal value,Naryn,,"Per 100,000 population",Units,6.753639
+2013,Normal value,Naryn,,"Per 100,000 population",Units,6.7
+2014,Normal value,Naryn,,"Per 100,000 population",Units,4.4
+2015,Normal value,Naryn,,"Per 100,000 population",Units,2.2
+2016,Normal value,Naryn,,"Per 100,000 population",Units,4.3
+2017,Normal value,Naryn,,"Per 100,000 population",Units,2.8
+2018,Normal value,Naryn,,"Per 100,000 population",Units,3.152773
+2007,Normal value,Naryn,Female,"Per 100,000 population",Units,10.98996
+2008,Normal value,Naryn,Female,"Per 100,000 population",Units,7.071469
+2009,Normal value,Naryn,Female,"Per 100,000 population",Units,3.916684
+2010,Normal value,Naryn,Female,"Per 100,000 population",Units,4.66128
+2011,Normal value,Naryn,Female,"Per 100,000 population",Units,9.231337
+2012,Normal value,Naryn,Female,"Per 100,000 population",Units,5.330531
+2013,Normal value,Naryn,Female,"Per 100,000 population",Units,4.5
+2014,Normal value,Naryn,Female,"Per 100,000 population",Units,2.2
+2015,Normal value,Naryn,Female,"Per 100,000 population",Units,1.5
+2016,Normal value,Naryn,Female,"Per 100,000 population",Units,1.5
+2017,Normal value,Naryn,Female,"Per 100,000 population",Units,3.6
+2018,Normal value,Naryn,Female,"Per 100,000 population",Units,2.853067
+2007,Normal value,Naryn,Male,"Per 100,000 population",Units,13.10222
+2008,Normal value,Naryn,Male,"Per 100,000 population",Units,6.931341
+2009,Normal value,Naryn,Male,"Per 100,000 population",Units,19.13568
+2010,Normal value,Naryn,Male,"Per 100,000 population",Units,10.603089
+2011,Normal value,Naryn,Male,"Per 100,000 population",Units,12.729315
+2012,Normal value,Naryn,Male,"Per 100,000 population",Units,8.135854
+2013,Normal value,Naryn,Male,"Per 100,000 population",Units,8.8
+2014,Normal value,Naryn,Male,"Per 100,000 population",Units,6.5
+2015,Normal value,Naryn,Male,"Per 100,000 population",Units,2.9
+2016,Normal value,Naryn,Male,"Per 100,000 population",Units,7.1
+2017,Normal value,Naryn,Male,"Per 100,000 population",Units,2.1
+2018,Normal value,Naryn,Male,"Per 100,000 population",Units,3.442033
+2007,Normal value,Osh,,"Per 100,000 population",Units,3.797045
+2008,Normal value,Osh,,"Per 100,000 population",Units,4.117327
+2009,Normal value,Osh,,"Per 100,000 population",Units,7.48076
+2010,Normal value,Osh,,"Per 100,000 population",Units,8.360245
+2011,Normal value,Osh,,"Per 100,000 population",Units,6.407336
+2012,Normal value,Osh,,"Per 100,000 population",Units,4.222387
+2013,Normal value,Osh,,"Per 100,000 population",Units,5.1
+2014,Normal value,Osh,,"Per 100,000 population",Units,6.3
+2015,Normal value,Osh,,"Per 100,000 population",Units,3.5
+2016,Normal value,Osh,,"Per 100,000 population",Units,4.6
+2017,Normal value,Osh,,"Per 100,000 population",Units,5.9
+2018,Normal value,Osh,,"Per 100,000 population",Units,4.442955
+2007,Normal value,Osh,Female,"Per 100,000 population",Units,3.920595
+2008,Normal value,Osh,Female,"Per 100,000 population",Units,3.504507
+2009,Normal value,Osh,Female,"Per 100,000 population",Units,5.269824
+2010,Normal value,Osh,Female,"Per 100,000 population",Units,6.451682
+2011,Normal value,Osh,Female,"Per 100,000 population",Units,5.833243
+2012,Normal value,Osh,Female,"Per 100,000 population",Units,3.298262
+2013,Normal value,Osh,Female,"Per 100,000 population",Units,4.6
+2014,Normal value,Osh,Female,"Per 100,000 population",Units,5.0
+2015,Normal value,Osh,Female,"Per 100,000 population",Units,2.6
+2016,Normal value,Osh,Female,"Per 100,000 population",Units,2.4
+2017,Normal value,Osh,Female,"Per 100,000 population",Units,5.3
+2018,Normal value,Osh,Female,"Per 100,000 population",Units,3.043862
+2007,Normal value,Osh,Male,"Per 100,000 population",Units,3.67543
+2008,Normal value,Osh,Male,"Per 100,000 population",Units,4.720552
+2009,Normal value,Osh,Male,"Per 100,000 population",Units,9.65648
+2010,Normal value,Osh,Male,"Per 100,000 population",Units,10.240565
+2011,Normal value,Osh,Male,"Per 100,000 population",Units,6.973549
+2012,Normal value,Osh,Male,"Per 100,000 population",Units,5.133295
+2013,Normal value,Osh,Male,"Per 100,000 population",Units,5.5
+2014,Normal value,Osh,Male,"Per 100,000 population",Units,7.7
+2015,Normal value,Osh,Male,"Per 100,000 population",Units,4.5
+2016,Normal value,Osh,Male,"Per 100,000 population",Units,6.8
+2017,Normal value,Osh,Male,"Per 100,000 population",Units,6.5
+2018,Normal value,Osh,Male,"Per 100,000 population",Units,5.813217
+2007,Normal value,Talas,,"Per 100,000 population",Units,7.635028
+2008,Normal value,Talas,,"Per 100,000 population",Units,5.776699
+2009,Normal value,Talas,,"Per 100,000 population",Units,4.832
+2010,Normal value,Talas,,"Per 100,000 population",Units,11.284379
+2011,Normal value,Talas,,"Per 100,000 population",Units,8.134502
+2012,Normal value,Talas,,"Per 100,000 population",Units,8.424032
+2013,Normal value,Talas,,"Per 100,000 population",Units,7.9
+2014,Normal value,Talas,,"Per 100,000 population",Units,6.5
+2015,Normal value,Talas,,"Per 100,000 population",Units,5.2
+2016,Normal value,Talas,,"Per 100,000 population",Units,6.3
+2017,Normal value,Talas,,"Per 100,000 population",Units,3.9
+2018,Normal value,Talas,,"Per 100,000 population",Units,2.679877
+2007,Normal value,Talas,Female,"Per 100,000 population",Units,10.776346
+2008,Normal value,Talas,Female,"Per 100,000 population",Units,7.11383
+2009,Normal value,Talas,Female,"Per 100,000 population",Units,3.520042
+2010,Normal value,Talas,Female,"Per 100,000 population",Units,13.05733
+2011,Normal value,Talas,Female,"Per 100,000 population",Units,6.020884
+2012,Normal value,Talas,Female,"Per 100,000 population",Units,6.779718
+2013,Normal value,Talas,Female,"Per 100,000 population",Units,5.0
+2014,Normal value,Talas,Female,"Per 100,000 population",Units,5.8
+2015,Normal value,Talas,Female,"Per 100,000 population",Units,2.4
+2016,Normal value,Talas,Female,"Per 100,000 population",Units,5.6
+2017,Normal value,Talas,Female,"Per 100,000 population",Units,1.6
+2018,Normal value,Talas,Female,"Per 100,000 population",Units,3.096263
+2007,Normal value,Talas,Male,"Per 100,000 population",Units,4.492242
+2008,Normal value,Talas,Male,"Per 100,000 population",Units,4.441089
+2009,Normal value,Talas,Male,"Per 100,000 population",Units,6.139597
+2010,Normal value,Talas,Male,"Per 100,000 population",Units,9.521419
+2011,Normal value,Talas,Male,"Per 100,000 population",Units,10.22922
+2012,Normal value,Talas,Male,"Per 100,000 population",Units,10.048821
+2013,Normal value,Talas,Male,"Per 100,000 population",Units,10.7
+2014,Normal value,Talas,Male,"Per 100,000 population",Units,7.3
+2015,Normal value,Talas,Male,"Per 100,000 population",Units,8.0
+2016,Normal value,Talas,Male,"Per 100,000 population",Units,7.0
+2017,Normal value,Talas,Male,"Per 100,000 population",Units,6.2
+2018,Normal value,Talas,Male,"Per 100,000 population",Units,2.272417
+2007,Normal value,Chui,,"Per 100,000 population",Units,12.255614
+2008,Normal value,Chui,,"Per 100,000 population",Units,13.153626
+2009,Normal value,Chui,,"Per 100,000 population",Units,11.182041
+2010,Normal value,Chui,,"Per 100,000 population",Units,6.530648
+2011,Normal value,Chui,,"Per 100,000 population",Units,10.259855
+2012,Normal value,Chui,,"Per 100,000 population",Units,8.790298
+2013,Normal value,Chui,,"Per 100,000 population",Units,6.6
+2014,Normal value,Chui,,"Per 100,000 population",Units,6.5
+2015,Normal value,Chui,,"Per 100,000 population",Units,5.8
+2016,Normal value,Chui,,"Per 100,000 population",Units,5.4
+2017,Normal value,Chui,,"Per 100,000 population",Units,4.8
+2018,Normal value,Chui,,"Per 100,000 population",Units,6.334346
+2007,Normal value,Chui,Female,"Per 100,000 population",Units,9.181073
+2008,Normal value,Chui,Female,"Per 100,000 population",Units,8.612184
+2009,Normal value,Chui,Female,"Per 100,000 population",Units,7.080216
+2010,Normal value,Chui,Female,"Per 100,000 population",Units,6.056436
+2011,Normal value,Chui,Female,"Per 100,000 population",Units,8.891004
+2012,Normal value,Chui,Female,"Per 100,000 population",Units,7.112005
+2013,Normal value,Chui,Female,"Per 100,000 population",Units,6.3
+2014,Normal value,Chui,Female,"Per 100,000 population",Units,3.9
+2015,Normal value,Chui,Female,"Per 100,000 population",Units,4.7
+2016,Normal value,Chui,Female,"Per 100,000 population",Units,4.2
+2017,Normal value,Chui,Female,"Per 100,000 population",Units,2.6
+2018,Normal value,Chui,Female,"Per 100,000 population",Units,4.864719
+2007,Normal value,Chui,Male,"Per 100,000 population",Units,15.445168
+2008,Normal value,Chui,Male,"Per 100,000 population",Units,17.863614
+2009,Normal value,Chui,Male,"Per 100,000 population",Units,15.432489
+2010,Normal value,Chui,Male,"Per 100,000 population",Units,7.021521
+2011,Normal value,Chui,Male,"Per 100,000 population",Units,11.674872
+2012,Normal value,Chui,Male,"Per 100,000 population",Units,10.522735
+2013,Normal value,Chui,Male,"Per 100,000 population",Units,7.0
+2014,Normal value,Chui,Male,"Per 100,000 population",Units,9.2
+2015,Normal value,Chui,Male,"Per 100,000 population",Units,6.9
+2016,Normal value,Chui,Male,"Per 100,000 population",Units,6.6
+2017,Normal value,Chui,Male,"Per 100,000 population",Units,7.1
+2018,Normal value,Chui,Male,"Per 100,000 population",Units,7.849328
+2007,Normal value,Bishkek (city),,"Per 100,000 population",Units,19.444499
+2008,Normal value,Bishkek (city),,"Per 100,000 population",Units,16.559633
+2009,Normal value,Bishkek (city),,"Per 100,000 population",Units,18.582512
+2010,Normal value,Bishkek (city),,"Per 100,000 population",Units,17.465079
+2011,Normal value,Bishkek (city),,"Per 100,000 population",Units,16.607541
+2012,Normal value,Bishkek (city),,"Per 100,000 population",Units,17.864088
+2013,Normal value,Bishkek (city),,"Per 100,000 population",Units,10.1
+2014,Normal value,Bishkek (city),,"Per 100,000 population",Units,9.5
+2015,Normal value,Bishkek (city),,"Per 100,000 population",Units,7.9
+2016,Normal value,Bishkek (city),,"Per 100,000 population",Units,10.1
+2017,Normal value,Bishkek (city),,"Per 100,000 population",Units,10.1
+2018,Normal value,Bishkek (city),,"Per 100,000 population",Units,8.968212
+2007,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,15.310366
+2008,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,11.046411
+2009,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,10.882674
+2010,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,9.84267
+2011,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,10.76723
+2012,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,7.817766
+2013,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,7.4
+2014,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,7.1
+2015,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,4.6
+2016,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,7.0
+2017,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,7.6
+2018,Normal value,Bishkek (city),Female,"Per 100,000 population",Units,5.929539
+2007,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,24.204157
+2008,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,22.932791
+2009,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,27.489325
+2010,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,26.266739
+2011,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,23.342207
+2012,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,29.427859
+2013,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,13.1
+2014,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,12.3
+2015,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,11.8
+2016,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,13.7
+2017,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,12.9
+2018,Normal value,Bishkek (city),Male,"Per 100,000 population",Units,12.420425
+2007,Normal value,Osh (city),,"Per 100,000 population",Units,40.964579
+2008,Normal value,Osh (city),,"Per 100,000 population",Units,24.854562
+2009,Normal value,Osh (city),,"Per 100,000 population",Units,23.592385
+2010,Normal value,Osh (city),,"Per 100,000 population",Units,13.593447
+2011,Normal value,Osh (city),,"Per 100,000 population",Units,19.152071
+2012,Normal value,Osh (city),,"Per 100,000 population",Units,29.440248
+2013,Normal value,Osh (city),,"Per 100,000 population",Units,21.3
+2014,Normal value,Osh (city),,"Per 100,000 population",Units,24.7
+2015,Normal value,Osh (city),,"Per 100,000 population",Units,22.3
+2016,Normal value,Osh (city),,"Per 100,000 population",Units,14.0
+2017,Normal value,Osh (city),,"Per 100,000 population",Units,4.9
+2018,Normal value,Osh (city),,"Per 100,000 population",Units,7.479508
+2007,Normal value,Osh (city),Female,"Per 100,000 population",Units,35.243744
+2008,Normal value,Osh (city),Female,"Per 100,000 population",Units,19.402116
+2009,Normal value,Osh (city),Female,"Per 100,000 population",Units,14.139324
+2010,Normal value,Osh (city),Female,"Per 100,000 population",Units,11.947431
+2011,Normal value,Osh (city),Female,"Per 100,000 population",Units,11.255262
+2012,Normal value,Osh (city),Female,"Per 100,000 population",Units,20.837209
+2013,Normal value,Osh (city),Female,"Per 100,000 population",Units,12.4
+2014,Normal value,Osh (city),Female,"Per 100,000 population",Units,20.9
+2015,Normal value,Osh (city),Female,"Per 100,000 population",Units,14.9
+2016,Normal value,Osh (city),Female,"Per 100,000 population",Units,12.5
+2017,Normal value,Osh (city),Female,"Per 100,000 population",Units,4.1
+2018,Normal value,Osh (city),Female,"Per 100,000 population",Units,3.953533
+2007,Normal value,Osh (city),Male,"Per 100,000 population",Units,47.169044
+2008,Normal value,Osh (city),Male,"Per 100,000 population",Units,30.771224
+2009,Normal value,Osh (city),Male,"Per 100,000 population",Units,33.821599
+2010,Normal value,Osh (city),Male,"Per 100,000 population",Units,15.377518
+2011,Normal value,Osh (city),Male,"Per 100,000 population",Units,27.737893
+2012,Normal value,Osh (city),Male,"Per 100,000 population",Units,38.780044
+2013,Normal value,Osh (city),Male,"Per 100,000 population",Units,30.9
+2014,Normal value,Osh (city),Male,"Per 100,000 population",Units,28.7
+2015,Normal value,Osh (city),Male,"Per 100,000 population",Units,30.4
+2016,Normal value,Osh (city),Male,"Per 100,000 population",Units,15.6
+2017,Normal value,Osh (city),Male,"Per 100,000 population",Units,5.8
+2018,Normal value,Osh (city),Male,"Per 100,000 population",Units,11.238007
