@@ -82,11 +82,6 @@ prose:
             element: text
             label: "Classification"
             scope: national
-      - name: "national_indicator_available"
-        field:
-            element: text
-            label: "Indicator available"
-            scope: national
       - name: "customisation"
         field:
             element: select
@@ -104,7 +99,12 @@ prose:
               - name: '4'
                 value: 'meta.customisation-4'
                 translation_key: 'meta.customisation-4'
-            scope: data
+            scope: national
+      - name: "national_indicator_available"
+        field:
+            element: text
+            label: "Indicator available"
+            scope: national
       - name: "national_indicator_description"
         field:
             element: text
