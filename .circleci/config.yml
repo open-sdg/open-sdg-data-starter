@@ -20,6 +20,11 @@ jobs:
           paths:
             - ./venv
       - run:
+          name: Validate user
+          command: |
+            . venv/bin/activate
+            python3 scripts/test/validate-user.py
+      - run:
           name: Check data
           command: |
             . venv/bin/activate
