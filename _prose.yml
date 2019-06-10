@@ -234,6 +234,19 @@ prose:
             element: text
             label: "Organisation"
             scope: source_1
+      - name: source_compilation_1
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_1
+      - name: source_implementation_1
+            element: text
+            label: "Implementation"
+            scope: source_1
+      - name: source_data_1
+            element: text
+            label: "Data"
+            scope: source_1
       - name: "source_periodicity_1"
         field:
             element: text
@@ -300,6 +313,19 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_2
+      - name: source_compilation_2
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_2
+      - name: source_implementation_2
+            element: text
+            label: "Implementation"
+            scope: source_2
+      - name: source_data_2
+            element: text
+            label: "Data"
             scope: source_2
       - name: "source_periodicity_2"
         field:
@@ -368,6 +394,19 @@ prose:
             element: text
             label: "Organisation"
             scope: source_3
+      - name: source_compilation_3
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_3
+      - name: source_implementation_3
+            element: text
+            label: "Implementation"
+            scope: source_3
+      - name: source_data_3
+            element: text
+            label: "Data"
+            scope: source_3
       - name: "source_periodicity_3"
         field:
             element: text
@@ -434,6 +473,19 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_4
+      - name: source_compilation_4
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_4
+      - name: source_implementation_4
+            element: text
+            label: "Implementation"
+            scope: source_4
+      - name: source_data_4
+            element: text
+            label: "Data"
             scope: source_4
       - name: "source_periodicity_4"
         field:
@@ -502,6 +554,19 @@ prose:
             element: text
             label: "Organisation"
             scope: source_5
+      - name: source_compilation_5
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_5
+      - name: source_implementation_5
+            element: text
+            label: "Implementation"
+            scope: source_5
+      - name: source_data_5
+            element: text
+            label: "Data"
+            scope: source_5
       - name: "source_periodicity_5"
         field:
             element: text
@@ -568,6 +633,19 @@ prose:
         field:
             element: text
             label: "Organisation"
+            scope: source_6
+      - name: source_compilation_6
+        field:
+            element: text
+            label: "Compilation"
+            scope: source_6
+      - name: source_implementation_6
+            element: text
+            label: "Implementation"
+            scope: source_6
+      - name: source_data_6
+            element: text
+            label: "Data"
             scope: source_6
       - name: "source_periodicity_6"
         field:
