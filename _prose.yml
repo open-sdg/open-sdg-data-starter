@@ -240,10 +240,12 @@ prose:
             label: "Compilation"
             scope: source_1
       - name: source_implementation_1
+        field:
             element: text
             label: "Implementation"
             scope: source_1
       - name: source_data_1
+        field:
             element: text
             label: "Data"
             scope: source_1
@@ -320,10 +322,12 @@ prose:
             label: "Compilation"
             scope: source_2
       - name: source_implementation_2
+        field:
             element: text
             label: "Implementation"
             scope: source_2
       - name: source_data_2
+        field:
             element: text
             label: "Data"
             scope: source_2
@@ -400,10 +404,12 @@ prose:
             label: "Compilation"
             scope: source_3
       - name: source_implementation_3
+        field:
             element: text
             label: "Implementation"
             scope: source_3
       - name: source_data_3
+        field:
             element: text
             label: "Data"
             scope: source_3
@@ -480,10 +486,12 @@ prose:
             label: "Compilation"
             scope: source_4
       - name: source_implementation_4
+        field:
             element: text
             label: "Implementation"
             scope: source_4
       - name: source_data_4
+        field:
             element: text
             label: "Data"
             scope: source_4
@@ -560,10 +568,12 @@ prose:
             label: "Compilation"
             scope: source_5
       - name: source_implementation_5
+        field:
             element: text
             label: "Implementation"
             scope: source_5
       - name: source_data_5
+        field:
             element: text
             label: "Data"
             scope: source_5
@@ -640,10 +650,12 @@ prose:
             label: "Compilation"
             scope: source_6
       - name: source_implementation_6
+        field:
             element: text
             label: "Implementation"
             scope: source_6
       - name: source_data_6
+        field:
             element: text
             label: "Data"
             scope: source_6
