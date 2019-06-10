@@ -333,7 +333,7 @@ def parse_excel_sheet(sheet):
         if row.isnull().all():
             continue
 
-        alert('Parsing new row')
+        #alert('Parsing new row')
 
         # Is this the beginning of an indicator?
         indicator_start = is_indicator_start(row)
@@ -364,11 +364,11 @@ def parse_excel_sheet(sheet):
                 # Output some text to copy into a translation file. This has
                 # been done once, so no need to output this anymore.
                 #print(name_translation_key + ': ' + name)
-                tags = []
+                #tags = []
                 # Give it a tag if the customisation value is more than 1.
-                if isinstance(row['customisation'], int) and row['customisation'] > 1:
-                    tag = 'meta.customisation-' + str(row['customisation'])
-                    tags.append(tag)
+                #if isinstance(row['customisation'], int) and row['customisation'] > 1:
+                #    tag = 'meta.customisation-' + str(row['customisation'])
+                #    tags.append(tag)
                 indicator_map[current_id] = {
                     'national_or_global': national_or_global,
                     'meta': {
@@ -382,11 +382,11 @@ def parse_excel_sheet(sheet):
                         'source_data_1': row['source'],
                         'source_compilation_1': row['compilation'],
                         'source_implementation_1': row['implementation'],
-                        'customisation': row['customisation'],
-                        'classification': row['classification'],
-                        'availability': row['availability'],
+                        #'customisation': row['customisation'],
+                        #'classification': row['classification'],
+                        #'availability': row['availability'],
                         'computation_units': row['unit'],
-                        'tags': tags
+                        'tags': []
                     },
                     'data': []
                 }
@@ -400,7 +400,7 @@ def parse_excel_sheet(sheet):
             # In some cases, there is data in the starting row. We assume
             # in these cases that there is no disaggregation.
             if has_yearly_data(row):
-                alert('Data was in starting row: ' + current_id)
+                #alert('Data was in starting row: ' + current_id)
                 data = {
                     'disaggregations': [],
                     'years': row[YEARS]
@@ -414,26 +414,26 @@ def parse_excel_sheet(sheet):
             # Does this row indicate a disaggregation category?
             disagg_start = is_disaggregation_start(row, current_id)
             if disagg_start:
-                alert('Disaggregation start: ' + disagg_start)
+                #alert('Disaggregation start: ' + disagg_start)
                 # If we had previous found all categories (in other words,
                 # we encountered a value after finding some categories) then
                 # we start a new list here.
                 if found_all_disaggregations:
-                    alert('Had previously found all disaggregations')
+                    #alert('Had previously found all disaggregations')
                     current_disaggregations = [disagg_start]
                     found_all_disaggregations = False
                 # Otherwise, we append to the current list.
                 else:
                     current_disaggregations.append(disagg_start)
 
-                alert('Continuing to next row')
+                #alert('Continuing to next row')
                 continue
 
             # If we get to this point we assume everything is yearly data.
             # If there is no yearly data, we won't know how to understand
             # what this row is.
             if not has_yearly_data(row):
-                alert('Assuming end of current disaggregations')
+                #alert('Assuming end of current disaggregations')
                 # We have to assume that this means that any current
                 # disaggregations have ended, so reset the disagg stuff.
                 current_disaggregations = []
@@ -456,7 +456,7 @@ def parse_excel_sheet(sheet):
                 'disaggregations': row_disaggregation,
                 'years': row[YEARS]
             }
-            alert('Adding a row of data with disaggregations: ' + ', '.join(row_disaggregation))
+            #alert('Adding a row of data with disaggregations: ' + ', '.join(row_disaggregation))
             indicator_map[current_id]['data'].append(data)
         else:
             alert('uhoh')
@@ -469,7 +469,7 @@ def is_valid_disaggregation(disagg):
     if disagg is None or not disagg:
         return False
     if disagg in single_disagg_values:
-        alert('Invalid disaggregation because it is a single-category value: ' + disagg)
+        #alert('Invalid disaggregation because it is a single-category value: ' + disagg)
         return False
     if disagg not in disagg_table:
         # Save this for a report of database/disaggregation mismatch.
@@ -477,6 +477,7 @@ def is_valid_disaggregation(disagg):
         if not isinstance(disagg_string, str):
             disagg_string = str(disagg_string)
         disagg_mismatches[disagg_string] = True
+        #alert('Invalid disaggregation because it is not in the map: ' + disagg_string)
         return False
     #alert('Valid!')
     return True
