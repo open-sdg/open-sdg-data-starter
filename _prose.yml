@@ -82,6 +82,24 @@ prose:
             element: text
             label: "Classification"
             scope: national
+      - name: "customisation"
+        field:
+            element: select
+            label: "Customisation"
+            options:
+              - name: '1'
+                value: 'meta.customisation-1'
+                translation_key: 'meta.customisation-1'
+              - name: '2'
+                value: 'meta.customisation-2'
+                translation_key: 'meta.customisation-2'
+              - name: '3'
+                value: 'meta.customisation-3'
+                translation_key: 'meta.customisation-3'
+              - name: '4'
+                value: 'meta.customisation-4'
+                translation_key: 'meta.customisation-4'
+            scope: national
       - name: "national_indicator_available"
         field:
             element: text
