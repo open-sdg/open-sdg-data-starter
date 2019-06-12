@@ -7,9 +7,9 @@ Year,Units,Sex,Category,Age,Value
 2016,%,female,,,30.2
 2015,%,,children,,31.4
 2016,%,,children,,34.2
-2015,%,,,age 0  to 5,26.3
-2016,%,,,age 0  to 5,33.7
-2015,%,,,age 6  to 17,34.2
+2015,%,,,aged 0-5 years,26.3
+2016,%,,,aged 0-5 years,33.7
+2015,%,,,aged 6-17 years,34.2
 2015,%,,,age 18  to 64,27.0
 2015,%,,,age 63 and older,34.6
 2016,%,,,age 63 and older,29.2
