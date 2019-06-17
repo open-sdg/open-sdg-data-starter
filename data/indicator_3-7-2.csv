@@ -1,19 +1,19 @@
 Year,Units,Age,Location,Value
-2015,"per 1,000 women",Aged 10-14 years,,0.03
-2016,"per 1,000 women",Aged 10-14 years,,0.05
-2017,"per 1,000 women",Aged 10-14 years,,0.02
-2015,"per 1,000 women",,Urban,0.04
-2016,"per 1,000 women",,Urban,0.04
-2017,"per 1,000 women",,Urban,0.04
-2015,"per 1,000 women",,Rural,0.0
-2016,"per 1,000 women",,Rural,0.06
-2017,"per 1,000 women",,Rural,0.0
-2015,"per 1,000 women",Aged 15-19 years,,24.3
-2016,"per 1,000 women",Aged 15-19 years,,24.0
-2017,"per 1,000 women",Aged 15-19 years,,21.1
-2015,"per 1,000 women",,Urban,18.5
-2016,"per 1,000 women",,Urban,18.1
-2017,"per 1,000 women",,Urban,14.4
-2015,"per 1,000 women",,Rural,32.6
-2016,"per 1,000 women",,Rural,32.7
-2017,"per 1,000 women",,Rural,31.1
+2015,"per 1,000 women",aged 10-14 years,,0.03
+2016,"per 1,000 women",aged 10-14 years,,0.05
+2017,"per 1,000 women",aged 10-14 years,,0.02
+2015,"per 1,000 women",,urban,0.04
+2016,"per 1,000 women",,urban,0.04
+2017,"per 1,000 women",,urban,0.04
+2015,"per 1,000 women",,rural,0.0
+2016,"per 1,000 women",,rural,0.06
+2017,"per 1,000 women",,rural,0.0
+2015,"per 1,000 women",aged 15-19 years,,24.3
+2016,"per 1,000 women",aged 15-19 years,,24.0
+2017,"per 1,000 women",aged 15-19 years,,21.1
+2015,"per 1,000 women",,urban,18.5
+2016,"per 1,000 women",,urban,18.1
+2017,"per 1,000 women",,urban,14.4
+2015,"per 1,000 women",,rural,32.6
+2016,"per 1,000 women",,rural,32.7
+2017,"per 1,000 women",,rural,31.1
