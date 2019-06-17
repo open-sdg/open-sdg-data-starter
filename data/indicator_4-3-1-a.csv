@@ -1,73 +1,73 @@
 Year,Units,Education type,Sex,Value
-2015,%,TOTAL  (Secondary),,86.4
-2016,%,TOTAL  (Secondary),,86.0
-2017,%,TOTAL  (Secondary),,85.7
-2015,%,,Male,84.6
-2016,%,,Male,84.7
-2017,%,,Male,84.6
-2015,%,,Female,88.3
-2016,%,,Female,87.5
-2017,%,,Female,87.0
-2015,%,Primary,,91.6
-2016,%,Primary,,91.2
-2017,%,Primary,,91.3
-2015,%,Primary,Male,91.6
-2016,%,Primary,Male,91.3
-2017,%,Primary,Male,91.5
-2015,%,Primary,Female,91.6
-2016,%,Primary,Female,91.2
-2017,%,Primary,Female,91.1
-2015,%,Lower secondary,,96.3
-2016,%,Lower secondary,,90.7
-2017,%,Lower secondary,,90.1
-2015,%,Lower secondary,Male,95.9
-2016,%,Lower secondary,Male,90.3
-2017,%,Lower secondary,Male,89.8
-2015,%,Lower secondary,Female,96.7
-2016,%,Lower secondary,Female,91.0
-2017,%,Lower secondary,Female,90.4
-2015,%,High,,57.9
-2016,%,High,,65.1
-2017,%,High,,65.5
-2015,%,High,Male,53.1
-2016,%,High,Male,59.4
-2017,%,High,Male,60.5
-2015,%,High,Female,63.5
-2016,%,High,Female,71.7
-2017,%,High,Female,71.1
-2015,%,Pre-Specialized (Vocational) Education,,7.2
-2016,%,Pre-Specialized (Vocational) Education,,8.1
-2017,%,Pre-Specialized (Vocational) Education,,8.6
-2015,%,Pre-Specialized (Vocational) Education,Male,9.8
-2016,%,Pre-Specialized (Vocational) Education,Male,10.9
-2017,%,Pre-Specialized (Vocational) Education,Male,11.4
-2015,%,Pre-Specialized (Vocational) Education,Female,4.2
-2016,%,Pre-Specialized (Vocational) Education,Female,4.9
-2017,%,Pre-Specialized (Vocational) Education,Female,5.4
-2015,%,Specialized Secondary Education,,10.9
-2016,%,Specialized Secondary Education,,11.1
-2017,%,Specialized Secondary Education,,11.5
-2015,%,Specialized Secondary Education,Male,9.5
-2016,%,Specialized Secondary Education,Male,9.8
-2017,%,Specialized Secondary Education,Male,10.0
-2015,%,Specialized Secondary Education,Female,12.5
-2016,%,Specialized Secondary Education,Female,12.5
-2017,%,Specialized Secondary Education,Female,13.1
-2015,%,"Specialized High Education, first stage (Bachelor's Degree)",,52.9
-2016,%,"Specialized High Education, first stage (Bachelor's Degree)",,54.1
-2017,%,"Specialized High Education, first stage (Bachelor's Degree)",,56.4
-2015,%,"Specialized High Education, first stage (Bachelor's Degree)",Male,47.0
-2016,%,"Specialized High Education, first stage (Bachelor's Degree)",Male,48.6
-2017,%,"Specialized High Education, first stage (Bachelor's Degree)",Male,51.5
-2015,%,"Specialized High Education, first stage (Bachelor's Degree)",Female,59.1
-2016,%,"Specialized High Education, first stage (Bachelor's Degree)",Female,60.0
-2017,%,"Specialized High Education, first stage (Bachelor's Degree)",Female,61.8
-2015,%,"Post-Graduate Education, second stage (Master's Degree)",,12.7
-2016,%,"Post-Graduate Education, second stage (Master's Degree)",,13.1
-2017,%,"Post-Graduate Education, second stage (Master's Degree)",,14.8
-2015,%,"Post-Graduate Education, second stage (Master's Degree)",Male,9.9
-2016,%,"Post-Graduate Education, second stage (Master's Degree)",Male,10.7
-2017,%,"Post-Graduate Education, second stage (Master's Degree)",Male,9.9
-2015,%,"Post-Graduate Education, second stage (Master's Degree)",Female,15.5
-2016,%,"Post-Graduate Education, second stage (Master's Degree)",Female,15.4
-2017,%,"Post-Graduate Education, second stage (Master's Degree)",Female,19.6
+2015,%,secondary,,86.4
+2016,%,secondary,,86.0
+2017,%,secondary,,85.7
+2015,%,secondary,male,84.6
+2016,%,secondary,male,84.7
+2017,%,secondary,male,84.6
+2015,%,secondary,female,88.3
+2016,%,secondary,female,87.5
+2017,%,secondary,female,87.0
+2015,%,primary,,91.6
+2016,%,primary,,91.2
+2017,%,primary,,91.3
+2015,%,primary,male,91.6
+2016,%,primary,male,91.3
+2017,%,primary,male,91.5
+2015,%,primary,female,91.6
+2016,%,primary,female,91.2
+2017,%,primary,female,91.1
+2015,%,lower secondary,,96.3
+2016,%,lower secondary,,90.7
+2017,%,lower secondary,,90.1
+2015,%,lower secondary,male,95.9
+2016,%,lower secondary,male,90.3
+2017,%,lower secondary,male,89.8
+2015,%,lower secondary,female,96.7
+2016,%,lower secondary,female,91.0
+2017,%,lower secondary,female,90.4
+2015,%,high,,57.9
+2016,%,high,,65.1
+2017,%,high,,65.5
+2015,%,high,male,53.1
+2016,%,high,male,59.4
+2017,%,high,male,60.5
+2015,%,high,female,63.5
+2016,%,high,female,71.7
+2017,%,high,female,71.1
+2015,%,pre-specialized (vocational) education,,7.2
+2016,%,pre-specialized (vocational) education,,8.1
+2017,%,pre-specialized (vocational) education,,8.6
+2015,%,pre-specialized (vocational) education,male,9.8
+2016,%,pre-specialized (vocational) education,male,10.9
+2017,%,pre-specialized (vocational) education,male,11.4
+2015,%,pre-specialized (vocational) education,female,4.2
+2016,%,pre-specialized (vocational) education,female,4.9
+2017,%,pre-specialized (vocational) education,female,5.4
+2015,%,specialized secondary education,,10.9
+2016,%,specialized secondary education,,11.1
+2017,%,specialized secondary education,,11.5
+2015,%,specialized secondary education,male,9.5
+2016,%,specialized secondary education,male,9.8
+2017,%,specialized secondary education,male,10.0
+2015,%,specialized secondary education,female,12.5
+2016,%,specialized secondary education,female,12.5
+2017,%,specialized secondary education,female,13.1
+2015,%,"specialized high education, first stage (bachelor's Degree)",,52.9
+2016,%,"specialized high education, first stage (bachelor's Degree)",,54.1
+2017,%,"specialized high education, first stage (bachelor's Degree)",,56.4
+2015,%,"specialized high education, first stage (bachelor's Degree)",male,47.0
+2016,%,"specialized high education, first stage (bachelor's Degree)",male,48.6
+2017,%,"specialized high education, first stage (bachelor's Degree)",male,51.5
+2015,%,"specialized high education, first stage (bachelor's Degree)",female,59.1
+2016,%,"specialized high education, first stage (bachelor's Degree)",female,60.0
+2017,%,"specialized high education, first stage (bachelor's Degree)",female,61.8
+2015,%,"post-graduate education, second stage (master's Degree)",,12.7
+2016,%,"post-graduate education, second stage (master's Degree)",,13.1
+2017,%,"post-graduate education, second stage (master's Degree)",,14.8
+2015,%,"post-graduate education, second stage (master's Degree)",male,9.9
+2016,%,"post-graduate education, second stage (master's Degree)",male,10.7
+2017,%,"post-graduate education, second stage (master's Degree)",male,9.9
+2015,%,"post-graduate education, second stage (master's Degree)",female,15.5
+2016,%,"post-graduate education, second stage (master's Degree)",female,15.4
+2017,%,"post-graduate education, second stage (master's Degree)",female,19.6
