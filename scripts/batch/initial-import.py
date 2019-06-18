@@ -21,6 +21,9 @@ disagg_table = {}
 meta_translations = {}
 disagg_mismatches = {}
 single_disagg_values = {}
+units = {}
+
+disagg_matches = {}
 
 # For more readable code below.
 HEADER_YEAR = 'Year'
@@ -107,6 +110,10 @@ def indicator_id(text):
 
 # Create a dict representing one row in ultimate CSV file.
 def get_csv_row(year, disaggregations, value, unit):
+    global units
+    # Save the units for later.
+    if unit:
+        units[unit] = True
     ret = {}
     ret[HEADER_YEAR] = year
     ret[HEADER_UNIT] = unit
@@ -465,6 +472,7 @@ def parse_excel_sheet(sheet):
 def is_valid_disaggregation(disagg):
     global disagg_mismatches
     global single_disagg_values
+    global disagg_matches
     #alert('Testing disaggregation for validity: "' + disagg + '"')
     if disagg is None or not disagg:
         return False
@@ -480,6 +488,8 @@ def is_valid_disaggregation(disagg):
         #alert('Invalid disaggregation because it is not in the map: ' + disagg_string)
         return False
     #alert('Valid!')
+    disagg_matches[disagg_table[disagg]] = True
+    disagg_matches[disagg] = True
     return True
 
 # Convert list of disaggregations into a category:value structure.
@@ -561,6 +571,8 @@ def main():
 
     global disagg_table
     global single_disagg_values
+    global disagg_matches
+    global units
     status = True
 
     # Read the disaggregation table.
@@ -602,6 +614,12 @@ def main():
     # Output the mismatches.
     #for mismatch in sorted(disagg_mismatches.keys()):
     #    print("'" + mismatch + "'")
+    # Output the matches.
+    #for match in disagg_matches.keys():
+    #    print(match)
+    # Output the units.
+    for unit in units.keys():
+        print(unit)
 
     return status
 
