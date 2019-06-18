@@ -1,34 +1,34 @@
 Year,Units,Category,Transportation type,Value
-2015,thousand people,Passenger volume,,208941.4
-2016,thousand people,Passenger volume,,206277.6
-2017,thousand people,Passenger volume,,200498.2
-2015,thousand people,,Railway transport,346.3
-2016,thousand people,,Railway transport,352.0
-2017,thousand people,,Railway transport,366.8
-2015,thousand people,,"Road transport,",185333.7
-2016,thousand people,,"Road transport,",182617.6
-2017,thousand people,,"Road transport,",175732.9
-2015,thousand people,of which  passenger taxi,,10319.9
-2016,thousand people,of which  passenger taxi,,8711.9
-2017,thousand people,of which  passenger taxi,,7692.0
-2015,thousand people,,Air transport,1919.0
-2016,thousand people,,Air transport,2117.8
-2017,thousand people,,Air transport,2553.8
-2015,thousand people,,Electricity transport,21342.4
-2016,thousand people,,Electricity transport,21190.2
-2017,thousand people,,Electricity transport,21844.7
-2015,1000 tons,Freight volumes,,11052.6
-2016,1000 tons,Freight volumes,,20483.8
-2017,1000 tons,Freight volumes,,28046.7
-2015,1000 tons,,Railway transport,2531.7
-2016,1000 tons,,Railway transport,2610.9
-2017,1000 tons,,Railway transport,2640.0
-2015,1000 tons,,Road transport,6864.9
-2016,1000 tons,,Road transport,16248.8
-2017,1000 tons,,Road transport,23597.5
-2015,1000 tons,,Air transport,10.2
-2016,1000 tons,,Air transport,18.3
-2017,1000 tons,,Air transport,22.4
-2015,1000 tons,Pipelines,,1645.8
-2016,1000 tons,Pipelines,,1605.8
-2017,1000 tons,Pipelines,,1786.8
+2015,thousand people,passenger volume,,208941.4
+2016,thousand people,passenger volume,,206277.6
+2017,thousand people,passenger volume,,200498.2
+2015,thousand people,,railway transport,346.3
+2016,thousand people,,railway transport,352.0
+2017,thousand people,,railway transport,366.8
+2015,thousand people,,road transport,185333.7
+2016,thousand people,,road transport,182617.6
+2017,thousand people,,road transport,175732.9
+2015,thousand people,,of which  passenger taxi,10319.9
+2016,thousand people,,of which  passenger taxi,8711.9
+2017,thousand people,,of which  passenger taxi,7692.0
+2015,thousand people,,air transport,1919.0
+2016,thousand people,,air transport,2117.8
+2017,thousand people,,air transport,2553.8
+2015,thousand people,,electricity transport,21342.4
+2016,thousand people,,electricity transport,21190.2
+2017,thousand people,,electricity transport,21844.7
+2015,1000 tons,freight volumes,,11052.6
+2016,1000 tons,freight volumes,,20483.8
+2017,1000 tons,freight volumes,,28046.7
+2015,1000 tons,,railway transport,2531.7
+2016,1000 tons,,railway transport,2610.9
+2017,1000 tons,,railway transport,2640.0
+2015,1000 tons,,road transport,6864.9
+2016,1000 tons,,road transport,16248.8
+2017,1000 tons,,road transport,23597.5
+2015,1000 tons,,air transport,10.2
+2016,1000 tons,,air transport,18.3
+2017,1000 tons,,air transport,22.4
+2015,1000 tons,pipelines,,1645.8
+2016,1000 tons,pipelines,,1605.8
+2017,1000 tons,pipelines,,1786.8

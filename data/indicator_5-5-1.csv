@@ -1,7 +1,7 @@
-Year,Units,Sex,Category,Value
-2015,%,Male,,10.7
-2016,%,Male,,9.9
-2017,%,Male,,18.1
-2015,%,Male,5.5.1,8.7
-2016,%,Male,5.5.1,10.8
-2017,%,Male,5.5.1,9.4
+Year,Units,Category,Value
+2015,%,national parliaments,10.7
+2016,%,national parliaments,9.9
+2017,%,national parliaments,18.1
+2015,%,local governments,8.7
+2016,%,local governments,10.8
+2017,%,local governments,9.4

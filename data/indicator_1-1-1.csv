@@ -1,37 +1,52 @@
 Year,Units,Sex,Location,Age,Employment status,Value
-2015,%,,,,,0.1
-2016,%,,,,,0.1
-2015,%,Male,,,,0.1
-2016,%,Male,,,,0.08
-2015,%,Female,,,,0.1
-2016,%,Female,,,,0.11
-2015,%,,Urban,,,0.1
-2016,%,,Urban,,,0.15
-2015,%,,Rural,,,0.0
-2016,%,,Rural,,,0.0
-2015,%,,,0-16,,0.1
-2016,%,,,0-16,,0.17
-2015,%,,,17-65,,0.1
-2016,%,,,17-65,,0.06
-2015,%,,,,Participants,0.1
-2016,%,,,,Participants,0.07
-2015,%,,,,Employed,0.0
-2016,%,,,,Employed,0.04
-2015,%,,,,-wage employed,0.1
-2016,%,,,,-wage employed,0.05
-2015,%,,,,-self-employed,0.0
-2016,%,,,,-self-employed,0.0
-2015,%,,,,-other employed,0.0
-2016,%,,,,-other employed,0.0
-2015,%,,,,Non-participants,0.1
-2016,%,,,,Non-participants,0.06
-2015,%,Male,,,Non-participants,0.2
-2016,%,Male,,,Non-participants,0.24
-2015,%,,,,Economically inactive  population,0.1
-2016,%,,,,Economically inactive  population,0.09
-2015,%,,,,Pensioners,0.0
-2016,%,,,,Pensioners,0.0
-2015,%,,,,Students,0.0
-2016,%,,,,Students,0.1
-2015,%,,,,Other inactive population,0.1
-2016,%,,,,Other inactive population,0.0
+2015,%,,,,,1.86
+2016,%,,,,,1.78
+2017,%,,,,,1.35
+2015,%,male,,,,1.98
+2016,%,male,,,,1.82
+2017,%,male,,,,1.37
+2015,%,female,,,,1.76
+2016,%,female,,,,1.74
+2017,%,female,,,,1.34
+2015,%,,urban,,,2.10
+2016,%,,urban,,,1.45
+2017,%,,urban,,,1.00
+2015,%,,rural,,,1.49
+2016,%,,rural,,,2.33
+2017,%,,rural,,,1.89
+2015,%,,,aged 0-16 years,,2.68
+2016,%,,,aged 0-16 years,,2.01
+2017,%,,,aged 0-16 years,,1.84
+2015,%,,,aged 17-65 years,,1.7
+2016,%,,,aged 17-65 years,,1.68
+2017,%,,,aged 17-65 years,,1.26
+2015,%,,,,economically active population,1.10
+2016,%,,,,economically active population,0.93
+2017,%,,,,economically active population,0.76
+2015,%,,,,employed,0.77
+2016,%,,,,employed,0.66
+2017,%,,,,employed,1.56
+2015,%,,,,wage employed,0.7
+2016,%,,,,wage employed,0.45
+2017,%,,,,wage employed,0.31
+2015,%,,,,self-employed,1.15
+2016,%,,,,self-employed,1.25
+2017,%,,,,self-employed,0.93
+2015,%,,,,other employed,0.21
+2016,%,,,,other employed,0.25
+2017,%,,,,other employed,0.81
+2015,%,,,,unemployment,2.58
+2016,%,,,,unemployment,2.12
+2017,%,,,,unemployment,1.77
+2015,%,,,,economically inactive  population,1.53
+2016,%,,,,economically inactive  population,1.23
+2017,%,,,,economically inactive  population,0.82
+2015,%,,,,pensioners,1.79
+2016,%,,,,pensioners,1.55
+2017,%,,,,pensioners,0.91
+2015,%,,,,students,0.78
+2016,%,,,,students,0.45
+2017,%,,,,students,0.51
+2015,%,,,,other inactive population,1.79
+2016,%,,,,other inactive population,1.47
+2017,%,,,,other inactive population,0.95
