@@ -90,14 +90,15 @@ def indicator_id(text):
     # Require at least three parts.
     if num_parts < 3:
         return False
-    # If there are 4 parts, assume the 4th is a glitch.
-    if num_parts == 4:
-        parts = parts[:-1]
+    # Require less than 5 parts.
+    if num_parts > 4:
+        return False
 
-    # If the 3rd part is longer than 1 character and starts with a number,
+    # If the last part is longer than 1 character and starts with a number,
     # assume it should just be the number.
-    if len(parts[2]) > 1 and parts[2][0].isdigit():
-        parts[2] = parts[2][0]
+    last_part = num_parts - 1
+    if len(parts[last_part]) > 1 and parts[last_part][0].isdigit():
+        parts[last_part] = parts[last_part][0]
 
     # Finally join the parts and return it.
     ret = '.'.join(parts)
