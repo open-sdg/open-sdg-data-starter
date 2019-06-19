@@ -273,7 +273,8 @@ def get_indicator_goal(id):
 
 # Convert the indicator id into a target id.
 def get_indicator_target(id):
-    return '.'.join(id.split('.')[:-1])
+    parts = id.split('.')
+    return parts[0] + '.' + parts[1]
 
 # Is there any source information?
 def has_source_info(row):
