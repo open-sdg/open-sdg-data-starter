@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 import yaml
 
-DEBUG = True
+DEBUG = False
 def alert(message):
     if DEBUG:
         print(message)
@@ -20,9 +20,9 @@ indicator_map = {}
 disagg_table = {}
 meta_translations = {}
 disagg_mismatches = {}
+disagg_mismatches_with_data = {}
 single_disagg_values = {}
 units = {}
-
 disagg_matches = {}
 
 # For more readable code below.
@@ -35,6 +35,26 @@ FOLDER_METADATA_YAML = 'meta'
 # Info about columns in the source data.
 YEARS = ['2010','2011','2012','2013','2014','2015','2016','2017','2018']
 METADATA = ['source','compilation','implementation','customisation','classification','availability']
+
+# Fix disaggregation values.
+def fix_disaggregation(disagg):
+    disagg_fixes = {
+        '1,9 доллара США по ППС в  день': '1,9 долларов США по ППС в  день',
+        'г. Нур-Султан': 'г.Нур-Султан',
+        'г. Алматы': 'г.Алматы',
+        'г. Шымкент': 'г.Шымкент'
+    }
+    if disagg in disagg_fixes:
+        return disagg_fixes[disagg]
+    return disagg
+
+# Should we skip this row?
+def skip_disaggregation_row(disagg):
+    disagg_skip = [
+        #'всего',
+        #'Всего'
+    ]
+    return disagg in disagg_skip
 
 # Start off a dataframe for an indicator.
 def blank_dataframe(disaggregations):
@@ -243,6 +263,8 @@ def is_disaggregation_start(row, indicator_id):
     # this one, ignore it.
     if isinstance(disaggregation, str):
         disaggregation = disaggregation.strip()
+    # Fix disaggregations.
+    disaggregation = fix_disaggregation(disaggregation)
     if not is_valid_disaggregation(disaggregation):
         return False
     return disaggregation
@@ -326,6 +348,7 @@ def clean_row(row):
 # Create rough data structure from an Excel sheet.
 def parse_excel_sheet(sheet):
     global indicator_map
+    global disagg_mismatches_with_data
     df = read_excel(sheet)
     # Figure out where each indicator starts and set the ID.
     current_id = False
@@ -459,8 +482,22 @@ def parse_excel_sheet(sheet):
                 # Strip whitespace if it is a string.
                 if isinstance(disagg_value, str):
                     disagg_value = disagg_value.strip()
+                # Fix disagg discrepancies.
+                disagg_value = fix_disaggregation(disagg_value)
+                # Skip certain disaggregations.
+                if skip_disaggregation_row(disagg_value):
+                    continue
+                # Otherwise add the disagg if it is valid.
                 if is_valid_disaggregation(disagg_value):
                     row_disaggregation.append(disagg_value)
+                else:
+                    # If it was not valid, and the row contains yearly data,
+                    # then we should take note, as it is probably a problem.
+                    if has_yearly_data(row):
+                        if disagg_value not in disagg_mismatches_with_data:
+                            disagg_mismatches_with_data[disagg_value] = {}
+                        disagg_mismatches_with_data[disagg_value][current_id] = True
+
             data = {
                 'disaggregations': row_disaggregation,
                 'years': row[YEARS]
@@ -574,6 +611,7 @@ def main():
     global disagg_table
     global single_disagg_values
     global disagg_matches
+    global disagg_mismatches_with_data
     global units
     status = True
 
@@ -620,8 +658,14 @@ def main():
     #for match in disagg_matches.keys():
     #    print(match)
     # Output the units.
-    for unit in units.keys():
-        print(unit)
+    #for unit in units.keys():
+    #    print(unit)
+    # Output the mismatches that had yearly data.
+    for key in disagg_mismatches_with_data:
+        print('-----')
+        print(str(key))
+        for indicator_id in disagg_mismatches_with_data[key]:
+            print('    - ' + indicator_id)
 
     return status
 
