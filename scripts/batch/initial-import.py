@@ -257,6 +257,10 @@ def is_disaggregation_start(row, indicator_id):
     # Disaggregation categories will either be under 'global' or 'national'.
     national_or_global = indicator_map[indicator_id]['national_or_global']
     disaggregation = row[national_or_global]
+    # But sometimes it is in the other column...
+    if pd.isnull(disaggregation):
+        other_column = 'national' if national_or_global == 'global' else 'global'
+        disaggregation = row[other_column]
     if pd.isnull(disaggregation):
         return False
     # Finally check against our disaggregations table. If we don't know about
@@ -476,9 +480,15 @@ def parse_excel_sheet(sheet):
             # the disaggregation categories have been found.
             found_all_disaggregations = True
             row_disaggregation = current_disaggregations.copy()
-            if not pd.isnull(row[national_or_global]):
+            # Might this row include a disaggregation?
+            potential_disagg_row = row[national_or_global]
+            if pd.isnull(potential_disagg_row):
+                # Sometimes the disaggregation is in the wrong column...
+                other_column = 'national' if national_or_global == 'global' else 'global'
+                potential_disagg_row = row[other_column]
+            if not pd.isnull(potential_disagg_row):
                 # Add this disaggregation, if any.
-                disagg_value = row[national_or_global]
+                disagg_value = potential_disagg_row
                 # Strip whitespace if it is a string.
                 if isinstance(disagg_value, str):
                     disagg_value = disagg_value.strip()
