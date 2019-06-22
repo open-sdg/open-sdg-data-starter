@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 import yaml
 
-DEBUG = False
+DEBUG = True
 def alert(message):
     if DEBUG:
         print(message)
@@ -526,7 +526,7 @@ def is_valid_disaggregation(disagg):
     if disagg is None or not disagg:
         return False
     if disagg in single_disagg_values:
-        #alert('Invalid disaggregation because it is a single-category value: ' + disagg)
+        alert('Invalid disaggregation because it is a single-category value: ' + disagg)
         return False
     if disagg not in disagg_table:
         # Save this for a report of database/disaggregation mismatch.
@@ -672,10 +672,7 @@ def main():
     #    print(unit)
     # Output the mismatches that had yearly data.
     for key in disagg_mismatches_with_data:
-        print('-----')
-        print(str(key))
-        for indicator_id in disagg_mismatches_with_data[key]:
-            print('    - ' + indicator_id)
+        print('"' + str(key) + '", "' + ' '.join(disagg_mismatches_with_data[key].keys()) + '"')
 
     return status
 
