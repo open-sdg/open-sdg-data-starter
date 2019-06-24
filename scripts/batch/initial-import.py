@@ -357,6 +357,7 @@ def parse_excel_sheet(sheet):
     # Figure out where each indicator starts and set the ID.
     current_id = False
     current_disaggregations = []
+    last_unit = ''
     found_all_disaggregations = False
     round_these_columns = ['customisation','classification','availability']
     fix_empty_values = ['source','unit','availability','customisation','classification','implementation','compilation']
@@ -389,6 +390,9 @@ def parse_excel_sheet(sheet):
             current_id = indicator_start
             # Reset some disaggregation-related variables.
             current_disaggregations = []
+            if (not pd.isnull(row['unit'])) and row['unit'] != '':
+                alert('initializing unit to ' + row['unit'])
+                last_unit = row['unit']
             found_all_disaggregations = False
             # Is this is in the national or global column?
             national_or_global = get_national_or_global(row)
@@ -439,7 +443,8 @@ def parse_excel_sheet(sheet):
                 #alert('Data was in starting row: ' + current_id)
                 data = {
                     'disaggregations': [],
-                    'years': row[YEARS]
+                    'years': row[YEARS],
+                    'unit': last_unit
                 }
                 indicator_map[current_id]['data'].append(data)
 
@@ -447,6 +452,10 @@ def parse_excel_sheet(sheet):
         elif current_id:
             # First look up some info about this indicator.
             national_or_global = indicator_map[current_id]['national_or_global']
+            # Update the unit if necessary
+            if (not pd.isnull(row['unit'])) and row['unit'] != '':
+                alert('updating unit to ' + str(row['unit']))
+                last_unit = row['unit']
             # Does this row indicate a disaggregation category?
             disagg_start = is_disaggregation_start(row, current_id)
             if disagg_start:
@@ -507,10 +516,13 @@ def parse_excel_sheet(sheet):
                         if disagg_value not in disagg_mismatches_with_data:
                             disagg_mismatches_with_data[disagg_value] = {}
                         disagg_mismatches_with_data[disagg_value][current_id] = True
+                        # For now we will have to skip the entire row.
+                        #continue
 
             data = {
                 'disaggregations': row_disaggregation,
-                'years': row[YEARS]
+                'years': row[YEARS],
+                'unit': last_unit
             }
             #alert('Adding a row of data with disaggregations: ' + ', '.join(row_disaggregation))
             indicator_map[current_id]['data'].append(data)
@@ -599,7 +611,7 @@ def output_data(indicator_id):
                 continue
             if isinstance(value, str):
                 continue
-            csv_row = get_csv_row(year, disaggs, value, indicator_info['meta']['computation_units'])
+            csv_row = get_csv_row(year, disaggs, value, series['unit'])
             csv_rows.append(csv_row)
 
     csv_df = blank_dataframe(all_disaggregations)
@@ -668,11 +680,11 @@ def main():
     #for match in disagg_matches.keys():
     #    print(match)
     # Output the units.
-    #for unit in units.keys():
-    #    print(unit)
+    for unit in units.keys():
+        print(unit)
     # Output the mismatches that had yearly data.
-    for key in disagg_mismatches_with_data:
-        print('"' + str(key) + '", "' + ' '.join(disagg_mismatches_with_data[key].keys()) + '"')
+    #for key in disagg_mismatches_with_data:
+    #    print('"' + str(key) + '", "' + ' '.join(disagg_mismatches_with_data[key].keys()) + '"')
 
     return status
 
