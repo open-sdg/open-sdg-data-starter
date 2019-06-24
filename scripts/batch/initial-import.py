@@ -392,7 +392,7 @@ def parse_excel_sheet(sheet):
             current_disaggregations = []
             if (not pd.isnull(row['unit'])) and row['unit'] != '':
                 alert('initializing unit to ' + row['unit'])
-                last_unit = row['unit']
+                last_unit = row['unit'].strip()
             found_all_disaggregations = False
             # Is this is in the national or global column?
             national_or_global = get_national_or_global(row)
@@ -425,7 +425,7 @@ def parse_excel_sheet(sheet):
                         #'customisation': row['customisation'],
                         #'classification': row['classification'],
                         #'availability': row['availability'],
-                        'computation_units': row['unit'],
+                        'computation_units': last_unit,
                         'tags': []
                     },
                     'data': []
@@ -455,7 +455,7 @@ def parse_excel_sheet(sheet):
             # Update the unit if necessary
             if (not pd.isnull(row['unit'])) and row['unit'] != '':
                 alert('updating unit to ' + str(row['unit']))
-                last_unit = row['unit']
+                last_unit = row['unit'].strip()
             # Does this row indicate a disaggregation category?
             disagg_start = is_disaggregation_start(row, current_id)
             if disagg_start:
