@@ -9,7 +9,9 @@ import pandas as pd
 import numpy as np
 import yaml
 
-DEBUG = True
+DEBUG = False
+#DEBUG_INDICATOR = '3.2.2'
+DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
         print(message)
@@ -42,7 +44,8 @@ def fix_disaggregation(disagg):
         '1,9 доллара США по ППС в  день': '1,9 долларов США по ППС в  день',
         'г. Нур-Султан': 'г.Нур-Султан',
         'г. Алматы': 'г.Алматы',
-        'г. Шымкент': 'г.Шымкент'
+        'г. Шымкент': 'г.Шымкент',
+        15: '15'
     }
     if disagg in disagg_fixes:
         return disagg_fixes[disagg]
@@ -166,6 +169,10 @@ def read_disaggregations():
         'usecols': [0,4]
     }
     df = pd.read_excel('scripts/batch/disaggregations.xls', **excel_opts)
+    # We only care if both category and value are there.
+    df = df.dropna()
+    # Make sure everything is a string.
+    df = df.applymap(str)
     return df
 
 # Get the metadata for an indicator.
@@ -353,6 +360,7 @@ def clean_row(row):
 def parse_excel_sheet(sheet):
     global indicator_map
     global disagg_mismatches_with_data
+    global DEBUG
     df = read_excel(sheet)
     # Figure out where each indicator starts and set the ID.
     current_id = False
@@ -370,7 +378,7 @@ def parse_excel_sheet(sheet):
         if row.isnull().all():
             continue
 
-        #alert('Parsing new row')
+        alert('Parsing new row')
 
         # Is this the beginning of an indicator?
         indicator_start = is_indicator_start(row)
@@ -388,10 +396,12 @@ def parse_excel_sheet(sheet):
                     row[column] = row[column].strip()
 
             current_id = indicator_start
+            if DEBUG_INDICATOR:
+                DEBUG = current_id == DEBUG_INDICATOR
             # Reset some disaggregation-related variables.
             current_disaggregations = []
             if (not pd.isnull(row['unit'])) and row['unit'] != '':
-                alert('initializing unit to ' + row['unit'])
+                #alert('initializing unit to ' + row['unit'])
                 last_unit = row['unit'].strip()
             found_all_disaggregations = False
             # Is this is in the national or global column?
@@ -440,7 +450,7 @@ def parse_excel_sheet(sheet):
             # In some cases, there is data in the starting row. We assume
             # in these cases that there is no disaggregation.
             if has_yearly_data(row):
-                #alert('Data was in starting row: ' + current_id)
+                alert('Data was in starting row: ' + current_id)
                 data = {
                     'disaggregations': [],
                     'years': row[YEARS],
@@ -450,11 +460,13 @@ def parse_excel_sheet(sheet):
 
         # Otherwise, is this more data for an indicator?
         elif current_id:
+            if DEBUG_INDICATOR:
+                DEBUG = current_id == DEBUG_INDICATOR
             # First look up some info about this indicator.
             national_or_global = indicator_map[current_id]['national_or_global']
             # Update the unit if necessary
             if (not pd.isnull(row['unit'])) and row['unit'] != '':
-                alert('updating unit to ' + str(row['unit']))
+                #alert('updating unit to ' + str(row['unit']))
                 last_unit = row['unit'].strip()
             # Does this row indicate a disaggregation category?
             disagg_start = is_disaggregation_start(row, current_id)
@@ -478,7 +490,7 @@ def parse_excel_sheet(sheet):
             # If there is no yearly data, we won't know how to understand
             # what this row is.
             if not has_yearly_data(row):
-                #alert('Assuming end of current disaggregations')
+                alert('Assuming end of current disaggregations')
                 # We have to assume that this means that any current
                 # disaggregations have ended, so reset the disagg stuff.
                 current_disaggregations = []
@@ -524,7 +536,7 @@ def parse_excel_sheet(sheet):
                 'years': row[YEARS],
                 'unit': last_unit
             }
-            #alert('Adding a row of data with disaggregations: ' + ', '.join(row_disaggregation))
+            alert('Adding a row of data with disaggregations: ' + ', '.join(row_disaggregation))
             indicator_map[current_id]['data'].append(data)
         else:
             alert('uhoh')
@@ -538,7 +550,7 @@ def is_valid_disaggregation(disagg):
     if disagg is None or not disagg:
         return False
     if disagg in single_disagg_values:
-        alert('Invalid disaggregation because it is a single-category value: ' + disagg)
+        #alert('Invalid disaggregation because it is a single-category value: ' + disagg)
         return False
     if disagg not in disagg_table:
         # Save this for a report of database/disaggregation mismatch.
@@ -623,6 +635,7 @@ def output_data(indicator_id):
 
 # Process indicator.
 def process_indicator(indicator_id):
+    foo = 'bar'
     output_data(indicator_id)
     #output_meta(indicator_id)
 
