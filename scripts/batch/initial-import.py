@@ -624,7 +624,7 @@ def output_data(indicator_id):
 # Process indicator.
 def process_indicator(indicator_id):
     output_data(indicator_id)
-    output_meta(indicator_id)
+    #output_meta(indicator_id)
 
 # Main function.
 def main():
