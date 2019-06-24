@@ -10,8 +10,8 @@ import numpy as np
 import yaml
 
 DEBUG = False
-#DEBUG_INDICATOR = '3.2.2'
-DEBUG_INDICATOR = False
+DEBUG_INDICATOR = '9.1.2'
+#DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
         print(message)
@@ -45,7 +45,13 @@ def fix_disaggregation(disagg):
         'г. Нур-Султан': 'г.Нур-Султан',
         'г. Алматы': 'г.Алматы',
         'г. Шымкент': 'г.Шымкент',
-        15: '15'
+        15: '15',
+        'регион': 'Регионы',
+        'Перевезено грузов воздушным транспортом': 'перевезено грузов воздушным транспортом',
+        'Показатели работы морского и прибрежного транспорта': 'показатели работы морского и прибрежного транспорта',
+        'Показатели работы трубопроводного транспорта': 'показатели работы трубопроводного транспорта',
+        'Перевезено пассажиров воздушным транспортом': 'перевезено пассажиров воздушным транспортом',
+        'Перевезено грузов автомобильным  и городским  электрическим транспортом': 'перевезено грузов автомобильным  и городским  электрическим транспортом'
     }
     if disagg in disagg_fixes:
         return disagg_fixes[disagg]
@@ -550,7 +556,7 @@ def is_valid_disaggregation(disagg):
     if disagg is None or not disagg:
         return False
     if disagg in single_disagg_values:
-        #alert('Invalid disaggregation because it is a single-category value: ' + disagg)
+        alert('Invalid disaggregation because it is a single-category value: ' + disagg)
         return False
     if disagg not in disagg_table:
         # Save this for a report of database/disaggregation mismatch.
@@ -558,7 +564,7 @@ def is_valid_disaggregation(disagg):
         if not isinstance(disagg_string, str):
             disagg_string = str(disagg_string)
         disagg_mismatches[disagg_string] = True
-        #alert('Invalid disaggregation because it is not in the map: ' + disagg_string)
+        alert('Invalid disaggregation because it is not in the map: ' + disagg_string)
         return False
     #alert('Valid!')
     disagg_matches[disagg_table[disagg]] = True

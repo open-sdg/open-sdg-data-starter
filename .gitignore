@@ -1,5 +1,6 @@
 # Custom
 _site/
+.vscode
 
 # Default Python
 # Byte-compiled / optimized / DLL files
