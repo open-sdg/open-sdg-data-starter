@@ -10,7 +10,7 @@ import numpy as np
 import yaml
 
 DEBUG = False
-DEBUG_INDICATOR = '9.1.2'
+DEBUG_INDICATOR = '3.9.2'
 #DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
