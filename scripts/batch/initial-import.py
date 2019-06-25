@@ -10,7 +10,7 @@ import numpy as np
 import yaml
 
 DEBUG = False
-DEBUG_INDICATOR = '3.6.1'
+DEBUG_INDICATOR = '1.1.1'
 #DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
@@ -711,8 +711,8 @@ def main():
     #for match in disagg_matches.keys():
     #    print(match)
     # Output the units.
-    for unit in units.keys():
-        print(unit)
+    #for unit in units.keys():
+    #    print(unit)
     # Output the mismatches that had yearly data.
     #for key in disagg_mismatches_with_data:
     #    print('"' + str(key) + '", "' + ' '.join(disagg_mismatches_with_data[key].keys()) + '"')
