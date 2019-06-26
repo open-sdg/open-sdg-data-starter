@@ -10,7 +10,7 @@ import numpy as np
 import yaml
 
 DEBUG = False
-DEBUG_INDICATOR = '17.6.2'
+DEBUG_INDICATOR = '8.3.1'
 #DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
@@ -64,7 +64,8 @@ def fix_disaggregation(disagg):
         'Обеспеченность средними медицинскими работниками': 'Обеспеченность средними медицинскими работниками на 1 000 населения',
         'Обеспеченность стоматологами (включая зубных техников)': 'Обеспеченность стоматологами на 1 000 населения (включая зубных техников)',
         'Обеспеченность фармацевтическими работниками (включая провизоров)': 'Обеспеченность фармацевтическими работниками на 1 000 населения (включая провизоров)',
-        'выше 10 Мбит/сек': 'выше 10 Мбит/сек'
+        'выше 10 Мбит/сек': 'выше 10 Мбит/сек',
+        'жещины': 'женщины'
     }
     if disagg in disagg_fixes:
         return disagg_fixes[disagg]
@@ -397,7 +398,7 @@ def parse_excel_sheet(sheet):
         if row.isnull().all():
             continue
 
-        alert('Parsing new row')
+        #alert('Parsing new row')
 
         # Is this the beginning of an indicator?
         indicator_start = is_indicator_start(row)
@@ -509,7 +510,7 @@ def parse_excel_sheet(sheet):
             # If there is no yearly data, we won't know how to understand
             # what this row is.
             if not has_yearly_data(row):
-                alert('Assuming end of current disaggregations')
+                #alert('Assuming end of current disaggregations')
                 # We have to assume that this means that any current
                 # disaggregations have ended, so reset the disagg stuff.
                 current_disaggregations = []
