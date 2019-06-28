@@ -10,7 +10,7 @@ import numpy as np
 import yaml
 
 DEBUG = False
-DEBUG_INDICATOR = '5.3.1'
+DEBUG_INDICATOR = '4.5.1'
 #DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
@@ -478,6 +478,9 @@ def parse_excel_sheet(sheet):
                     'unit': last_unit
                 }
                 indicator_map[current_id]['data'].append(data)
+            else:
+                alert('nope')
+                alert(row)
 
         # Otherwise, is this more data for an indicator?
         elif current_id:
