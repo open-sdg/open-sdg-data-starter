@@ -10,7 +10,7 @@ import numpy as np
 import yaml
 
 DEBUG = False
-DEBUG_INDICATOR = '4.5.1'
+DEBUG_INDICATOR = '8.5.1'
 #DEBUG_INDICATOR = False
 def alert(message):
     if DEBUG:
@@ -67,6 +67,7 @@ def fix_disaggregation(disagg):
         'выше 10 Мбит/сек': 'выше 10 Мбит/сек',
         'жещины': 'женщины',
         'Доля женщинв возрасте 20-24 года, вступивших в брак до наступления полных 18 лет': 'Доля женщин в возрасте 20-24 года, вступивших в брак до наступления полных 18 лет',
+        #'Республика Казахстан': 'placeholder-for-republic-of-kazakhstan',
     }
     if disagg in disagg_fixes:
         return disagg_fixes[disagg]
@@ -75,8 +76,8 @@ def fix_disaggregation(disagg):
 # Should we skip this row?
 def skip_disaggregation_row(disagg):
     disagg_skip = [
-        #'всего',
-        #'Всего'
+        'всего',
+        'Всего'
     ]
     return disagg in disagg_skip
 
