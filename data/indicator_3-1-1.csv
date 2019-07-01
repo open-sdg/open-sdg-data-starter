@@ -1,111 +1,111 @@
-Year,Observation status,Sex,Unit measure,Unit multiplier,Value
-"2007,Normal value,Female,""Per 100,000 live births"",Units,51.9"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,55.0"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,63.5"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,51.3"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,54.8"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,49.1"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,36.0"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,50.1"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,38.5"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,30.3"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,31.9"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,74.8"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,66.6"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,41.7"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,59.7"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,66.9"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,43.5"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,42.0"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,108.7"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,26.1"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,41.9"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,51.9"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,32.8"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,66.6"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,40.3"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,31.1"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,36.5"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,55.9"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,33.0"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,53.7"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,53.3"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,33.5"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,53.6"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,89.7"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,122.9"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,72.0"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,70.4"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,62.6"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,97.2"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,37.2"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,55.3"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,26.7"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,34.7"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,37.0"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,62.3"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,46.2"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,105.5"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,69.6"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,83.3"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,56.2"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,29.0"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,135.7"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,30.6"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,43.7"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,26.0"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,54.4"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,93.2"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,78.6"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,62.5"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,58.1"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,42.8"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,43.4"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,43.4"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,24.9"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,25.6"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,120.3"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,51.1"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,61.3"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,87.0"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,40.9"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,14.1"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,14.8"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,44.6"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,15.1"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,78.3"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,34.4"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,61.1"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,49.5"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,69.0"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,41.2"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,50.4"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,44.4"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,40.3"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,47.9"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,22.9"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,17.3"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,22.0"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,20.4"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,19.4"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,43.3"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,18.0"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,26.1"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,16.4"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,30.5"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,17.6"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,13.4"
-"2007,Normal value,Female,""Per 100,000 live births"",Units,100.6"
-"2008,Normal value,Female,""Per 100,000 live births"",Units,38.6"
-"2009,Normal value,Female,""Per 100,000 live births"",Units,168.4"
-"2010,Normal value,Female,""Per 100,000 live births"",Units,"
-"2011,Normal value,Female,""Per 100,000 live births"",Units,35.7"
-"2012,Normal value,Female,""Per 100,000 live births"",Units,60.3"
-"2013,Normal value,Female,""Per 100,000 live births"",Units,15.0"
-"2014,Normal value,Female,""Per 100,000 live births"",Units,"
-"2015,Normal value,Female,""Per 100,000 live births"",Units,40.9"
-"2016,Normal value,Female,""Per 100,000 live births"",Units,13.5"
-"2017,Normal value,Female,""Per 100,000 live births"",Units,64.9"
+Year,Observation status,Area,Sex,Unit measure,Unit multiplier,Value
+2007,Normal value,,Female,"Per 100,000 live births",Units,51.9
+2008,Normal value,,Female,"Per 100,000 live births",Units,55.0
+2009,Normal value,,Female,"Per 100,000 live births",Units,63.5
+2010,Normal value,,Female,"Per 100,000 live births",Units,51.3
+2011,Normal value,,Female,"Per 100,000 live births",Units,54.8
+2012,Normal value,,Female,"Per 100,000 live births",Units,49.1
+2013,Normal value,,Female,"Per 100,000 live births",Units,36.0
+2014,Normal value,,Female,"Per 100,000 live births",Units,50.1
+2015,Normal value,,Female,"Per 100,000 live births",Units,38.5
+2016,Normal value,,Female,"Per 100,000 live births",Units,30.3
+2017,Normal value,,Female,"Per 100,000 live births",Units,31.9
+2007,Normal value,Batken,Female,"Per 100,000 live births",Units,74.8
+2008,Normal value,Batken,Female,"Per 100,000 live births",Units,66.6
+2009,Normal value,Batken,Female,"Per 100,000 live births",Units,41.7
+2010,Normal value,Batken,Female,"Per 100,000 live births",Units,59.7
+2011,Normal value,Batken,Female,"Per 100,000 live births",Units,66.9
+2012,Normal value,Batken,Female,"Per 100,000 live births",Units,43.5
+2013,Normal value,Batken,Female,"Per 100,000 live births",Units,42.0
+2014,Normal value,Batken,Female,"Per 100,000 live births",Units,108.7
+2015,Normal value,Batken,Female,"Per 100,000 live births",Units,26.1
+2016,Normal value,Batken,Female,"Per 100,000 live births",Units,41.9
+2017,Normal value,Batken,Female,"Per 100,000 live births",Units,51.9
+2007,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,32.8
+2008,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,66.6
+2009,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,40.3
+2010,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,31.1
+2011,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,36.5
+2012,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,55.9
+2013,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,33.0
+2014,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,53.7
+2015,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,53.3
+2016,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,33.5
+2017,Normal value,Jalal-Abad,Female,"Per 100,000 live births",Units,53.6
+2007,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,89.7
+2008,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,122.9
+2009,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,72.0
+2010,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,70.4
+2011,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,62.6
+2012,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,97.2
+2013,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,37.2
+2014,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,55.3
+2015,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,26.7
+2016,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,34.7
+2017,Normal value,Issyk-Kul,Female,"Per 100,000 live births",Units,37.0
+2007,Normal value,Naryn,Female,"Per 100,000 live births",Units,62.3
+2008,Normal value,Naryn,Female,"Per 100,000 live births",Units,46.2
+2009,Normal value,Naryn,Female,"Per 100,000 live births",Units,105.5
+2010,Normal value,Naryn,Female,"Per 100,000 live births",Units,69.6
+2011,Normal value,Naryn,Female,"Per 100,000 live births",Units,83.3
+2012,Normal value,Naryn,Female,"Per 100,000 live births",Units,56.2
+2013,Normal value,Naryn,Female,"Per 100,000 live births",Units,29.0
+2014,Normal value,Naryn,Female,"Per 100,000 live births",Units,135.7
+2015,Normal value,Naryn,Female,"Per 100,000 live births",Units,30.6
+2016,Normal value,Naryn,Female,"Per 100,000 live births",Units,43.7
+2017,Normal value,Naryn,Female,"Per 100,000 live births",Units,
+2007,Normal value,Osh,Female,"Per 100,000 live births",Units,26.0
+2008,Normal value,Osh,Female,"Per 100,000 live births",Units,54.4
+2009,Normal value,Osh,Female,"Per 100,000 live births",Units,93.2
+2010,Normal value,Osh,Female,"Per 100,000 live births",Units,78.6
+2011,Normal value,Osh,Female,"Per 100,000 live births",Units,62.5
+2012,Normal value,Osh,Female,"Per 100,000 live births",Units,58.1
+2013,Normal value,Osh,Female,"Per 100,000 live births",Units,42.8
+2014,Normal value,Osh,Female,"Per 100,000 live births",Units,43.4
+2015,Normal value,Osh,Female,"Per 100,000 live births",Units,43.4
+2016,Normal value,Osh,Female,"Per 100,000 live births",Units,24.9
+2017,Normal value,Osh,Female,"Per 100,000 live births",Units,25.6
+2007,Normal value,Talas,Female,"Per 100,000 live births",Units,120.3
+2008,Normal value,Talas,Female,"Per 100,000 live births",Units,51.1
+2009,Normal value,Talas,Female,"Per 100,000 live births",Units,61.3
+2010,Normal value,Talas,Female,"Per 100,000 live births",Units,87.0
+2011,Normal value,Talas,Female,"Per 100,000 live births",Units,40.9
+2012,Normal value,Talas,Female,"Per 100,000 live births",Units,14.1
+2013,Normal value,Talas,Female,"Per 100,000 live births",Units,14.8
+2014,Normal value,Talas,Female,"Per 100,000 live births",Units,44.6
+2015,Normal value,Talas,Female,"Per 100,000 live births",Units,15.1
+2016,Normal value,Talas,Female,"Per 100,000 live births",Units,
+2017,Normal value,Talas,Female,"Per 100,000 live births",Units,
+2007,Normal value,Chui,Female,"Per 100,000 live births",Units,78.3
+2008,Normal value,Chui,Female,"Per 100,000 live births",Units,34.4
+2009,Normal value,Chui,Female,"Per 100,000 live births",Units,61.1
+2010,Normal value,Chui,Female,"Per 100,000 live births",Units,49.5
+2011,Normal value,Chui,Female,"Per 100,000 live births",Units,69.0
+2012,Normal value,Chui,Female,"Per 100,000 live births",Units,41.2
+2013,Normal value,Chui,Female,"Per 100,000 live births",Units,50.4
+2014,Normal value,Chui,Female,"Per 100,000 live births",Units,44.4
+2015,Normal value,Chui,Female,"Per 100,000 live births",Units,40.3
+2016,Normal value,Chui,Female,"Per 100,000 live births",Units,47.9
+2017,Normal value,Chui,Female,"Per 100,000 live births",Units,22.9
+2007,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,17.3
+2008,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,22.0
+2009,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,20.4
+2010,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,19.4
+2011,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,43.3
+2012,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,18.0
+2013,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,26.1
+2014,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,16.4
+2015,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,30.5
+2016,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,17.6
+2017,Normal value,Bishkek (city),Female,"Per 100,000 live births",Units,13.4
+2007,Normal value,Osh (city),Female,"Per 100,000 live births",Units,100.6
+2008,Normal value,Osh (city),Female,"Per 100,000 live births",Units,38.6
+2009,Normal value,Osh (city),Female,"Per 100,000 live births",Units,168.4
+2010,Normal value,Osh (city),Female,"Per 100,000 live births",Units,
+2011,Normal value,Osh (city),Female,"Per 100,000 live births",Units,35.7
+2012,Normal value,Osh (city),Female,"Per 100,000 live births",Units,60.3
+2013,Normal value,Osh (city),Female,"Per 100,000 live births",Units,15.0
+2014,Normal value,Osh (city),Female,"Per 100,000 live births",Units,
+2015,Normal value,Osh (city),Female,"Per 100,000 live births",Units,40.9
+2016,Normal value,Osh (city),Female,"Per 100,000 live births",Units,13.5
+2017,Normal value,Osh (city),Female,"Per 100,000 live births",Units,64.9
