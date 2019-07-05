@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Observation status,Area,Unit measure,Unit multiplier,Value
+2007,Normal value,,Percent,Units,73.7
+2008,Normal value,,Percent,Units,77.0
+2009,Normal value,,Percent,Units,64.8
+2010,Normal value,,Percent,Units,67.9
+2011,Normal value,,Percent,Units,68.1
+2012,Normal value,,Percent,Units,73.5
+2013,Normal value,,Percent,Units,71.5
+2014,Normal value,,Percent,Units,69.2
+2015,Normal value,,Percent,Units,65.9
+2016,Normal value,,Percent,Units,71.8
+2017,Normal value,,Percent,Units,69.1
+2018,Normal value,,Percent,Units,77.0
