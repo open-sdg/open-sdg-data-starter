@@ -1,58 +1,58 @@
 Year,Units,Sex,Age,Category,Value
-2015,persons,,,,864
-2016,persons,,,,810
-2017,persons,,,,824
-2015,persons,male,,,456
-2016,persons,male,,,445
-2017,persons,male,,,445
-2015,persons,female,,,408
-2016,persons,female,,,365
-2017,persons,female,,,379
-2015,persons,,up to 1 year old,,68
-2016,persons,,up to 1 year old,,47
-2017,persons,,up to 1 year old,,59
-2015,persons,male,up to 1 year old,,34
-2016,persons,male,up to 1 year old,,25
-2017,persons,male,up to 1 year old,,27
-2015,persons,female,up to 1 year old,,34
-2016,persons,female,up to 1 year old,,22
-2017,persons,female,up to 1 year old,,32
-2015,persons,,aged 1-6 years,,199
-2016,persons,,aged 1-6 years,,208
-2017,persons,,aged 1-6 years,,170
-2015,persons,male,aged 1-6 years,,107
-2016,persons,male,aged 1-6 years,,117
-2017,persons,male,aged 1-6 years,,95
-2015,persons,female,aged 1-6 years,,92
-2016,persons,female,aged 1-6 years,,91
-2017,persons,female,aged 1-6 years,,75
-2015,persons,,aged 7-9 years,,147
-2016,persons,,aged 7-9 years,,145
-2017,persons,,aged 7-9 years,,176
-2015,persons,male,aged 7-9 years,,79
-2016,persons,male,aged 7-9 years,,76
-2017,persons,male,aged 7-9 years,,99
-2015,persons,female,aged 7-9 years,,68
-2016,persons,female,aged 7-9 years,,69
-2017,persons,female,aged 7-9 years,,77
-2015,persons,,aged 10-15 years,,246
-2016,persons,,aged 10-15 years,,231
-2017,persons,,aged 10-15 years,,221
-2015,persons,male,aged 10-15 years,,136
-2016,persons,male,aged 10-15 years,,137
-2017,persons,male,aged 10-15 years,,132
-2015,persons,female,aged 10-15 years,,110
-2016,persons,female,aged 10-15 years,,94
-2017,persons,female,aged 10-15 years,,89
-2015,persons,,aged 16-17 years,,204
-2016,persons,,aged 16-17 years,,179
-2017,persons,,aged 16-17 years,,198
-2015,persons,male,aged 16-17 years,,100
-2016,persons,male,aged 16-17 years,,90
-2017,persons,male,aged 16-17 years,,92
-2015,persons,female,aged 16-17 years,,104
-2016,persons,female,aged 16-17 years,,89
-2017,persons,female,aged 16-17 years,,106
+2015,person,,,,864
+2016,person,,,,810
+2017,person,,,,824
+2015,person,male,,,456
+2016,person,male,,,445
+2017,person,male,,,445
+2015,person,female,,,408
+2016,person,female,,,365
+2017,person,female,,,379
+2015,person,,up to 1 year old,,68
+2016,person,,up to 1 year old,,47
+2017,person,,up to 1 year old,,59
+2015,person,male,up to 1 year old,,34
+2016,person,male,up to 1 year old,,25
+2017,person,male,up to 1 year old,,27
+2015,person,female,up to 1 year old,,34
+2016,person,female,up to 1 year old,,22
+2017,person,female,up to 1 year old,,32
+2015,person,,aged 1-6 years,,199
+2016,person,,aged 1-6 years,,208
+2017,person,,aged 1-6 years,,170
+2015,person,male,aged 1-6 years,,107
+2016,person,male,aged 1-6 years,,117
+2017,person,male,aged 1-6 years,,95
+2015,person,female,aged 1-6 years,,92
+2016,person,female,aged 1-6 years,,91
+2017,person,female,aged 1-6 years,,75
+2015,person,,aged 7-9 years,,147
+2016,person,,aged 7-9 years,,145
+2017,person,,aged 7-9 years,,176
+2015,person,male,aged 7-9 years,,79
+2016,person,male,aged 7-9 years,,76
+2017,person,male,aged 7-9 years,,99
+2015,person,female,aged 7-9 years,,68
+2016,person,female,aged 7-9 years,,69
+2017,person,female,aged 7-9 years,,77
+2015,person,,aged 10-15 years,,246
+2016,person,,aged 10-15 years,,231
+2017,person,,aged 10-15 years,,221
+2015,person,male,aged 10-15 years,,136
+2016,person,male,aged 10-15 years,,137
+2017,person,male,aged 10-15 years,,132
+2015,person,female,aged 10-15 years,,110
+2016,person,female,aged 10-15 years,,94
+2017,person,female,aged 10-15 years,,89
+2015,person,,aged 16-17 years,,204
+2016,person,,aged 16-17 years,,179
+2017,person,,aged 16-17 years,,198
+2015,person,male,aged 16-17 years,,100
+2016,person,male,aged 16-17 years,,90
+2017,person,male,aged 16-17 years,,92
+2015,person,female,aged 16-17 years,,104
+2016,person,female,aged 16-17 years,,89
+2017,person,female,aged 16-17 years,,106
 2015,%,,,total to the population of respective age,0.12
 2016,%,,,total to the population of respective age,0.12
 2017,%,,,total to the population of respective age,0.12
