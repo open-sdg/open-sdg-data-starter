@@ -1,64 +1,64 @@
 Year,Units,Sex,Age,Value
-2015,persons,,,96
-2016,persons,,,75
-2017,persons,,,56
-2015,persons,male,,50
-2016,persons,male,,37
-2017,persons,male,,27
-2015,persons,female,,46
-2016,persons,female,,38
-2017,persons,female,,29
-2015,persons,,up to 6 months,1
-2016,persons,,up to 6 months,1
-2017,persons,,up to 6 months,3
-2015,persons,male,up to 6 months,0
-2016,persons,male,up to 6 months,0
-2017,persons,male,up to 6 months,2
-2015,persons,female,up to 6 months,1
-2016,persons,female,up to 6 months,1
-2017,persons,female,up to 6 months,1
-2015,persons,,from 6 months to 1 year,16
-2016,persons,,from 6 months to 1 year,11
-2017,persons,,from 6 months to 1 year,9
-2015,persons,male,from 6 months to 1 year,7
-2016,persons,male,from 6 months to 1 year,5
-2017,persons,male,from 6 months to 1 year,4
-2015,persons,female,from 6 months to 1 year,9
-2016,persons,female,from 6 months to 1 year,6
-2017,persons,female,from 6 months to 1 year,5
-2015,persons,,aged 1-5 years,56
-2016,persons,,aged 1-5 years,41
-2017,persons,,aged 1-5 years,30
-2015,persons,male,aged 1-5 years,27
-2016,persons,male,aged 1-5 years,16
-2017,persons,male,aged 1-5 years,13
-2015,persons,female,aged 1-5 years,29
-2016,persons,female,aged 1-5 years,25
-2017,persons,female,aged 1-5 years,17
-2015,persons,,aged 6-9 years,10
-2016,persons,,aged 6-9 years,8
-2017,persons,,aged 6-9 years,6
-2015,persons,male,aged 6-9 years,6
-2016,persons,male,aged 6-9 years,7
-2017,persons,male,aged 6-9 years,2
-2015,persons,female,aged 6-9 years,4
-2016,persons,female,aged 6-9 years,1
-2017,persons,female,aged 6-9 years,4
-2015,persons,,aged 10-15 years,9
-2016,persons,,aged 10-15 years,10
-2017,persons,,aged 10-15 years,5
-2015,persons,male,aged 10-15 years,8
-2016,persons,male,aged 10-15 years,8
-2017,persons,male,aged 10-15 years,4
-2015,persons,female,aged 10-15 years,1
-2016,persons,female,aged 10-15 years,2
-2017,persons,female,aged 10-15 years,1
-2015,persons,,aged 16-17 years,4
-2016,persons,,aged 16-17 years,4
-2017,persons,,aged 16-17 years,3
-2015,persons,male,aged 16-17 years,2
-2016,persons,male,aged 16-17 years,1
-2017,persons,male,aged 16-17 years,2
-2015,persons,female,aged 16-17 years,2
-2016,persons,female,aged 16-17 years,3
-2017,persons,female,aged 16-17 years,1
+2015,person,,,96
+2016,person,,,75
+2017,person,,,56
+2015,person,male,,50
+2016,person,male,,37
+2017,person,male,,27
+2015,person,female,,46
+2016,person,female,,38
+2017,person,female,,29
+2015,person,,up to 6 months,1
+2016,person,,up to 6 months,1
+2017,person,,up to 6 months,3
+2015,person,male,up to 6 months,0
+2016,person,male,up to 6 months,0
+2017,person,male,up to 6 months,2
+2015,person,female,up to 6 months,1
+2016,person,female,up to 6 months,1
+2017,person,female,up to 6 months,1
+2015,person,,from 6 months to 1 year,16
+2016,person,,from 6 months to 1 year,11
+2017,person,,from 6 months to 1 year,9
+2015,person,male,from 6 months to 1 year,7
+2016,person,male,from 6 months to 1 year,5
+2017,person,male,from 6 months to 1 year,4
+2015,person,female,from 6 months to 1 year,9
+2016,person,female,from 6 months to 1 year,6
+2017,person,female,from 6 months to 1 year,5
+2015,person,,aged 1-5 years,56
+2016,person,,aged 1-5 years,41
+2017,person,,aged 1-5 years,30
+2015,person,male,aged 1-5 years,27
+2016,person,male,aged 1-5 years,16
+2017,person,male,aged 1-5 years,13
+2015,person,female,aged 1-5 years,29
+2016,person,female,aged 1-5 years,25
+2017,person,female,aged 1-5 years,17
+2015,person,,aged 6-9 years,10
+2016,person,,aged 6-9 years,8
+2017,person,,aged 6-9 years,6
+2015,person,male,aged 6-9 years,6
+2016,person,male,aged 6-9 years,7
+2017,person,male,aged 6-9 years,2
+2015,person,female,aged 6-9 years,4
+2016,person,female,aged 6-9 years,1
+2017,person,female,aged 6-9 years,4
+2015,person,,aged 10-15 years,9
+2016,person,,aged 10-15 years,10
+2017,person,,aged 10-15 years,5
+2015,person,male,aged 10-15 years,8
+2016,person,male,aged 10-15 years,8
+2017,person,male,aged 10-15 years,4
+2015,person,female,aged 10-15 years,1
+2016,person,female,aged 10-15 years,2
+2017,person,female,aged 10-15 years,1
+2015,person,,aged 16-17 years,4
+2016,person,,aged 16-17 years,4
+2017,person,,aged 16-17 years,3
+2015,person,male,aged 16-17 years,2
+2016,person,male,aged 16-17 years,1
+2017,person,male,aged 16-17 years,2
+2015,person,female,aged 16-17 years,2
+2016,person,female,aged 16-17 years,3
+2017,person,female,aged 16-17 years,1
