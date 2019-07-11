@@ -1,55 +1,55 @@
 Year,Units,Sex,Age,Value
-2015,persons,,,78
-2016,persons,,,64
-2017,persons,,,45
-2015,persons,male,,38
-2016,persons,male,,39
-2017,persons,male,,21
-2015,persons,female,,40
-2016,persons,female,,25
-2017,persons,female,,24
-2015,persons,,up to 1 year old,11
-2016,persons,,up to 1 year old,6
-2017,persons,,up to 1 year old,2
-2015,persons,male,up to 1 year old,6
-2016,persons,male,up to 1 year old,5
-2017,persons,male,up to 1 year old,0
-2015,persons,female,up to 1 year old,5
-2016,persons,female,up to 1 year old,1
-2017,persons,female,up to 1 year old,2
-2015,persons,,aged 1-6 years,32
-2016,persons,,aged 1-6 years,19
-2017,persons,,aged 1-6 years,15
-2015,persons,male,aged 1-6 years,15
-2016,persons,male,aged 1-6 years,11
-2017,persons,male,aged 1-6 years,8
-2015,persons,female,aged 1-6 years,17
-2016,persons,female,aged 1-6 years,8
-2017,persons,female,aged 1-6 years,7
-2015,persons,,aged 7-9 years,14
-2016,persons,,aged 7-9 years,13
-2017,persons,,aged 7-9 years,7
-2015,persons,male,aged 7-9 years,6
-2016,persons,male,aged 7-9 years,6
-2017,persons,male,aged 7-9 years,4
-2015,persons,female,aged 7-9 years,8
-2016,persons,female,aged 7-9 years,7
-2017,persons,female,aged 7-9 years,3
-2015,persons,,aged 10-15 years,18
-2016,persons,,aged 10-15 years,20
-2017,persons,,aged 10-15 years,15
-2015,persons,male,aged 10-15 years,8
-2016,persons,male,aged 10-15 years,15
-2017,persons,male,aged 10-15 years,6
-2015,persons,female,aged 10-15 years,10
-2016,persons,female,aged 10-15 years,5
-2017,persons,female,aged 10-15 years,9
-2015,persons,,aged 16-17 years,3
-2016,persons,,aged 16-17 years,6
-2017,persons,,aged 16-17 years,6
-2015,persons,male,aged 16-17 years,3
-2016,persons,male,aged 16-17 years,2
-2017,persons,male,aged 16-17 years,3
-2015,persons,female,aged 16-17 years,0
-2016,persons,female,aged 16-17 years,4
-2017,persons,female,aged 16-17 years,3
+2015,person,,,78
+2016,person,,,64
+2017,person,,,45
+2015,person,male,,38
+2016,person,male,,39
+2017,person,male,,21
+2015,person,female,,40
+2016,person,female,,25
+2017,person,female,,24
+2015,person,,up to 1 year old,11
+2016,person,,up to 1 year old,6
+2017,person,,up to 1 year old,2
+2015,person,male,up to 1 year old,6
+2016,person,male,up to 1 year old,5
+2017,person,male,up to 1 year old,0
+2015,person,female,up to 1 year old,5
+2016,person,female,up to 1 year old,1
+2017,person,female,up to 1 year old,2
+2015,person,,aged 1-6 years,32
+2016,person,,aged 1-6 years,19
+2017,person,,aged 1-6 years,15
+2015,person,male,aged 1-6 years,15
+2016,person,male,aged 1-6 years,11
+2017,person,male,aged 1-6 years,8
+2015,person,female,aged 1-6 years,17
+2016,person,female,aged 1-6 years,8
+2017,person,female,aged 1-6 years,7
+2015,person,,aged 7-9 years,14
+2016,person,,aged 7-9 years,13
+2017,person,,aged 7-9 years,7
+2015,person,male,aged 7-9 years,6
+2016,person,male,aged 7-9 years,6
+2017,person,male,aged 7-9 years,4
+2015,person,female,aged 7-9 years,8
+2016,person,female,aged 7-9 years,7
+2017,person,female,aged 7-9 years,3
+2015,person,,aged 10-15 years,18
+2016,person,,aged 10-15 years,20
+2017,person,,aged 10-15 years,15
+2015,person,male,aged 10-15 years,8
+2016,person,male,aged 10-15 years,15
+2017,person,male,aged 10-15 years,6
+2015,person,female,aged 10-15 years,10
+2016,person,female,aged 10-15 years,5
+2017,person,female,aged 10-15 years,9
+2015,person,,aged 16-17 years,3
+2016,person,,aged 16-17 years,6
+2017,person,,aged 16-17 years,6
+2015,person,male,aged 16-17 years,3
+2016,person,male,aged 16-17 years,2
+2017,person,male,aged 16-17 years,3
+2015,person,female,aged 16-17 years,0
+2016,person,female,aged 16-17 years,4
+2017,person,female,aged 16-17 years,3
