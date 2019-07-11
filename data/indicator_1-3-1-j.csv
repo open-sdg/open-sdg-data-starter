@@ -1,13 +1,13 @@
 Year,Units,Sex,Category,Value
-2015,persons,,,469
-2016,persons,,,478
-2017,persons,,,474
-2015,persons,male,,256
-2016,persons,male,,273
-2017,persons,male,,262
-2015,persons,female,,213
-2016,persons,female,,205
-2017,persons,female,,212
+2015,person,,,469
+2016,person,,,478
+2017,person,,,474
+2015,person,male,,256
+2016,person,male,,273
+2017,person,male,,262
+2015,person,female,,213
+2016,person,female,,205
+2017,person,female,,212
 2015,%,,total to children aged 0-17 years with disabilities,6.01
 2016,%,,total to children aged 0-17 years with disabilities,5.85
 2017,%,,total to children aged 0-17 years with disabilities,5.80
