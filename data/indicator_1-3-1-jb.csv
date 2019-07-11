@@ -1,40 +1,40 @@
 Year,Units,Category,Sex,Value
-2015,persons,child with two parents,,36.0
-2016,persons,child with two parents,,28.0
-2017,persons,child with two parents,,14.0
-2015,persons,,male,23.0
-2016,persons,,male,19.0
-2017,persons,,male,10.0
-2015,persons,,female,13.0
-2016,persons,,female,9.0
-2017,persons,,female,4.0
-2015,persons,single mother child,,34.0
-2016,persons,single mother child,,31.0
-2017,persons,single mother child,,13.0
-2015,persons,single mother child,male,16.0
-2016,persons,single mother child,male,12.0
-2017,persons,single mother child,male,6.0
-2015,persons,single mother child,female,18.0
-2016,persons,single mother child,female,19.0
-2017,persons,single mother child,female,7.0
-2015,persons,left without parental care,,23.0
-2016,persons,left without parental care,,12.0
-2017,persons,left without parental care,,22.0
-2015,persons,left without parental care,male,10.0
-2016,persons,left without parental care,male,4.0
-2017,persons,left without parental care,male,8.0
-2015,persons,left without parental care,female,13.0
-2016,persons,left without parental care,female,8.0
-2017,persons,left without parental care,female,14.0
-2015,persons,other,,3.0
-2016,persons,other,,4.0
-2017,persons,other,,7.0
-2015,persons,other,male,1.0
-2016,persons,other,male,2.0
-2017,persons,other,male,3.0
-2015,persons,other,female,2.0
-2016,persons,other,female,2.0
-2017,persons,other,female,4.0
+2015,person,child with two parents,,36.0
+2016,person,child with two parents,,28.0
+2017,person,child with two parents,,14.0
+2015,person,,male,23.0
+2016,person,,male,19.0
+2017,person,,male,10.0
+2015,person,,female,13.0
+2016,person,,female,9.0
+2017,person,,female,4.0
+2015,person,single mother child,,34.0
+2016,person,single mother child,,31.0
+2017,person,single mother child,,13.0
+2015,person,single mother child,male,16.0
+2016,person,single mother child,male,12.0
+2017,person,single mother child,male,6.0
+2015,person,single mother child,female,18.0
+2016,person,single mother child,female,19.0
+2017,person,single mother child,female,7.0
+2015,person,left without parental care,,23.0
+2016,person,left without parental care,,12.0
+2017,person,left without parental care,,22.0
+2015,person,left without parental care,male,10.0
+2016,person,left without parental care,male,4.0
+2017,person,left without parental care,male,8.0
+2015,person,left without parental care,female,13.0
+2016,person,left without parental care,female,8.0
+2017,person,left without parental care,female,14.0
+2015,person,other,,3.0
+2016,person,other,,4.0
+2017,person,other,,7.0
+2015,person,other,male,1.0
+2016,person,other,male,2.0
+2017,person,other,male,3.0
+2015,person,other,female,2.0
+2016,person,other,female,2.0
+2017,person,other,female,4.0
 2015,%,child with two parents,,37.5
 2016,%,child with two parents,,37.3
 2017,%,child with two parents,,25.0
