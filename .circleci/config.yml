@@ -65,6 +65,15 @@ jobs:
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/circleci/deploy_staging.sh
+      - run:
+          name: Trigger staging site deployment
+          command: |
+            printf "Triggering an $PROJECT build on the $CIRCLE_BRANCH branch\n\n"
+            curl -u ${CIRCLE_TOKEN}: \
+                 -d build_parameters[CIRCLE_JOB]=deploy_staging \
+                 https://circleci.com/api/v1/project/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH
+            printf "\n\nBuild triggered\n\n"
+            printf "Follow the progress of the build on \nhttps://circleci.com/gh/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH"
   deploy_prod:
     docker:
       - image: circleci/python:3.6.1
@@ -79,6 +88,15 @@ jobs:
       - run:
           name: Deploy to production Github
           command: bash scripts/deploy/circleci/deploy_prod.sh
+      - run:
+          name: Trigger live site deployment
+          command: |
+            printf "Triggering an $PROJECT build on the $CIRCLE_BRANCH branch\n\n"
+            curl -u ${CIRCLE_TOKEN}: \
+                 -d build_parameters[CIRCLE_JOB]=deploy_prod \
+                 https://circleci.com/api/v1/project/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH
+            printf "\n\nBuild triggered\n\n"
+            printf "Follow the progress of the build on \nhttps://circleci.com/gh/$ORGANIZATION/$PROJECT/tree/$CIRCLE_BRANCH"
 workflows:
   version: 2
   build-deploy:
