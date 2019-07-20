@@ -31,8 +31,10 @@ for inid in ids:
     # Load the raw
     data = sdg.data.get_inid_data(inid)
     cols = data.columns
+    filepath = os.path.join('meta', inid + '.md')
+    meta = get_metadata(filepath)
     if 'GeoCode' in cols and data['GeoCode'].any():
-        filepath = os.path.join('meta', inid + '.md')
-        meta = get_metadata(filepath)
         meta['data_show_map'] = True
-        write_metadata(filepath, meta)
+    else:
+        meta['data_show_map'] = False
+    write_metadata(filepath, meta)
