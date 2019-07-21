@@ -97,6 +97,7 @@ for spreadsheet in spreadsheets:
             meta[meta_key] = translation_key
 
         if translations_found > 0:
+            meta['source_active_1'] = True
             write_metadata(filepath, meta)
         else:
             del ru[inid]
