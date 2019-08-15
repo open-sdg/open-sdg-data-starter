@@ -1,55 +1,55 @@
-Year,Units,Access to servises,Location,Sex,Value
-2015,%,access to centralized water supply,,,97.3
-2016,%,access to centralized water supply,,,97.9
-2017,%,access to centralized water supply,,,97.3
-2015,%,access to centralized water supply,urban,,99.9
-2016,%,access to centralized water supply,urban,,100.0
-2017,%,access to centralized water supply,urban,,99.9
-2015,%,access to centralized water supply,rural,,92.5
-2016,%,access to centralized water supply,rural,,94.0
-2017,%,access to centralized water supply,rural,,93.3
-2015,%,access to centralized sewerage system,,,69.9
-2016,%,access to centralized sewerage system,,,69.7
-2017,%,access to centralized sewerage system,,,69.8
-2015,%,access to centralized sewerage system,urban,,96.4
-2016,%,access to centralized sewerage system,urban,,96.1
-2017,%,access to centralized sewerage system,urban,,97.8
-2015,%,access to centralized sewerage system,rural,,20.3
-2016,%,access to centralized sewerage system,rural,,20.3
-2017,%,access to centralized sewerage system,rural,,25.3
-2015,%,access to garbage disposal,,,87.6
-2016,%,access to garbage disposal,,,86.6
-2017,%,access to garbage disposal,,,91.7
-2015,%,access to garbage disposal,urban,,98.7
-2016,%,access to garbage disposal,urban,,98.7
-2017,%,access to garbage disposal,urban,,99.8
-2015,%,access to garbage disposal,rural,,66.7
-2016,%,access to garbage disposal,rural,,63.6
-2017,%,access to garbage disposal,rural,,78.7
-2015,%,consulted a primary healthcare facility,,,40.5
-2016,%,consulted a primary healthcare facility,,,37.7
-2017,%,consulted a primary healthcare facility,,,34.4
-2015,%,enrollment in general education schools,,,96.3
-2016,%,enrollment in general education schools,,,90.7
-2017,%,enrollment in general education schools,,,90.1
-2015,%,internet accessibility for any household member at any place,,,61.2
-2016,%,internet accessibility for any household member at any place,,,74.7
-2017,%,internet accessibility for any household member at any place,,,64.7
-2015,%,internet accessibility for any household member at any place,urban,,64.4
-2016,%,internet accessibility for any household member at any place,urban,,77.9
-2017,%,internet accessibility for any household member at any place,urban,,68.1
-2015,%,internet accessibility for any household member at any place,rural,,55.3
-2016,%,internet accessibility for any household member at any place,rural,,68.7
-2017,%,internet accessibility for any household member at any place,rural,,59.4
-2015,%,household members use the internet,,,59.1
-2016,%,household members use the internet,,,64.3
-2017,%,household members use the internet,,,64.7
-2015,%,household members use the internet,,male,60.8
-2016,%,household members use the internet,,male,65.5
-2017,%,household members use the internet,,male,66.3
-2015,%,household members use the internet,,female,57.8
-2016,%,household members use the internet,,female,63.4
-2017,%,household members use the internet,,female,63.4
-2015,%,"electricity supply ",,,99.6
-2016,%,"electricity supply ",,,99.8
-2017,%,"electricity supply ",,,99.7
+Year,Units,Location,Sex,Value
+2015,%,,,97.3
+2016,%,,,97.9
+2017,%,,,97.3
+2015,%,urban,,99.9
+2016,%,urban,,100.0
+2017,%,urban,,99.9
+2015,%,rural,,92.5
+2016,%,rural,,94.0
+2017,%,rural,,93.3
+2015,%,,,69.9
+2016,%,,,69.7
+2017,%,,,69.8
+2015,%,urban,,96.4
+2016,%,urban,,96.1
+2017,%,urban,,97.8
+2015,%,rural,,20.3
+2016,%,rural,,20.3
+2017,%,rural,,25.3
+2015,%,,,87.6
+2016,%,,,86.6
+2017,%,,,91.7
+2015,%,urban,,98.7
+2016,%,urban,,98.7
+2017,%,urban,,99.8
+2015,%,rural,,66.7
+2016,%,rural,,63.6
+2017,%,rural,,78.7
+2015,%,,,40.5
+2016,%,,,37.7
+2017,%,,,34.4
+2015,%,,,96.3
+2016,%,,,90.7
+2017,%,,,90.1
+2015,%,,,61.2
+2016,%,,,74.7
+2017,%,,,64.7
+2015,%,urban,,64.4
+2016,%,urban,,77.9
+2017,%,urban,,68.1
+2015,%,rural,,55.3
+2016,%,rural,,68.7
+2017,%,rural,,59.4
+2015,%,,,59.1
+2016,%,,,64.3
+2017,%,,,64.7
+2015,%,,male,60.8
+2016,%,,male,65.5
+2017,%,,male,66.3
+2015,%,,female,57.8
+2016,%,,female,63.4
+2017,%,,female,63.4
+2015,%,,,99.6
+2016,%,,,99.8
+2017,%,,,99.7
