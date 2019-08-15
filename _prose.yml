@@ -206,11 +206,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_1
-      - name: "source_earliest_available_1"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_1
       - name: "source_geographical_coverage_1"
         field:
             element: text
@@ -267,11 +262,6 @@ prose:
         field:
             element: text
             label: "Organisation"
-            scope: source_2
-      - name: "source_earliest_available_2"
-        field:
-            element: text
-            label: "Earliest available data"
             scope: source_2
       - name: "source_geographical_coverage_2"
         field:
@@ -330,11 +320,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_3
-      - name: "source_earliest_available_3"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_3
       - name: "source_geographical_coverage_3"
         field:
             element: text
@@ -391,11 +376,6 @@ prose:
         field:
             element: text
             label: "Organisation"
-            scope: source_4
-      - name: "source_earliest_available_4"
-        field:
-            element: text
-            label: "Earliest available data"
             scope: source_4
       - name: "source_geographical_coverage_4"
         field:
@@ -454,11 +434,6 @@ prose:
             element: text
             label: "Organisation"
             scope: source_5
-      - name: "source_earliest_available_5"
-        field:
-            element: text
-            label: "Earliest available data"
-            scope: source_5
       - name: "source_geographical_coverage_5"
         field:
             element: text
@@ -515,11 +490,6 @@ prose:
         field:
             element: text
             label: "Organisation"
-            scope: source_6
-      - name: "source_earliest_available_6"
-        field:
-            element: text
-            label: "Earliest available data"
             scope: source_6
       - name: "source_geographical_coverage_6"
         field:
