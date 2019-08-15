@@ -217,11 +217,6 @@ prose:
             label: "Link to data source text"
             value: "Link to source"
             scope: source_1
-      - name: "source_statistical_classification_1"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_1
       - name: "source_contact_1"
         field:
             element: text
@@ -254,11 +249,6 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to Source"
-            scope: source_2
-      - name: "source_statistical_classification_2"
-        field:
-            element: text
-            label: "Statistical classification"
             scope: source_2
       - name: "source_contact_2"
         field:
@@ -293,11 +283,6 @@ prose:
             element: text
             label: "Link to data source text"
             scope: source_3
-      - name: "source_statistical_classification_3"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_3
       - name: "source_contact_3"
         field:
             element: text
@@ -330,11 +315,6 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to source"
-            scope: source_4
-      - name: "source_statistical_classification_4"
-        field:
-            element: text
-            label: "Statistical classification"
             scope: source_4
       - name: "source_contact_4"
         field:
@@ -369,11 +349,6 @@ prose:
             label: "Link to data source text"
             value: "Link to source"
             scope: source_5
-      - name: "source_statistical_classification_5"
-        field:
-            element: text
-            label: "Statistical classification"
-            scope: source_5
       - name: "source_contact_5"
         field:
             element: text
@@ -406,11 +381,6 @@ prose:
             element: text
             label: "Link to data source text"
             value: "Link to source"
-            scope: source_6
-      - name: "source_statistical_classification_6"
-        field:
-            element: text
-            label: "Statistical classification"
             scope: source_6
       - name: "source_contact_6"
         field:
