@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Disaster type,Value
+2015,"per 100,000 population",,445.4
+2016,"per 100,000 population",,506.6
+2017,"per 100,000 population",,444.1
+2015,"per 100,000 population",natural disaster,43.5
+2016,"per 100,000 population",natural disaster,177.1
+2017,"per 100,000 population",natural disaster,67.0
+2015,"per 100,000 population",technical disaster,172.9
+2016,"per 100,000 population",technical disaster,168.6
+2017,"per 100,000 population",technical disaster,190.8
+2015,"per 100,000 population",social-domestic disaster,229.0
+2016,"per 100,000 population",social-domestic disaster,160.9
+2017,"per 100,000 population",social-domestic disaster,186.3
