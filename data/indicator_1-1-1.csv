@@ -14,18 +14,18 @@ Year,Units,Sex,Location,Age,Employment status,Value
 2015,%,,rural,,,1.49
 2016,%,,rural,,,2.33
 2017,%,,rural,,,1.89
-2015,%,,,aged 0-16 years,,2.68
-2016,%,,,aged 0-16 years,,2.01
-2017,%,,,aged 0-16 years,,1.84
-2015,%,,,aged 17-65 years,,1.7
-2016,%,,,aged 17-65 years,,1.68
-2017,%,,,aged 17-65 years,,1.26
+2015,%,,,aged 0-17 years,,2.68
+2016,%,,,aged 0-17 years,,2.01
+2017,%,,,aged 0-17 years,,1.84
+2015,%,,,aged 18-66 years,,1.7
+2016,%,,,aged 18-66 years,,1.68
+2017,%,,,aged 18-66 years,,1.26
 2015,%,,,,economically active population,1.10
 2016,%,,,,economically active population,0.93
 2017,%,,,,economically active population,0.76
 2015,%,,,,employed,0.77
 2016,%,,,,employed,0.66
-2017,%,,,,employed,1.56
+2017,%,,,,employed,0.56
 2015,%,,,,wage employed,0.7
 2016,%,,,,wage employed,0.45
 2017,%,,,,wage employed,0.31

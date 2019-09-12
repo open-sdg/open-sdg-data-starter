@@ -1,19 +1,25 @@
 Year,Units,Sex,Category,Value
-2015,persons,,,469
-2016,persons,,,478
-2017,persons,,,474
-2015,persons,male,,256
-2016,persons,male,,273
-2017,persons,male,,262
-2015,persons,female,,213
-2016,persons,female,,205
-2017,persons,female,,212
+2015,person,,,469
+2016,person,,,478
+2017,person,,,474
+2018,person,,,363
+2015,person,male,,256
+2016,person,male,,273
+2017,person,male,,262
+2018,person,male,,208
+2015,person,female,,213
+2016,person,female,,205
+2017,person,female,,212
+2018,person,female,,155
 2015,%,,total to children aged 0-17 years with disabilities,6.01
 2016,%,,total to children aged 0-17 years with disabilities,5.85
-2017,%,,total to children aged 0-17 years with disabilities,5.80
+2017,%,,total to children aged 0-17 years with disabilities,5.76
+2018,%,,total to children aged 0-17 years with disabilities,4.43
 2015,%,male,total to children aged 0-17 years with disabilities,4.76
 2016,%,male,total to children aged 0-17 years with disabilities,4.89
-2017,%,male,total to children aged 0-17 years with disabilities,4.60
+2017,%,male,total to children aged 0-17 years with disabilities,4.65
+2018,%,male,total to children aged 0-17 years with disabilities,3.70
 2015,%,female,total to children aged 0-17 years with disabilities,8.78
 2016,%,female,total to children aged 0-17 years with disabilities,7.89
-2017,%,female,total to children aged 0-17 years with disabilities,8.20
+2017,%,female,total to children aged 0-17 years with disabilities,8.17
+2018,%,female,total to children aged 0-17 years with disabilities,6.03

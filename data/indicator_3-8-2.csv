@@ -1,2 +1,19 @@
-Year,Units,Value
-2015,%,90.224
+Year,Units,Type,Location,Value
+2015,%,10% of daily per capita total household consumption,,22.43
+2016,%,10% of daily per capita total household consumption,,19.29
+2017,%,10% of daily per capita total household consumption,,20.98
+2015,%,10% of daily per capita total household consumption,rural,16.80
+2016,%,10% of daily per capita total household consumption,rural,14.71
+2017,%,10% of daily per capita total household consumption,rural,15.91
+2015,%,10% of daily per capita total household consumption,urban,25.97
+2016,%,10% of daily per capita total household consumption,urban,22.03
+2017,%,10% of daily per capita total household consumption,urban,24.29
+2015,%,25% of daily per capita total household consumption,,7.58
+2016,%,25% of daily per capita total household consumption,,5.75
+2017,%,25% of daily per capita total household consumption,,7.09
+2015,%,25% of daily per capita total household consumption,rural,3.83
+2016,%,25% of daily per capita total household consumption,rural,3.69
+2017,%,25% of daily per capita total household consumption,rural,4.56
+2015,%,25% of daily per capita total household consumption,urban,9.95
+2016,%,25% of daily per capita total household consumption,urban,6.98
+2017,%,25% of daily per capita total household consumption,urban,8.75

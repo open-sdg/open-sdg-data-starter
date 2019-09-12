@@ -1,109 +1,145 @@
 Year,Units,Sex,Age,Category,Value
-2015,persons,,,,864
-2016,persons,,,,810
-2017,persons,,,,824
-2015,persons,male,,,456
-2016,persons,male,,,445
-2017,persons,male,,,445
-2015,persons,female,,,408
-2016,persons,female,,,365
-2017,persons,female,,,379
-2015,persons,,up to 1 year old,,68
-2016,persons,,up to 1 year old,,47
-2017,persons,,up to 1 year old,,59
-2015,persons,male,up to 1 year old,,34
-2016,persons,male,up to 1 year old,,25
-2017,persons,male,up to 1 year old,,27
-2015,persons,female,up to 1 year old,,34
-2016,persons,female,up to 1 year old,,22
-2017,persons,female,up to 1 year old,,32
-2015,persons,,aged 1-6 years,,199
-2016,persons,,aged 1-6 years,,208
-2017,persons,,aged 1-6 years,,170
-2015,persons,male,aged 1-6 years,,107
-2016,persons,male,aged 1-6 years,,117
-2017,persons,male,aged 1-6 years,,95
-2015,persons,female,aged 1-6 years,,92
-2016,persons,female,aged 1-6 years,,91
-2017,persons,female,aged 1-6 years,,75
-2015,persons,,aged 7-9 years,,147
-2016,persons,,aged 7-9 years,,145
-2017,persons,,aged 7-9 years,,176
-2015,persons,male,aged 7-9 years,,79
-2016,persons,male,aged 7-9 years,,76
-2017,persons,male,aged 7-9 years,,99
-2015,persons,female,aged 7-9 years,,68
-2016,persons,female,aged 7-9 years,,69
-2017,persons,female,aged 7-9 years,,77
-2015,persons,,aged 10-15 years,,246
-2016,persons,,aged 10-15 years,,231
-2017,persons,,aged 10-15 years,,221
-2015,persons,male,aged 10-15 years,,136
-2016,persons,male,aged 10-15 years,,137
-2017,persons,male,aged 10-15 years,,132
-2015,persons,female,aged 10-15 years,,110
-2016,persons,female,aged 10-15 years,,94
-2017,persons,female,aged 10-15 years,,89
-2015,persons,,aged 16-17 years,,204
-2016,persons,,aged 16-17 years,,179
-2017,persons,,aged 16-17 years,,198
-2015,persons,male,aged 16-17 years,,100
-2016,persons,male,aged 16-17 years,,90
-2017,persons,male,aged 16-17 years,,92
-2015,persons,female,aged 16-17 years,,104
-2016,persons,female,aged 16-17 years,,89
-2017,persons,female,aged 16-17 years,,106
+2015,person,,,,864
+2016,person,,,,810
+2017,person,,,,824
+2018,person,,,,784
+2015,person,male,,,456
+2016,person,male,,,445
+2017,person,male,,,445
+2018,person,male,,,424
+2015,person,female,,,408
+2016,person,female,,,365
+2017,person,female,,,379
+2018,person,female,,,360
+2015,person,,up to 1 year old,,68
+2016,person,,up to 1 year old,,47
+2017,person,,up to 1 year old,,59
+2018,person,,up to 1 year old,,49
+2015,person,male,up to 1 year old,,34
+2016,person,male,up to 1 year old,,25
+2017,person,male,up to 1 year old,,27
+2018,person,male,up to 1 year old,,27
+2015,person,female,up to 1 year old,,34
+2016,person,female,up to 1 year old,,22
+2017,person,female,up to 1 year old,,32
+2018,person,female,up to 1 year old,,22
+2015,person,,aged 1-6 years,,199
+2016,person,,aged 1-6 years,,208
+2017,person,,aged 1-6 years,,170
+2018,person,,aged 1-6 years,,166
+2015,person,male,aged 1-6 years,,107
+2016,person,male,aged 1-6 years,,117
+2017,person,male,aged 1-6 years,,95
+2018,person,male,aged 1-6 years,,86
+2015,person,female,aged 1-6 years,,92
+2016,person,female,aged 1-6 years,,91
+2017,person,female,aged 1-6 years,,75
+2018,person,female,aged 1-6 years,,80
+2015,person,,aged 7-9 years,,147
+2016,person,,aged 7-9 years,,145
+2017,person,,aged 7-9 years,,176
+2018,person,,aged 7-9 years,,141
+2015,person,male,aged 7-9 years,,79
+2016,person,male,aged 7-9 years,,76
+2017,person,male,aged 7-9 years,,99
+2018,person,male,aged 7-9 years,,82
+2015,person,female,aged 7-9 years,,68
+2016,person,female,aged 7-9 years,,69
+2017,person,female,aged 7-9 years,,77
+2018,person,female,aged 7-9 years,,59
+2015,person,,aged 10-15 years,,246
+2016,person,,aged 10-15 years,,231
+2017,person,,aged 10-15 years,,221
+2018,person,,aged 10-15 years,,197
+2015,person,male,aged 10-15 years,,136
+2016,person,male,aged 10-15 years,,137
+2017,person,male,aged 10-15 years,,132
+2018,person,male,aged 10-15 years,,115
+2015,person,female,aged 10-15 years,,110
+2016,person,female,aged 10-15 years,,94
+2017,person,female,aged 10-15 years,,89
+2018,person,female,aged 10-15 years,,82
+2015,person,,aged 16-17 years,,204
+2016,person,,aged 16-17 years,,179
+2017,person,,aged 16-17 years,,198
+2018,person,,aged 16-17 years,,231
+2015,person,male,aged 16-17 years,,100
+2016,person,male,aged 16-17 years,,90
+2017,person,male,aged 16-17 years,,92
+2018,person,male,aged 16-17 years,,114
+2015,person,female,aged 16-17 years,,104
+2016,person,female,aged 16-17 years,,89
+2017,person,female,aged 16-17 years,,106
+2018,person,female,aged 16-17 years,,117
 2015,%,,,total to the population of respective age,0.12
 2016,%,,,total to the population of respective age,0.12
 2017,%,,,total to the population of respective age,0.12
+2018,%,,,total to the population of respective age,0.11
 2015,%,male,,total to the population of respective age,0.12
 2016,%,male,,total to the population of respective age,0.12
 2017,%,male,,total to the population of respective age,0.12
+2018,%,male,,total to the population of respective age,0.11
 2015,%,female,,total to the population of respective age,0.13
 2016,%,female,,total to the population of respective age,0.11
 2017,%,female,,total to the population of respective age,0.12
+2018,%,female,,total to the population of respective age,0.11
 2015,%,,up to 1 year old,,0.16
 2016,%,,up to 1 year old,,0.12
 2017,%,,up to 1 year old,,0.16
+2018,%,,up to 1 year old,,0.13
 2015,%,male,up to 1 year old,,0.15
 2016,%,male,up to 1 year old,,0.12
 2017,%,male,up to 1 year old,,0.14
+2018,%,male,up to 1 year old,,0.14
 2015,%,female,up to 1 year old,,0.17
 2016,%,female,up to 1 year old,,0.11
 2017,%,female,up to 1 year old,,0.18
+2018,%,female,up to 1 year old,,0.13
 2015,%,,aged 1-6 years,,0.08
 2016,%,,aged 1-6 years,,0.08
 2017,%,,aged 1-6 years,,0.07
+2018,%,,aged 1-6 years,,0.07
 2015,%,male,aged 1-6 years,,0.08
 2016,%,male,aged 1-6 years,,0.09
 2017,%,male,aged 1-6 years,,0.07
+2018,%,male,aged 1-6 years,,0.07
 2015,%,female,aged 1-6 years,,0.08
 2016,%,female,aged 1-6 years,,0.08
 2017,%,female,aged 1-6 years,,0.06
+2018,%,female,aged 1-6 years,,0.07
 2015,%,,aged 7-9 years,,0.13
 2016,%,,aged 7-9 years,,0.12
 2017,%,,aged 7-9 years,,0.14
+2018,%,,aged 7-9 years,,0.11
 2015,%,male,aged 7-9 years,,0.13
 2016,%,male,aged 7-9 years,,0.12
 2017,%,male,aged 7-9 years,,0.15
+2018,%,male,aged 7-9 years,,0.12
 2015,%,female,aged 7-9 years,,0.13
 2016,%,female,aged 7-9 years,,0.12
 2017,%,female,aged 7-9 years,,0.13
+2018,%,female,aged 7-9 years,,0.10
 2015,%,,aged 10-15 years,,0.12
 2016,%,,aged 10-15 years,,0.11
 2017,%,,aged 10-15 years,,0.10
+2018,%,,aged 10-15 years,,0.09
 2015,%,male,aged 10-15 years,,0.12
 2016,%,male,aged 10-15 years,,0.12
 2017,%,male,aged 10-15 years,,0.11
+2018,%,male,aged 10-15 years,,0.09
 2015,%,female,aged 10-15 years,,0.11
 2016,%,female,aged 10-15 years,,0.10
 2017,%,female,aged 10-15 years,,0.09
+2018,%,female,aged 10-15 years,,0.08
 2015,%,,aged 16-17 years,,0.29
 2016,%,,aged 16-17 years,,0.26
 2017,%,,aged 16-17 years,,0.30
+2018,%,,aged 16-17 years,,0.36
 2015,%,male,aged 16-17 years,,0.27
 2016,%,male,aged 16-17 years,,0.25
 2017,%,male,aged 16-17 years,,0.26
+2018,%,male,aged 16-17 years,,0.33
 2015,%,female,aged 16-17 years,,0.31
 2016,%,female,aged 16-17 years,,0.28
 2017,%,female,aged 16-17 years,,0.34
+2018,%,female,aged 16-17 years,,0.39
