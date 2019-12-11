@@ -1,7 +1,45 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Servises,Value
+2015,Water supply,83.0
+2016,Water supply,85.8
+2017,Water supply,85.8
+2018,Water supply,87.3
+2015,Sewerage,72.3
+2016,Sewerage,70.8
+2017,Sewerage,74.2
+2018,Sewerage,76.5
+2015,Garbage disposal,78.2
+2016,Garbage disposal,79.8
+2017,Garbage disposal,76.4
+2018,Garbage disposal,78.7
+2015,Landline telephone,61.1
+2016,Landline telephone,57.1
+2017,Landline telephone,53.1
+2018,Landline telephone,49.2
+2015,Electricity supply,97.9
+2016,Electricity supply,98.0
+2017,Electricity supply,98.4
+2018,Electricity supply,98.9
+2015,Postal service,80.6
+2016,Postal service,76.5
+2017,Postal service,75.8
+2018,Postal service,73.5
+2015,Bank services,74.4
+2016,Bank services,70.8
+2017,Bank services,71.9
+2018,Bank services,73.7
+2015,Irrigation,17.6
+2016,Irrigation,23.7
+2017,Irrigation,22.8
+2018,Irrigation,21.5
+2015,Healthcare,61.5
+2016,Healthcare,61.4
+2017,Healthcare,63.6
+2018,Healthcare,62.3
+2015,Education,52.3
+2016,Education,53.8
+2017,Education,56.3
+2018,Education,54.9
+2015,Public transportation,81.2
+2016,Public transportation,82.2
+2017,Public transportation,76.6
+2018,Public transportation,72.1
