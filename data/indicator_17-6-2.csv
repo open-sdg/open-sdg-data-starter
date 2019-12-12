@@ -2,9 +2,12 @@ Year,Units,Category,Value
 2015,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.1
 2016,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.2
 2017,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.2
+2018,%,equal to or greater than 256 kbit/s and less than 2 Mbit/s,0.2
 2015,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,6.2
 2016,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.9
 2017,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.8
+2018,%,equal to or greater than 2 Mbit/s and less than 10 Mbit/s,5.9
 2015,%,equal to or greater than 10 Mbit/s,3.2
 2016,%,equal to or greater than 10 Mbit/s,3.9
 2017,%,equal to or greater than 10 Mbit/s,4.6
+2018,%,equal to or greater than 10 Mbit/s,5.6
