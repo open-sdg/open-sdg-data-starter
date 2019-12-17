@@ -7,10 +7,10 @@ Year,Units,Sex,Value
 2015,dram,male,203657
 2016,dram,male,209271
 2017,dram,male,211720
-2017,dram,,209035
-2018,dram,,210783
+*2017,dram,,209035
+*2018,dram,,210783
 2015,dram,female,135492
 2016,dram,female,138901
 2017,dram,female,143016
-2017,dram,,117941
-2018,dram,,136363
+*2017,dram,,117941
+*2018,dram,,136363
