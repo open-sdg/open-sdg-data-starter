@@ -177,6 +177,11 @@ prose:
             element: text
             label: "Indicator display order (within Goal page)"
             scope: data
+      - name: "temp_field"
+        field:
+            element: text
+            label: "Temporary field"
+            scope: data
       ######### Chart Info #########
       - name: "graph_type"
         field:
