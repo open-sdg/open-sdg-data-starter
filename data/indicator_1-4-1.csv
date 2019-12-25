@@ -23,18 +23,18 @@ Year,Access to servises,Units,Location,Sex,Value
 2016,household access to centralized sewerage system,%,rural,,20.3
 2017,household access to centralized sewerage system,%,rural,,25.3
 2018,household access to centralized sewerage system,%,rural,,28.6
-2015,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,,,87.6
-2016,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,,,86.6
-2017,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,,,91.7
-2018,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,,,93.6
-2015,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,urban,,98.7
-2016,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,urban,,98.7
-2017,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,urban,,99.8
-2018,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,urban,,99.4
-2015,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,rural,,66.7
-2016,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,rural,,63.6
-2017,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,rural,,78.7
-2018,household access to garbage disposal (garbage collector system and/or disposal by truck-garbage piled up for disposal),%,rural,,84.2
+2015,household access to garbage disposal,%,,,87.6
+2016,household access to garbage disposal,%,,,86.6
+2017,household access to garbage disposal,%,,,91.7
+2018,household access to garbage disposal,%,,,93.6
+2015,household access to garbage disposal,%,urban,,98.7
+2016,household access to garbage disposal,%,urban,,98.7
+2017,household access to garbage disposal,%,urban,,99.8
+2018,household access to garbage disposal,%,urban,,99.4
+2015,household access to garbage disposal,%,rural,,66.7
+2016,household access to garbage disposal,%,rural,,63.6
+2017,household access to garbage disposal,%,rural,,78.7
+2018,household access to garbage disposal,%,rural,,84.2
 2015,internet accessibility for household,%,,,61.2
 2016,internet accessibility for household,%,,,74.7
 2017,internet accessibility for household,%,,,64.7
