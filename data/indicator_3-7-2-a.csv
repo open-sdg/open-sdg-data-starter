@@ -2,7 +2,12 @@ Year,Units,Location,Value
 2015,"per 1,000 women",,5.8
 2016,"per 1,000 women",,5.4
 2017,"per 1,000 women",,4.8
-2015,%,urban,5
-2016,%,urban,4.4
-2015,%,rural,7
-2016,%,rural,7
+2015,"per 1,000 women",urban,5
+2016,"per 1,000 women",urban,4.4
+2015,"per 1,000 women",rural,7
+2016,"per 1,000 women",rural,7
+2017,"per 1,000 women",urban,3.9
+2017,"per 1,000 women",rural,6.3
+2018,"per 1,000 women",,3.7
+2018,"per 1,000 women",urban,3.0
+2018,"per 1,000 women",rural,4.9
