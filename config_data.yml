@@ -22,3 +22,13 @@ translations:
 # Extra fields to generate reporting stats for, for additional tabs
 # the "Reporting status" page.
 reporting_status_extra_fields: []
+
+# This builds one or more GeoJSON files to be used by Open SDG maps. For more
+# information on the parameters, see the sdg-build library.
+map_layers: []
+# To use this, remove the "[]" in the line above and uncomment/configure below:
+#  - geojson_file: regions.geojson
+#    name_property: myNameProperty
+#    id_property: myIdProperty
+#    output_subfolder: regions
+#    filename_prefix: indicator_
