@@ -102,10 +102,30 @@ prose:
             element: text
             label: "Calculations"
             scope: national
-      - name: "comments_limitations"
+      - name: "other_info"
         field:
             element: text
             label: "Other information"
+            scope: national
+      - name: "quality_assurance"
+        field:
+            element: text
+            label: "Quality assurance"
+            scope: national
+      - name: "international_comparability"
+        field:
+            element: text
+            label: "Comparability with international data/standards"
+            scope: national
+      - name: "comments_limitations"
+        field:
+            element: text
+            label: "Comments and limitations"
+            scope: national
+      - name: "rational_interpretation"
+        field:
+            element: text
+            label: "Rational and interpretation"
             scope: national
       - name: "national_data_update_url"
         field:
