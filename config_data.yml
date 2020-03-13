@@ -31,10 +31,9 @@ src_dir: ''
 # ------------------------
 # This tells sdg-build to import translations from Git repositories. Specific
 # tags or branches should be indicated after an "@" symbol. The default is the
-# two GitHub repositories 'translations-un-sdg' and 'translations-open-sdg'.
+# GitHub repository 'sdg-translations'.
 translations:
-  - https://github.com/open-sdg/translations-un-sdg.git@1.0.0-rc1
-  - https://github.com/open-sdg/translations-open-sdg.git@1.0.0-rc6
+  - https://github.com/open-sdg/sdg-translations.git@master
 
 # Reporting status extra fields
 # -----------------------------
