@@ -53,4 +53,4 @@ jobs:
         curl -X POST https://api.github.com/repos/STAGING_ORGANISATION/STAGING_SITE_REPOSITORY/dispatches \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.auto-rebuild-token}}" \
-        --data '{"event_type": "rebuild-site"}'
+        --data '{"event_type": "rebuild-staging"}'
