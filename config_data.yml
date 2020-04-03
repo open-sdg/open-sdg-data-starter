@@ -27,13 +27,23 @@ schema_file: _prose.yml
 # The default, '', points to the root of this repository.
 src_dir: ''
 
-# Translation repositories
-# ------------------------
-# This tells sdg-build to import translations from Git repositories. Specific
-# tags or branches should be indicated after an "@" symbol. The default is the
-# GitHub repository 'sdg-translations'.
+# Translations
+# ------------
+# The allows control over the imported translations. This can be omitted if you
+# are happy with the defaults. But if you are using custom translation repos
+# or non-standard inputs (such as SDMX) then you can use this as needed.
+#
+# Each item must have a "class" which corresponds to classes in the sdg-build
+# project. Further, each item can have any/all of the parameters that class uses.
+# The defaults below show what is used when this is omitted.
 translations:
-  - https://github.com/open-sdg/sdg-translations.git@master
+  # This pulls in translations from a Git repository.
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: master
+  # This pulls in translations from a local 'translations' folder.
+  - class: TranslationInputYaml
+    source: translations
 
 # Reporting status extra fields
 # -----------------------------
