@@ -1,3 +1,18 @@
+# ****************************************************************************
+# NOTES:
+#
+# In order for this to work, you must replace STAGING_ORGANISATION below
+# with the name of your staging GitHub organisation, in line 53.
+# You must also replace STAGING_SITE_REPOSITORY below with the name of your
+# staging site repository.
+#
+# For example, if your staging organisation is "my-sdg-staging-org", and your
+# staging site repository is "open-sdg-site-starter", then use:
+#
+# curl -X POST https://api.github.com/repos/my-sdg-staging-org/open-sdg-site-starter/dispatches
+#
+# ****************************************************************************
+
 name: Deploy to staging
 
 on:
@@ -30,3 +45,12 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
         CLEAN: true
+    - name: Waiting 4 minutes for staging data deployment
+      run: |
+        sleep 240
+    - name: Rebuild site
+      run: |
+        curl -X POST https://api.github.com/repos/STAGING_ORGANISATION/STAGING_SITE_REPOSITORY/dispatches \
+        -H "Accept: application/vnd.github.everest-preview+json" \
+        -H "Authorization: token ${{secrets.token}}" \
+        --data '{"event_type": "rebuild-staging"}'
