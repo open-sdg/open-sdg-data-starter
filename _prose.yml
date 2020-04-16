@@ -210,6 +210,13 @@ prose:
             translation_key: metadata_fields.data_footnote
             help: Footnotes appear under the chart and by data tables
             scope: data
+      - name: copyright
+        field:
+            element: text
+            label: Copyright
+            translation_key: metadata_fields.copyright
+            help: Copyright appears under the chart and by data tables
+            scope: data
       - name: data_geocode_regex
         field:
             element: text
