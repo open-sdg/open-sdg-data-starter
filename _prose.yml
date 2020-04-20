@@ -35,7 +35,7 @@ prose:
             label: "Indicator name"
             translation_key: metadata_fields.indicator_name
             scope: global
-      - name: "indicator"
+      - name: "indicator_number"
         field:
             element: hidden
             label: "Indicator number"
