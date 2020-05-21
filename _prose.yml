@@ -145,11 +145,11 @@ prose:
             label: "Comments and limitations"
             translation_key: metadata_fields.comments_limitations
             scope: national
-      - name: "rational_interpretation"
+      - name: "rationale_interpretation"
         field:
             element: text
-            label: "Rational and interpretation"
-            translation_key: metadata_fields.rational_interpretation
+            label: "Rationale and interpretation"
+            translation_key: metadata_fields.rationale_interpretation
             scope: national
       - name: "national_data_update_url"
         field:
