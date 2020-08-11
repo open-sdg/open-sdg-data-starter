@@ -1,4 +1,4 @@
-Use this folder to put any local translations. These translations will override/extend any that are pulled in via the `translations` option in `config_data.yml`. They should follow the same folder structure and format of [this repository](https://github.com/open-sdg/translations-open-sdg).
+Use this folder to put any local translations. These translations will override/extend any that are pulled in via the `translations` option in `config_data.yml`. They should follow the same folder structure and format of [this repository](https://github.com/open-sdg/sdg-translations).
 
 For example, perhaps you want to change the English wording of the `header.alpha` translation. Create an `en` folder here, with a `header.yml` file inside it. The contents of that file could be:
 
