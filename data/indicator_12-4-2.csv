@@ -1,5 +1,26 @@
-Year,Units,Value
-2015,kg per capita,20.7
-2016,kg per capita,38.7
-2017,kg per capita,14.7
-2018,kg per capita,13.8
+Year,Type,Units,Value
+2015,Hazardous waste generated,kg per capita,20.7
+2015,Waste transmitted to other organizations,%,23.7
+2015,Treated and destructed by organizations,%,0.5
+2015,Waste used by organizations,%,6
+2015,Transported to landfills by means of organizations,%,32.4
+2016,Hazardous waste generated,kg per capita,38.7
+2016,Waste transmitted to other organizations,%,54.6
+2016,Treated and destructed by organizations,%,0.5
+2016,Waste used by organizations,%,11.2
+2016,Transported to landfills by means of organizations,%,13.5
+2017,Hazardous waste generated,kg per capita,14.7
+2017,Waste transmitted to other organizations,%,51
+2017,Treated and destructed by organizations,%,1.3
+2017,Waste used by organizations,%,3.7
+2017,Transported to landfills by means of organizations,%,40.6
+2018,Hazardous waste generated,kg per capita,13.8
+2018,Waste transmitted to other organizations,%,61.6
+2018,Treated and destructed by organizations,%,4.1
+2018,Waste used by organizations,%,10.6
+2018,Transported to landfills by means of organizations,%,25.1
+2019,Hazardous waste generated,kg per capita,33
+2019,Waste transmitted to other organizations,%,67.2
+2019,Treated and destructed by organizations,%,1
+2019,Waste used by organizations,%,16.4
+2019,Transported to landfills by means of organizations,%,14.1
