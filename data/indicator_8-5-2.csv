@@ -49,8 +49,8 @@ Year,Units,Category,Age,Sex,Location,Value
 2017,%,,15-24 age,,rural,22.2
 2018,%,,15-24 age,,rural,23.2
 2019,%,,15-24 age,,rural,22.5
-2015,%,with disabilities,,,,15.7
-2016,%,with disabilities,,,,18.9
-2017,%,with disabilities,,,,14.1
-2018,%,with disabilities,,,,17.7
-2019,%,with disabilities,,,,17.7
+2015,%,with disabilities,15-75 age,,,15.7
+2016,%,with disabilities,15-75 age,,,18.9
+2017,%,with disabilities,15-75 age,,,14.1
+2018,%,with disabilities,15-75 age,,,17.7
+2019,%,with disabilities,15-75 age,,,17.7
