@@ -68,7 +68,7 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: master
+    tag: 1.2.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
@@ -107,3 +107,9 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 #docs_indicator_url: https://my-github-org/my-site-repository/[id]
+# This can be uncommented to show translation columns in the disaggregation report.
+#docs_translate_disaggregations: true
+# This can be uncommented to show additional columns in the disaggregation report.
+# This is mainly intended to show units of measurement and series, which are not
+# normally considered "disaggregation".
+# docs_extra_disaggregations: ['Units', 'Series']
