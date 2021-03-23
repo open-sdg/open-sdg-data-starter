@@ -30,10 +30,20 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
+      - name: "global_indicator_name"
+        field:
+            element: text
+            label: "Global indicator name"
+            scope: global
       - name: "indicator"
         field:
             element: hidden
             label: "Indicator number"
+            scope: global
+      - name: "global_indicator"
+        field:
+            element: hidden
+            label: "Global indicator number"
             scope: global
       - name: "target"
         field:
