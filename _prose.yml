@@ -3,154 +3,513 @@
 prose:
   metadata:
     meta:
-    ############ Page Data ############
-      - name: "title"
+      ######### Global Metadata #########
+      - name: SDG_INDICATOR_INFO__GLOBAL
         field:
             element: text
-            label: "Page Title"
-            translation_key: metadata_fields.title
-            scope: page
-      - name: "sdg_goal"
-        field:
-            element: hidden
-            label: "SDG Goal"
-            translation_key: metadata_fields.sdg_goal
-            scope: page
-      - name: "permalink"
-        field:
-            element: hidden
-            label: "Permalink"
-            translation_key: metadata_fields.permalink
-            scope: page
-      - name: "layout"
-        field:
-            element: hidden
-            label: "Layout"
-            translation_key: metadata_fields.layout
-            scope: page
-    ######### Global Metadata #########
-      - name: "indicator_name"
+            label: Indicator information (global)
+            translation_key: metadata_fields.SDG_INDICATOR_INFO
+            scope: national
+      - name: SDG_GOAL__GLOBAL
         field:
             element: text
-            label: "Indicator name"
-            translation_key: metadata_fields.indicator_name
-            scope: global
-      - name: "indicator_number"
-        field:
-            element: hidden
-            label: "Indicator number"
-            translation_key: metadata_fields.indicator
-            scope: global
-      - name: "target_name"
+            label: Goal (global)
+            translation_key: metadata_fields.SDG_GOAL
+            scope: national
+      - name: SDG_TARGET__GLOBAL
         field:
             element: text
-            label: "Target name"
-            translation_key: metadata_fields.target
-            scope: global
-      - name: "target_id"
+            label: Target (global)
+            translation_key: metadata_fields.SDG_TARGET
+            scope: national
+      - name: SDG_INDICATOR__GLOBAL
         field:
             element: text
-            label: "Target number"
-            translation_key: metadata_fields.target_id
-            scope: global
-      - name: "indicator_definition"
-        field:
-            element: textarea
-            label: "Global indicator description"
-            translation_key: metadata_fields.indicator_definition
-            scope: global
-      - name: "un_designated_tier"
+            label: Indicator (global)
+            translation_key: metadata_fields.SDG_INDICATOR
+            scope: national
+      - name: META_LAST_UPDATE__GLOBAL
         field:
             element: text
-            label: "UN designated tier"
-            translation_key: metadata_fields.un_designated_tier
-            scope: global
-      - name: "un_custodian_agency"
+            label: Metadata update (global)
+            translation_key: metadata_fields.META_LAST_UPDATE
+            scope: national
+      - name: SDG_RELATED_INDICATORS__GLOBAL
         field:
             element: text
-            label: "UN custodian agency"
-            translation_key: metadata_fields.un_custodian_agency
-            scope: global
-      - name: "goal_meta_link"
+            label: Related indicators (global)
+            translation_key: metadata_fields.SDG_RELATED_INDICATORS
+            scope: national
+      - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
             element: text
-            label: "Link to UN metadata"
-            translation_key: metadata_fields.goal_meta_link
-            scope: global
-      - name: "goal_meta_link_text"
+            label: International organisations(s) responsible for global monitoring (global)
+            translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
+            scope: national
+      - name: CONTACT__GLOBAL
         field:
             element: text
-            label: "Link to UN metadata text"
-            translation_key: metadata_fields.goal_meta_link_text
-            value: "UN metadata"
-            scope: global
+            label: Data reporter (global)
+            translation_key: metadata_fields.CONTACT
+            scope: national
+      - name: CONTACT_ORGANISATION__GLOBAL
+        field:
+            element: text
+            label: Organisation (global)
+            translation_key: metadata_fields.CONTACT_ORGANISATION
+            scope: national
+      - name: CONTACT_NAME__GLOBAL
+        field:
+            element: text
+            label: Contact person(s) (global)
+            translation_key: metadata_fields.CONTACT_NAME
+            scope: national
+      - name: ORGANISATION_UNIT__GLOBAL
+        field:
+            element: text
+            label: Contact organisation unit (global)
+            translation_key: metadata_fields.ORGANISATION_UNIT
+            scope: national
+      - name: CONTACT_FUNCT__GLOBAL
+        field:
+            element: text
+            label: Contact person function (global)
+            translation_key: metadata_fields.CONTACT_FUNCT
+            scope: national
+      - name: CONTACT_PHONE__GLOBAL
+        field:
+            element: text
+            label: Contact phone (global)
+            translation_key: metadata_fields.CONTACT_PHONE
+            scope: national
+      - name: CONTACT_MAIL__GLOBAL
+        field:
+            element: text
+            label: Contact mail (global)
+            translation_key: metadata_fields.CONTACT_MAIL
+            scope: national
+      - name: CONTACT_EMAIL__GLOBAL
+        field:
+            element: text
+            label: Contact email (global)
+            translation_key: metadata_fields.CONTACT_EMAIL
+            scope: national
+      - name: IND_DEF_CON_CLASS__GLOBAL
+        field:
+            element: text
+            label: Definition, concepts, and classifications (global)
+            translation_key: metadata_fields.IND_DEF_CON_CLASS
+            scope: national
+      - name: STAT_CONC_DEF__GLOBAL
+        field:
+            element: text
+            label: Definition and concepts (global)
+            translation_key: metadata_fields.STAT_CONC_DEF
+            scope: national
+      - name: UNIT_MEASURE__GLOBAL
+        field:
+            element: text
+            label: Unit of measure (global)
+            translation_key: metadata_fields.UNIT_MEASURE
+            scope: national
+      - name: CLASS_SYSTEM__GLOBAL
+        field:
+            element: text
+            label: Classifications (global)
+            translation_key: metadata_fields.CLASS_SYSTEM
+            scope: national
+      - name: SRC_TYPE_COLL_METHOD__GLOBAL
+        field:
+            element: text
+            label: Data source type and collection method (global)
+            translation_key: metadata_fields.SRC_TYPE_COLL_METHOD
+            scope: national
+      - name: SOURCE_TYPE__GLOBAL
+        field:
+            element: text
+            label: Data sources (global)
+            translation_key: metadata_fields.SOURCE_TYPE
+            scope: national
+      - name: COLL_METHOD__GLOBAL
+        field:
+            element: text
+            label: Data collection method (global)
+            translation_key: metadata_fields.COLL_METHOD
+            scope: national
+      - name: FREQ_COLL__GLOBAL
+        field:
+            element: text
+            label: Data collection calendar (global)
+            translation_key: metadata_fields.FREQ_COLL
+            scope: national
+      - name: REL_CAL_POLICY__GLOBAL
+        field:
+            element: text
+            label: Data release calendar (global)
+            translation_key: metadata_fields.REL_CAL_POLICY
+            scope: national
+      - name: DATA_SOURCE__GLOBAL
+        field:
+            element: text
+            label: Data providers (global)
+            translation_key: metadata_fields.DATA_SOURCE
+            scope: national
+      - name: COMPILING_ORG__GLOBAL
+        field:
+            element: text
+            label: Data compilers (global)
+            translation_key: metadata_fields.COMPILING_ORG
+            scope: national
+      - name: INST_MANDATE__GLOBAL
+        field:
+            element: text
+            label: Institutional mandate (global)
+            translation_key: metadata_fields.INST_MANDATE
+            scope: national
+      - name: OTHER_METHOD__GLOBAL
+        field:
+            element: text
+            label: Other methodological considerations (global)
+            translation_key: metadata_fields.OTHER_METHOD
+            scope: national
+      - name: RATIONALE__GLOBAL
+        field:
+            element: text
+            label: Rationale (global)
+            translation_key: metadata_fields.RATIONALE
+            scope: national
+      - name: REC_USE_LIM__GLOBAL
+        field:
+            element: text
+            label: Comment and limitations (global)
+            translation_key: metadata_fields.REC_USE_LIM
+            scope: national
+      - name: DATA_COMP__GLOBAL
+        field:
+            element: text
+            label: Method of computation (global)
+            translation_key: metadata_fields.DATA_COMP
+            scope: national
+      - name: DATA_VALIDATION__GLOBAL
+        field:
+            element: text
+            label: Validation (global)
+            translation_key: metadata_fields.DATA_VALIDATION
+            scope: national
+      - name: ADJUSTMENT__GLOBAL
+        field:
+            element: text
+            label: Adjustments (global)
+            translation_key: metadata_fields.ADJUSTMENT
+            scope: national
+      - name: IMPUTATION__GLOBAL
+        field:
+            element: text
+            label: Treatment of missing values (i) at country level and (ii) at regional level (global)
+            translation_key: metadata_fields.IMPUTATION
+            scope: national
+      - name: REG_AGG__GLOBAL
+        field:
+            element: text
+            label: Regional aggregations (global)
+            translation_key: metadata_fields.REG_AGG
+            scope: national
+      - name: DOC_METHOD__GLOBAL
+        field:
+            element: text
+            label: Methods and guidance available to countries for the compilation of the data at the national level (global)
+            translation_key: metadata_fields.DOC_METHOD
+            scope: national
+      - name: QUALITY_MGMNT__GLOBAL
+        field:
+            element: text
+            label: Quality management (global)
+            translation_key: metadata_fields.QUALITY_MGMNT
+            scope: national
+      - name: QUALITY_ASSURE__GLOBAL
+        field:
+            element: text
+            label: Quality assurance (global)
+            translation_key: metadata_fields.QUALITY_ASSURE
+            scope: national
+      - name: QUALITY_ASSMNT__GLOBAL
+        field:
+            element: text
+            label: Quality assessment (global)
+            translation_key: metadata_fields.QUALITY_ASSMNT
+            scope: national
+      - name: COVERAGE__GLOBAL
+        field:
+            element: text
+            label: Data availability and disaggregation (global)
+            translation_key: metadata_fields.COVERAGE
+            scope: national
+      - name: COMPARABILITY__GLOBAL
+        field:
+            element: text
+            label: Comparability/deviation from international standards (global)
+            translation_key: metadata_fields.COMPARABILITY
+            scope: national
+      - name: OTHER_DOC__GLOBAL
+        field:
+            element: text
+            label: References and Documentation (global)
+            translation_key: metadata_fields.OTHER_DOC
+            scope: national
       ######### National Metadata #########
-      - name: "national_indicator_available"
+      - name: SDG_INDICATOR_INFO
         field:
             element: text
-            label: "Indicator available"
-            translation_key: metadata_fields.national_indicator_available
+            label: Indicator information
+            translation_key: metadata_fields.SDG_INDICATOR_INFO
             scope: national
-      - name: "national_indicator_description"
+      - name: SDG_GOAL
         field:
             element: text
-            label: "Indicator description"
-            translation_key: metadata_fields.national_indicator_description
+            label: Goal
+            translation_key: metadata_fields.SDG_GOAL
             scope: national
-      - name: "national_geographical_coverage"
+      - name: SDG_TARGET
         field:
             element: text
-            label: "Geographical coverage"
-            translation_key: metadata_fields.national_geographical_coverage
+            label: Target
+            translation_key: metadata_fields.SDG_TARGET
             scope: national
-      - name: "computation_units"
+      - name: SDG_INDICATOR
         field:
             element: text
-            label: "Unit of measurement"
-            translation_key: metadata_fields.computation_units
+            label: Indicator
+            translation_key: metadata_fields.SDG_INDICATOR
             scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            translation_key: metadata_fields.computation_definitions
-            scope: national
-      - name: "computation_calculations"
+      - name: META_LAST_UPDATE
         field:
             element: text
-            label: "Calculations"
-            translation_key: metadata_fields.computation_calculations
+            label: Metadata update
+            translation_key: metadata_fields.META_LAST_UPDATE
             scope: national
-      - name: "other_info"
+      - name: SDG_RELATED_INDICATORS
         field:
             element: text
-            label: "Other information"
-            translation_key: metadata_fields.other_info
+            label: Related indicators
+            translation_key: metadata_fields.SDG_RELATED_INDICATORS
             scope: national
-      - name: "quality_assurance"
+      - name: SDG_CUSTODIAN_AGENCIES
         field:
             element: text
-            label: "Quality assurance"
-            translation_key: metadata_fields.quality_assurance
+            label: International organisations(s) responsible for global monitoring
+            translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
             scope: national
-      - name: "international_comparability"
+      - name: CONTACT
         field:
             element: text
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
+            label: Data reporter
+            translation_key: metadata_fields.CONTACT
             scope: national
-      - name: "comments_limitations"
+      - name: CONTACT_ORGANISATION
         field:
             element: text
-            label: "Comments and limitations"
-            translation_key: metadata_fields.comments_limitations
+            label: Organisation
+            translation_key: metadata_fields.CONTACT_ORGANISATION
             scope: national
-      - name: "rationale_interpretation"
+      - name: CONTACT_NAME
         field:
             element: text
-            label: "Rationale and interpretation"
-            translation_key: metadata_fields.rationale_interpretation
+            label: Contact person(s)
+            translation_key: metadata_fields.CONTACT_NAME
             scope: national
+      - name: ORGANISATION_UNIT
+        field:
+            element: text
+            label: Contact organisation unit
+            translation_key: metadata_fields.ORGANISATION_UNIT
+            scope: national
+      - name: CONTACT_FUNCT
+        field:
+            element: text
+            label: Contact person function
+            translation_key: metadata_fields.CONTACT_FUNCT
+            scope: national
+      - name: CONTACT_PHONE
+        field:
+            element: text
+            label: Contact phone
+            translation_key: metadata_fields.CONTACT_PHONE
+            scope: national
+      - name: CONTACT_MAIL
+        field:
+            element: text
+            label: Contact mail
+            translation_key: metadata_fields.CONTACT_MAIL
+            scope: national
+      - name: CONTACT_EMAIL
+        field:
+            element: text
+            label: Contact email
+            translation_key: metadata_fields.CONTACT_EMAIL
+            scope: national
+      - name: IND_DEF_CON_CLASS
+        field:
+            element: text
+            label: Definition, concepts, and classifications
+            translation_key: metadata_fields.IND_DEF_CON_CLASS
+            scope: national
+      - name: STAT_CONC_DEF
+        field:
+            element: text
+            label: Definition and concepts
+            translation_key: metadata_fields.STAT_CONC_DEF
+            scope: national
+      - name: UNIT_MEASURE
+        field:
+            element: text
+            label: Unit of measure
+            translation_key: metadata_fields.UNIT_MEASURE
+            scope: national
+      - name: CLASS_SYSTEM
+        field:
+            element: text
+            label: Classifications
+            translation_key: metadata_fields.CLASS_SYSTEM
+            scope: national
+      - name: SRC_TYPE_COLL_METHOD
+        field:
+            element: text
+            label: Data source type and collection method
+            translation_key: metadata_fields.SRC_TYPE_COLL_METHOD
+            scope: national
+      - name: SOURCE_TYPE
+        field:
+            element: text
+            label: Data sources
+            translation_key: metadata_fields.SOURCE_TYPE
+            scope: national
+      - name: COLL_METHOD
+        field:
+            element: text
+            label: Data collection method
+            translation_key: metadata_fields.COLL_METHOD
+            scope: national
+      - name: FREQ_COLL
+        field:
+            element: text
+            label: Data collection calendar
+            translation_key: metadata_fields.FREQ_COLL
+            scope: national
+      - name: REL_CAL_POLICY
+        field:
+            element: text
+            label: Data release calendar
+            translation_key: metadata_fields.REL_CAL_POLICY
+            scope: national
+      - name: DATA_SOURCE
+        field:
+            element: text
+            label: Data providers
+            translation_key: metadata_fields.DATA_SOURCE
+            scope: national
+      - name: COMPILING_ORG
+        field:
+            element: text
+            label: Data compilers
+            translation_key: metadata_fields.COMPILING_ORG
+            scope: national
+      - name: INST_MANDATE
+        field:
+            element: text
+            label: Institutional mandate
+            translation_key: metadata_fields.INST_MANDATE
+            scope: national
+      - name: OTHER_METHOD
+        field:
+            element: text
+            label: Other methodological considerations
+            translation_key: metadata_fields.OTHER_METHOD
+            scope: national
+      - name: RATIONALE
+        field:
+            element: text
+            label: Rationale
+            translation_key: metadata_fields.RATIONALE
+            scope: national
+      - name: REC_USE_LIM
+        field:
+            element: text
+            label: Comment and limitations
+            translation_key: metadata_fields.REC_USE_LIM
+            scope: national
+      - name: DATA_COMP
+        field:
+            element: text
+            label: Method of computation
+            translation_key: metadata_fields.DATA_COMP
+            scope: national
+      - name: DATA_VALIDATION
+        field:
+            element: text
+            label: Validation
+            translation_key: metadata_fields.DATA_VALIDATION
+            scope: national
+      - name: ADJUSTMENT
+        field:
+            element: text
+            label: Adjustments
+            translation_key: metadata_fields.ADJUSTMENT
+            scope: national
+      - name: IMPUTATION
+        field:
+            element: text
+            label: Treatment of missing values (i) at country level and (ii) at regional level
+            translation_key: metadata_fields.IMPUTATION
+            scope: national
+      - name: REG_AGG
+        field:
+            element: text
+            label: Regional aggregations
+            translation_key: metadata_fields.REG_AGG
+            scope: national
+      - name: DOC_METHOD
+        field:
+            element: text
+            label: Methods and guidance available to countries for the compilation of the data at the national level
+            translation_key: metadata_fields.DOC_METHOD
+            scope: national
+      - name: QUALITY_MGMNT
+        field:
+            element: text
+            label: Quality management
+            translation_key: metadata_fields.QUALITY_MGMNT
+            scope: national
+      - name: QUALITY_ASSURE
+        field:
+            element: text
+            label: Quality assurance
+            translation_key: metadata_fields.QUALITY_ASSURE
+            scope: national
+      - name: QUALITY_ASSMNT
+        field:
+            element: text
+            label: Quality assessment
+            translation_key: metadata_fields.QUALITY_ASSMNT
+            scope: national
+      - name: COVERAGE
+        field:
+            element: text
+            label: Data availability and disaggregation
+            translation_key: metadata_fields.COVERAGE
+            scope: national
+      - name: COMPARABILITY
+        field:
+            element: text
+            label: Comparability/deviation from international standards
+            translation_key: metadata_fields.COMPARABILITY
+            scope: national
+      - name: OTHER_DOC
+        field:
+            element: text
+            label: References and Documentation
+            translation_key: metadata_fields.OTHER_DOC
+            scope: national
+      ######### Last updated dates #########
       - name: "national_data_update_url"
         field:
             element: hidden
@@ -175,7 +534,7 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
-       ######### Data Info #########
+      ######### Data Info #########
       - name: "reporting_status"
         field:
             element: select
@@ -195,76 +554,6 @@ prose:
                 value: 'notapplicable'
                 translation_key: status.not_applicable
             scope: data
-      - name: data_non_statistical
-        field:
-            element: checkbox
-            label: Non-statistical indicator
-            translation_key: metadata_fields.data_non_statistical
-            help: Check this box if this indicator does not have numeric data associated with it
-            value: false
-            scope: data
-      - name: data_footnote
-        field:
-            element: text
-            label: Footnote
-            translation_key: metadata_fields.data_footnote
-            help: Footnotes appear under the chart and by data tables
-            scope: data
-      - name: copyright
-        field:
-            element: text
-            label: Copyright
-            translation_key: metadata_fields.copyright
-            help: Copyright appears under the chart and by data tables
-            scope: data
-      - name: data_geocode_regex
-        field:
-            element: text
-            label: GeoCode Regular Expression
-            translation_key: metadata_fields.data_geocode_regex
-            help: A regex on which geocodes to include
-            scope: data
-      - name: data_keywords
-        field:
-            element: text
-            label: Search Keywords
-            translation_key: metadata_fields.data_keywords
-            help: Comma separated keywords for search page
-            scope: data
-      - name: data_show_map
-        field:
-            element: checkbox
-            label: Show the map when GeoCodes are present?
-            translation_key: metadata_fields.data_show_map
-            help: If this box is checked then the prescence of a GeoCode field will trigger a map
-            value: false
-            scope: data
-      - name: "indicator_sort_order"
-        field:
-            element: text
-            label: "Indicator display order (within Goal page)"
-            translation_key: metadata_fields.indicator_sort_order
-            scope: data
-      ######### Chart Info #########
-      - name: "graph_type"
-        field:
-            element: select
-            label: "Graph type"
-            translation_key: metadata_fields.graph_type
-            options:
-              - name: 'line'
-                value: 'line'
-              - name: 'bar'
-                value: 'bar'
-              - name: 'binary'
-                value: 'binary'
-            scope: graph
-      - name: "graph_title"
-        field:
-            element: text
-            label: "Graph Title"
-            translation_key: metadata_fields.graph_title
-            scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
