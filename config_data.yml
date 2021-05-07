@@ -42,9 +42,11 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputYamlMdMeta
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*-*.yml
+  - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.md
+    path_pattern: meta/*-*.yml
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
     git: true
