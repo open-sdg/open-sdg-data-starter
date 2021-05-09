@@ -9,253 +9,253 @@ prose:
             element: text
             label: Indicator information (global)
             translation_key: metadata_fields.SDG_INDICATOR_INFO
-            scope: national
+            scope: global
       - name: SDG_GOAL__GLOBAL
         field:
             element: text
             label: Goal (global)
             translation_key: metadata_fields.SDG_GOAL
-            scope: national
+            scope: global
       - name: SDG_TARGET__GLOBAL
         field:
             element: text
             label: Target (global)
             translation_key: metadata_fields.SDG_TARGET
-            scope: national
+            scope: global
       - name: SDG_INDICATOR__GLOBAL
         field:
             element: text
             label: Indicator (global)
             translation_key: metadata_fields.SDG_INDICATOR
-            scope: national
+            scope: global
       - name: META_LAST_UPDATE__GLOBAL
         field:
             element: text
             label: Metadata update (global)
             translation_key: metadata_fields.META_LAST_UPDATE
-            scope: national
+            scope: global
       - name: SDG_RELATED_INDICATORS__GLOBAL
         field:
             element: text
             label: Related indicators (global)
             translation_key: metadata_fields.SDG_RELATED_INDICATORS
-            scope: national
+            scope: global
       - name: SDG_CUSTODIAN_AGENCIES__GLOBAL
         field:
             element: text
             label: International organisations(s) responsible for global monitoring (global)
             translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
-            scope: national
+            scope: global
       - name: CONTACT__GLOBAL
         field:
             element: text
             label: Data reporter (global)
             translation_key: metadata_fields.CONTACT
-            scope: national
+            scope: global
       - name: CONTACT_ORGANISATION__GLOBAL
         field:
             element: text
             label: Organisation (global)
             translation_key: metadata_fields.CONTACT_ORGANISATION
-            scope: national
+            scope: global
       - name: CONTACT_NAME__GLOBAL
         field:
             element: text
             label: Contact person(s) (global)
             translation_key: metadata_fields.CONTACT_NAME
-            scope: national
+            scope: global
       - name: ORGANISATION_UNIT__GLOBAL
         field:
             element: text
             label: Contact organisation unit (global)
             translation_key: metadata_fields.ORGANISATION_UNIT
-            scope: national
+            scope: global
       - name: CONTACT_FUNCT__GLOBAL
         field:
             element: text
             label: Contact person function (global)
             translation_key: metadata_fields.CONTACT_FUNCT
-            scope: national
+            scope: global
       - name: CONTACT_PHONE__GLOBAL
         field:
             element: text
             label: Contact phone (global)
             translation_key: metadata_fields.CONTACT_PHONE
-            scope: national
+            scope: global
       - name: CONTACT_MAIL__GLOBAL
         field:
             element: text
             label: Contact mail (global)
             translation_key: metadata_fields.CONTACT_MAIL
-            scope: national
+            scope: global
       - name: CONTACT_EMAIL__GLOBAL
         field:
             element: text
             label: Contact email (global)
             translation_key: metadata_fields.CONTACT_EMAIL
-            scope: national
+            scope: global
       - name: IND_DEF_CON_CLASS__GLOBAL
         field:
             element: text
             label: Definition, concepts, and classifications (global)
             translation_key: metadata_fields.IND_DEF_CON_CLASS
-            scope: national
+            scope: global
       - name: STAT_CONC_DEF__GLOBAL
         field:
             element: text
             label: Definition and concepts (global)
             translation_key: metadata_fields.STAT_CONC_DEF
-            scope: national
+            scope: global
       - name: UNIT_MEASURE__GLOBAL
         field:
             element: text
             label: Unit of measure (global)
             translation_key: metadata_fields.UNIT_MEASURE
-            scope: national
+            scope: global
       - name: CLASS_SYSTEM__GLOBAL
         field:
             element: text
             label: Classifications (global)
             translation_key: metadata_fields.CLASS_SYSTEM
-            scope: national
+            scope: global
       - name: SRC_TYPE_COLL_METHOD__GLOBAL
         field:
             element: text
             label: Data source type and collection method (global)
             translation_key: metadata_fields.SRC_TYPE_COLL_METHOD
-            scope: national
+            scope: global
       - name: SOURCE_TYPE__GLOBAL
         field:
             element: text
             label: Data sources (global)
             translation_key: metadata_fields.SOURCE_TYPE
-            scope: national
+            scope: global
       - name: COLL_METHOD__GLOBAL
         field:
             element: text
             label: Data collection method (global)
             translation_key: metadata_fields.COLL_METHOD
-            scope: national
+            scope: global
       - name: FREQ_COLL__GLOBAL
         field:
             element: text
             label: Data collection calendar (global)
             translation_key: metadata_fields.FREQ_COLL
-            scope: national
+            scope: global
       - name: REL_CAL_POLICY__GLOBAL
         field:
             element: text
             label: Data release calendar (global)
             translation_key: metadata_fields.REL_CAL_POLICY
-            scope: national
+            scope: global
       - name: DATA_SOURCE__GLOBAL
         field:
             element: text
             label: Data providers (global)
             translation_key: metadata_fields.DATA_SOURCE
-            scope: national
+            scope: global
       - name: COMPILING_ORG__GLOBAL
         field:
             element: text
             label: Data compilers (global)
             translation_key: metadata_fields.COMPILING_ORG
-            scope: national
+            scope: global
       - name: INST_MANDATE__GLOBAL
         field:
             element: text
             label: Institutional mandate (global)
             translation_key: metadata_fields.INST_MANDATE
-            scope: national
+            scope: global
       - name: OTHER_METHOD__GLOBAL
         field:
             element: text
             label: Other methodological considerations (global)
             translation_key: metadata_fields.OTHER_METHOD
-            scope: national
+            scope: global
       - name: RATIONALE__GLOBAL
         field:
             element: text
             label: Rationale (global)
             translation_key: metadata_fields.RATIONALE
-            scope: national
+            scope: global
       - name: REC_USE_LIM__GLOBAL
         field:
             element: text
             label: Comment and limitations (global)
             translation_key: metadata_fields.REC_USE_LIM
-            scope: national
+            scope: global
       - name: DATA_COMP__GLOBAL
         field:
             element: text
             label: Method of computation (global)
             translation_key: metadata_fields.DATA_COMP
-            scope: national
+            scope: global
       - name: DATA_VALIDATION__GLOBAL
         field:
             element: text
             label: Validation (global)
             translation_key: metadata_fields.DATA_VALIDATION
-            scope: national
+            scope: global
       - name: ADJUSTMENT__GLOBAL
         field:
             element: text
             label: Adjustments (global)
             translation_key: metadata_fields.ADJUSTMENT
-            scope: national
+            scope: global
       - name: IMPUTATION__GLOBAL
         field:
             element: text
             label: Treatment of missing values (i) at country level and (ii) at regional level (global)
             translation_key: metadata_fields.IMPUTATION
-            scope: national
+            scope: global
       - name: REG_AGG__GLOBAL
         field:
             element: text
             label: Regional aggregations (global)
             translation_key: metadata_fields.REG_AGG
-            scope: national
+            scope: global
       - name: DOC_METHOD__GLOBAL
         field:
             element: text
             label: Methods and guidance available to countries for the compilation of the data at the national level (global)
             translation_key: metadata_fields.DOC_METHOD
-            scope: national
+            scope: global
       - name: QUALITY_MGMNT__GLOBAL
         field:
             element: text
             label: Quality management (global)
             translation_key: metadata_fields.QUALITY_MGMNT
-            scope: national
+            scope: global
       - name: QUALITY_ASSURE__GLOBAL
         field:
             element: text
             label: Quality assurance (global)
             translation_key: metadata_fields.QUALITY_ASSURE
-            scope: national
+            scope: global
       - name: QUALITY_ASSMNT__GLOBAL
         field:
             element: text
             label: Quality assessment (global)
             translation_key: metadata_fields.QUALITY_ASSMNT
-            scope: national
+            scope: global
       - name: COVERAGE__GLOBAL
         field:
             element: text
             label: Data availability and disaggregation (global)
             translation_key: metadata_fields.COVERAGE
-            scope: national
+            scope: global
       - name: COMPARABILITY__GLOBAL
         field:
             element: text
             label: Comparability/deviation from international standards (global)
             translation_key: metadata_fields.COMPARABILITY
-            scope: national
+            scope: global
       - name: OTHER_DOC__GLOBAL
         field:
             element: text
             label: References and Documentation (global)
             translation_key: metadata_fields.OTHER_DOC
-            scope: national
+            scope: global
       ######### National Metadata #########
       - name: SDG_INDICATOR_INFO
         field:
