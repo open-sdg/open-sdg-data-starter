@@ -3,7 +3,7 @@ version: 2
 jobs:
   test:
     docker:
-      - image: circleci/python:3.6.1
+      - image: circleci/python:3.7.9
     working_directory: ~/repo
     steps:
       - checkout
@@ -31,7 +31,7 @@ jobs:
             python3 scripts/check_data.py
   build:
     docker:
-      - image: circleci/python:3.6.1
+      - image: circleci/python:3.7.9
     working_directory: ~/repo
     steps:
       - checkout
@@ -58,7 +58,7 @@ jobs:
             - _site
   deploy_staging:
     docker:
-      - image: circleci/python:3.6.1
+      - image: circleci/python:3.7.9
     working_directory: ~/repo
     steps:
       - checkout
@@ -72,7 +72,7 @@ jobs:
           command: bash scripts/deploy/circleci/deploy_staging.sh
   deploy_prod:
     docker:
-      - image: circleci/python:3.6.1
+      - image: circleci/python:3.7.9
     working_directory: ~/repo
     steps:
       - checkout
