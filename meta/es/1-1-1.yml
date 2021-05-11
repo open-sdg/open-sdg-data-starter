@@ -10,37 +10,39 @@ SDG_INDICATOR: >-
   de pobreza internacional por sexo, edad, situación laboral y ubicación
   geográfica (urbana/rural)
 SDG_SERIES_DESCR: >-
-  ''
+
 META_LAST_UPDATE: >-
-  ''
+
 SDG_RELATED_INDICATORS: >-
-  ''
+
 SDG_CUSTODIAN_AGENCIES: >-
-  ''
+
 CONTACT_ORGANISATION: >-
-  ''
+
 CONTACT_NAME: >-
-  ''
+
 ORGANISATION_UNIT: >-
-  ''
+
 CONTACT_FUNCT: >-
-  ''
+
 CONTACT_PHONE: >-
-  ''
+
 CONTACT_MAIL: >-
-  ''
+
 CONTACT_EMAIL: >-
-  ''
+
 STAT_CONC_DEF: >-
-  # Conceptos y definiciones
   ## Definición:
+  
   El indicador "proporción de la población por debajo del umbral de
   pobreza internacional" se define como el porcentaje de la población
   que vive con menos de 1,90 dólares al día a precios internacionales de 2011.
   La línea de pobreza internacional se fija actualmente en 1,90 dólares al día a
   precios internacionales de 2011.
   
-  ##Conceptos:
+  
+  ## Conceptos:
+  
   Al evaluar la pobreza en un país determinado y la mejor manera de
   reducirla, naturalmente uno se enfoca en una línea de pobreza que se considera
   apropiada para ese país. Pero, ¿cómo hablamos de manera significativa sobre
@@ -51,6 +53,7 @@ STAT_CONC_DEF: >-
   global en términos de consumo, necesitamos tratar a dos personas con el mismo
   poder adquisitivo sobre los productos básicos de la misma manera -
   ambos son pobres o no lo son - incluso si viven en países diferentes.
+  
   
   Desde el Informe sobre el desarrollo mundial de 1990, el Banco Mundial se
   ha propuesto aplicar un estándar común para medir la pobreza extrema, anclado
@@ -77,48 +80,47 @@ STAT_CONC_DEF: >-
   de consumo de 1993, 2005 y 2011 elaboradas por el Programa de Comparación
   Internacional (PCI) del Banco Mundial'.
 UNIT_MEASURE: >-
-  ''
+
 CLASS_SYSTEM: >-
-  ''
+
 SOURCE_TYPE: >-
-  ''
+
 COLL_METHOD: >-
-  ''
+
 FREQ_COLL: >-
-  ''
+
 REL_CAL_POLICY: >-
-  ''
+
 DATA_SOURCE: >-
-  ''
+
 COMPILING_ORG: >-
-  ''
+
 INST_MANDATE: >-
-  ''
+
 RATIONALE: >-
-  ''
+
 REC_USE_LIM: >-
-  ''
+
 DATA_COMP: >-
-  ''
+
 DATA_VALIDATION: >-
-  ''
+
 ADJUSTMENT: >-
-  ''
+
 IMPUTATION: >-
-  ''
+
 REG_AGG: >-
-  ''
+
 DOC_METHOD: >-
-  ''
+
 QUALITY_MGMNT: >-
-  ''
+
 QUALITY_ASSURE: >-
-  ''
+
 QUALITY_ASSMNT: >-
-  ''
+
 COVERAGE: >-
-  ''
+
 COMPARABILITY: >-
-  ''
+
 OTHER_DOC: >-
-  ''
