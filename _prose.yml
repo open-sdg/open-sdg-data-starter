@@ -28,6 +28,12 @@ prose:
             label: Indicator (global)
             translation_key: metadata_fields.SDG_INDICATOR
             scope: global
+      - name: SDG_SERIES_DESCR__GLOBAL
+        field:
+            element: text
+            label: Series (global)
+            translation_key: metadata_fields.SDG_SERIES_DESCR
+            scope: global
       - name: META_LAST_UPDATE__GLOBAL
         field:
             element: text
@@ -281,6 +287,12 @@ prose:
             label: Indicator
             translation_key: metadata_fields.SDG_INDICATOR
             scope: national
+      - name: SDG_SERIES_DESCR
+        field:
+            element: text
+            label: Series
+            translation_key: metadata_fields.SDG_SERIES_DESCR
+            scope: national
       - name: META_LAST_UPDATE
         field:
             element: text
@@ -292,12 +304,6 @@ prose:
             element: text
             label: Related indicators
             translation_key: metadata_fields.SDG_RELATED_INDICATORS
-            scope: national
-      - name: SDG_CUSTODIAN_AGENCIES
-        field:
-            element: text
-            label: International organisations(s) responsible for global monitoring
-            translation_key: metadata_fields.SDG_CUSTODIAN_AGENCIES
             scope: national
       - name: CONTACT
         field:
@@ -460,12 +466,6 @@ prose:
             element: text
             label: Treatment of missing values (i) at country level and (ii) at regional level
             translation_key: metadata_fields.IMPUTATION
-            scope: national
-      - name: REG_AGG
-        field:
-            element: text
-            label: Regional aggregations
-            translation_key: metadata_fields.REG_AGG
             scope: national
       - name: DOC_METHOD
         field:
