@@ -455,18 +455,6 @@ prose:
             label: Validation
             translation_key: metadata_fields.DATA_VALIDATION
             scope: national
-      - name: ADJUSTMENT
-        field:
-            element: text
-            label: Adjustments
-            translation_key: metadata_fields.ADJUSTMENT
-            scope: national
-      - name: IMPUTATION
-        field:
-            element: text
-            label: Treatment of missing values (i) at country level and (ii) at regional level
-            translation_key: metadata_fields.IMPUTATION
-            scope: national
       - name: DOC_METHOD
         field:
             element: text
