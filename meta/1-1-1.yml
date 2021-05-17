@@ -40,12 +40,12 @@ STAT_CONC_DEF: >-
   
   ## Concepts:
   
-  ***Employment:*** All persons of working age who,
+  **Employment:** All persons of working age who,
   during a short reference period (one week), were engaged in any activity to
   produce goods or provide services for pay or profit.
   
   
-  ***Poverty Line:*** Threshold below which individuals
+  **Poverty Line:** Threshold below which individuals
   in the reference population are considered poor and above which they are
   considered non-poor. The threshold is generally defined as the per-capita
   monetary requirements an individual needs to afford the purchase of a basic
@@ -53,13 +53,13 @@ STAT_CONC_DEF: >-
   international poverty line of US$1.90 per day is used.
   
   
-  ***Household in poverty:*** Households are defined as
+  **Household in poverty:** Households are defined as
   poor if their income or consumption expenditure is below the poverty line
   taking into account the number of household members and composition (e.g.,
   number of adults and children).
   
   
-  ***Working poor:*** Employed persons living in
+  **Working poor:** Employed persons living in
   households that are classified as poor, that is, that have income or
   consumption levels below the poverty line used for measurement.
 UNIT_MEASURE: >-
