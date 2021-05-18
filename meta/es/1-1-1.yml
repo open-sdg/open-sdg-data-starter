@@ -1,0 +1,126 @@
+SDG_GOAL: >-
+  Meta 1: Poner fin a la pobreza en todas sus formas y en todo el mundo
+SDG_TARGET: >-
+  Objetivo 1.1: De aquí a 2030, erradicar para todas las personas y en todo
+  el mundo la pobreza extrema (actualmente se considera que sufren pobreza
+  extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos
+  al día)
+SDG_INDICATOR: >-
+  Indicador 1.1.1: Proporción de la población que vive por debajo del umbral
+  de pobreza internacional por sexo, edad, situación laboral y ubicación
+  geográfica (urbana/rural)
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >-
+  ## Definición:
+  
+  El indicador "proporción de la población por debajo del umbral de
+  pobreza internacional" se define como el porcentaje de la población
+  que vive con menos de 1,90 dólares al día a precios internacionales de 2011.
+  La línea de pobreza internacional se fija actualmente en 1,90 dólares al día a
+  precios internacionales de 2011.
+  
+  
+  ## Conceptos:
+  
+  Al evaluar la pobreza en un país determinado y la mejor manera de
+  reducirla, naturalmente uno se enfoca en una línea de pobreza que se considera
+  apropiada para ese país. Pero, ¿cómo hablamos de manera significativa sobre
+  "la pobreza global"? Las líneas de pobreza entre países varían
+  en términos de su poder adquisitivo y tienen un fuerte gradiente económico, de
+  modo que los países más ricos tienden a adoptar niveles de vida más altos al
+  definir la pobreza. Pero para medir consistentemente la pobreza absoluta
+  global en términos de consumo, necesitamos tratar a dos personas con el mismo
+  poder adquisitivo sobre los productos básicos de la misma manera -
+  ambos son pobres o no lo son - incluso si viven en países diferentes.
+  
+  
+  Desde el Informe sobre el desarrollo mundial de 1990, el Banco Mundial se
+  ha propuesto aplicar un estándar común para medir la pobreza extrema, anclado
+  en lo que significa la pobreza en los países más pobres del mundo. El
+  bienestar de las personas que viven en diferentes países se puede medir en una
+  escala común ajustando las diferencias en el poder adquisitivo de las monedas.
+  Para el Informe sobre el desarrollo mundial de 1990, se eligió el estándar de
+  1 dólar al día, medido a precios internacionales de 1985 y ajustado a la
+  moneda local mediante PPA, porque era típico de las líneas de pobreza de los
+  países de bajos ingresos en ese momento. A medida que evolucionan las
+  diferencias en el costo de vida en todo el mundo, la línea de pobreza
+  internacional debe actualizarse periódicamente utilizando nuevos datos de
+  precios de PPA para reflejar estos cambios. El último cambio fue en octubre de
+  2015, cuando el Banco Mundial adoptó $ 1,90 como línea de pobreza
+  internacional utilizando la PPA de 2011. Antes de eso, la actualización de
+  2008 estableció la línea de pobreza internacional en $ 1,25 utilizando la PPA
+  de 2005. Las medidas de pobreza basadas en líneas de pobreza internacionales
+  intentan mantener constante el valor real de la línea de pobreza en todos los
+  países, como se hace al hacer comparaciones en el tiempo. Las primeras
+  ediciones de los Indicadores de desarrollo mundial (WDI) del Banco Mundial'
+  utilizaban las PPA de las Penn World Tables para convertir los
+  valores en moneda local al poder adquisitivo equivalente medido en dólares
+  estadounidenses. En ediciones posteriores se utilizaron estimaciones de la PPA
+  de consumo de 1993, 2005 y 2011 elaboradas por el Programa de Comparación
+  Internacional (PCI) del Banco Mundial'.
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-

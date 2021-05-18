@@ -1,0 +1,109 @@
+SDG_GOAL: >-
+  Goal 1: End poverty in all its forms everywhere
+SDG_TARGET: >-
+  Target 1.1: By 2030, eradicate extreme poverty for all people everywhere,
+  currently measured as people living on less than $1.25 a day
+SDG_INDICATOR: >-
+  Indicator 1.1.1: Proportion of the population living below the
+  international poverty line by sex, age, employment status and geographic
+  location (urban/rural)
+SDG_SERIES_DESCR: >-
+
+META_LAST_UPDATE: >-
+
+SDG_RELATED_INDICATORS: >-
+
+SDG_CUSTODIAN_AGENCIES: >-
+
+CONTACT_ORGANISATION: >-
+
+CONTACT_NAME: >-
+
+ORGANISATION_UNIT: >-
+
+CONTACT_FUNCT: >-
+
+CONTACT_PHONE: >-
+
+CONTACT_MAIL: >-
+
+CONTACT_EMAIL: >-
+
+STAT_CONC_DEF: >- 
+  ## Definition:
+  
+  The proportion of the employed population below the international poverty
+  line of US$1.90 per day, also referred to as the working poverty rate, is
+  defined as the share of employed persons living in households with per-capita
+  consumption or income that is below the international poverty line of
+  US$1.90.
+  
+  ## Concepts:
+  
+  **Employment:** All persons of working age who,
+  during a short reference period (one week), were engaged in any activity to
+  produce goods or provide services for pay or profit.
+  
+  
+  **Poverty Line:** Threshold below which individuals
+  in the reference population are considered poor and above which they are
+  considered non-poor. The threshold is generally defined as the per-capita
+  monetary requirements an individual needs to afford the purchase of a basic
+  bundle of goods and services. For the purpose of this indicator, an absolute
+  international poverty line of US$1.90 per day is used.
+  
+  
+  **Household in poverty:** Households are defined as
+  poor if their income or consumption expenditure is below the poverty line
+  taking into account the number of household members and composition (e.g.,
+  number of adults and children).
+  
+  
+  **Working poor:** Employed persons living in
+  households that are classified as poor, that is, that have income or
+  consumption levels below the poverty line used for measurement.
+UNIT_MEASURE: >-
+
+CLASS_SYSTEM: >-
+
+SOURCE_TYPE: >-
+
+COLL_METHOD: >-
+
+FREQ_COLL: >-
+
+REL_CAL_POLICY: >-
+
+DATA_SOURCE: >-
+
+COMPILING_ORG: >-
+
+INST_MANDATE: >-
+
+RATIONALE: >-
+
+REC_USE_LIM: >-
+
+DATA_COMP: >-
+
+DATA_VALIDATION: >-
+
+ADJUSTMENT: >-
+
+IMPUTATION: >-
+
+REG_AGG: >-
+
+DOC_METHOD: >-
+
+QUALITY_MGMNT: >-
+
+QUALITY_ASSURE: >-
+
+QUALITY_ASSMNT: >-
+
+COVERAGE: >-
+
+COMPARABILITY: >-
+
+OTHER_DOC: >-
