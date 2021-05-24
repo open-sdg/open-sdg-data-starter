@@ -81,6 +81,11 @@ prose:
             label: "Link to UN metadata text"
             value: "UN metadata"
             scope: global
+      - name: "indicator content"
+        field:
+            element: text
+            label: "Note"
+            scope: global
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
