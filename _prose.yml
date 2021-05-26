@@ -184,7 +184,7 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-                translation_key: status.reported_online
+                translation_key: status.reported
               - name: 'inprogress'
                 value: 'inprogress'
                 translation_key: status.statistics_in_progress
