@@ -81,7 +81,7 @@ prose:
             label: "Link to UN metadata text"
             value: "UN metadata"
             scope: global
-      - name: "indicator content"
+      - name: "indicator_note"
         field:
             element: text
             label: "Note"            
