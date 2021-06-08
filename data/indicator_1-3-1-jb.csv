@@ -4,118 +4,142 @@ Year,Units,Category,Sex,Value
 2017,person,child with two parents,,14
 2018,person,child with two parents,,13
 2019,person,child with two parents,,6
-2015,person,,male,23
-2016,person,,male,19
-2017,person,,male,10
-2018,person,,male,7
-2019,person,,male,1
-2015,person,,female,13
-2016,person,,female,9
-2017,person,,female,4
-2018,person,,female,6
-2019,person,,female,5
+2020,person,child with two parents,,10
+2015,person,child with two parents,male,23
+2016,person,child with two parents,male,19
+2017,person,child with two parents,male,10
+2018,person,child with two parents,male,7
+2019,person,child with two parents,male,1
+2020,person,child with two parents,male,5
+2015,person,child with two parents,female,13
+2016,person,child with two parents,female,9
+2017,person,child with two parents,female,4
+2018,person,child with two parents,female,6
+2019,person,child with two parents,female,5
+2020,person,child with two parents,female,5
 2015,person,single mother child,,34
 2016,person,single mother child,,31
 2017,person,single mother child,,13
 2018,person,single mother child,,8
 2019,person,single mother child,,4
+2020,person,single mother child,,9
 2015,person,single mother child,male,16
 2016,person,single mother child,male,12
 2017,person,single mother child,male,6
 2018,person,single mother child,male,4
 2019,person,single mother child,male,3
+2020,person,single mother child,male,5
 2015,person,single mother child,female,18
 2016,person,single mother child,female,19
 2017,person,single mother child,female,7
 2018,person,single mother child,female,4
 2019,person,single mother child,female,1
+2020,person,single mother child,female,4
 2015,person,left without parental care,,23
 2016,person,left without parental care,,12
 2017,person,left without parental care,,22
 2018,person,left without parental care,,22
 2019,person,left without parental care,,0
+2020,person,left without parental care,,10
 2015,person,left without parental care,male,10
 2016,person,left without parental care,male,4
 2017,person,left without parental care,male,8
 2018,person,left without parental care,male,10
 2019,person,left without parental care,male,0
+2020,person,left without parental care,male,3
 2015,person,left without parental care,female,13
 2016,person,left without parental care,female,8
 2017,person,left without parental care,female,14
 2018,person,left without parental care,female,12
 2019,person,left without parental care,female,0
+2020,person,left without parental care,female,7
 2015,person,other,,3
 2016,person,other,,4
 2017,person,other,,7
 2018,person,other,,5
 2019,person,other,,9
+2020,person,other,,4
 2015,person,other,male,1
 2016,person,other,male,2
 2017,person,other,male,3
 2018,person,other,male,1
 2019,person,other,male,6
+2020,person,other,male,4
 2015,person,other,female,2
 2016,person,other,female,2
 2017,person,other,female,4
 2018,person,other,female,4
 2019,person,other,female,3
+2020,person,other,female,0
 2015,%,child with two parents,,37.50
 2016,%,child with two parents,,37.33
 2017,%,child with two parents,,25.00
 2018,%,child with two parents,,27.08
 2019,%,child with two parents,,31.58
+2020,%,child with two parents,,30.30
 2015,%,child with two parents,male,46.00
 2016,%,child with two parents,male,51.35
 2017,%,child with two parents,male,37.04
 2018,%,child with two parents,male,31.82
 2019,%,child with two parents,male,10.00
+2020,%,child with two parents,male,29.41
 2015,%,child with two parents,female,28.26
 2016,%,child with two parents,female,23.68
 2017,%,child with two parents,female,13.79
 2018,%,child with two parents,female,23.08
 2019,%,child with two parents,female,55.56
+2020,%,child with two parents,female,31.25
 2015,%,single mother child,,35.42
 2016,%,single mother child,,41.33
 2017,%,single mother child,,23.21
 2018,%,single mother child,,16.67
 2019,%,single mother child,,21.05
+2020,%,single mother child,,27.27
 2015,%,single mother child,male,32.00
 2016,%,single mother child,male,32.43
 2017,%,single mother child,male,22.22
 2018,%,single mother child,male,18.18
 2019,%,single mother child,male,30.00
+2020,%,single mother child,male,29.41
 2015,%,single mother child,female,39.13
 2016,%,single mother child,female,50.00
 2017,%,single mother child,female,24.14
 2018,%,single mother child,female,15.38
 2019,%,single mother child,female,11.11
+2020,%,single mother child,female,25.00
 2015,%,left without parental care,,23.96
 2016,%,left without parental care,,16.00
 2017,%,left without parental care,,39.29
 2018,%,left without parental care,,45.83
 2019,%,left without parental care,,0.00
+2020,%,left without parental care,,30.30
 2015,%,left without parental care,male,20.00
 2016,%,left without parental care,male,10.81
 2017,%,left without parental care,male,29.63
 2018,%,left without parental care,male,45.45
 2019,%,left without parental care,male,0.00
+2020,%,left without parental care,male,17.65
 2015,%,left without parental care,female,28.26
 2016,%,left without parental care,female,21.05
 2017,%,left without parental care,female,48.28
 2018,%,left without parental care,female,46.15
 2019,%,left without parental care,female,0.00
+2020,%,left without parental care,female,43.75
 2015,%,other,,3.13
 2016,%,other,,5.33
 2017,%,other,,12.50
 2018,%,other,,10.42
 2019,%,other,,47.37
+2020,%,other,,12.12
 2015,%,other,male,2.00
 2016,%,other,male,5.41
 2017,%,other,male,11.10
 2018,%,other,male,4.55
 2019,%,other,male,60.00
+2020,%,other,male,23.53
 2015,%,other,female,4.35
 2016,%,other,female,5.26
 2017,%,other,female,13.79
 2018,%,other,female,15.38
 2019,%,other,female,33.33
+2020,%,other,female,0.00
