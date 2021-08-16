@@ -4,118 +4,142 @@ Year,Units,Sex,Category,Age,Value
 2017,%,,,,2.12
 2018,%,,,,2.20
 2019,%,,,,2.43
+2020,%,,,,2.58
 2015,%,male,,,2.31
 2016,%,male,,,2.42
 2017,%,male,,,2.36
 2018,%,male,,,2.44
 2019,%,male,,,2.66
+2020,%,male,,,2.79
 2015,%,female,,,1.93
 2016,%,female,,,2.02
 2017,%,female,,,1.90
 2018,%,female,,,1.98
 2019,%,female,,,2.21
+2020,%,female,,,2.39
 2015,%,,old age,,0.12
 2016,%,,old age,,0.13
 2017,%,,old age,,0.16
 2018,%,,old age,,0.19
 2019,%,,old age,,0.26
+2020,%,,old age,,0.33
 2015,%,male,old age,,0.04
 2016,%,male,old age,,0.06
 2017,%,male,old age,,0.07
 2018,%,male,old age,,0.09
 2019,%,male,old age,,0.13
+2020,%,male,old age,,0.16
 2015,%,female,old age,,0.18
 2016,%,female,old age,,0.20
 2017,%,female,old age,,0.23
 2018,%,female,old age,,0.28
 2019,%,female,old age,,0.38
+2020,%,female,old age,,0.48
 2015,%,,disability,,1.60
 2016,%,,disability,,1.68
 2017,%,,disability,,1.57
 2018,%,,disability,,1.61
 2019,%,,disability,,1.76
+2020,%,,disability,,1.84
 2015,%,male,disability,,1.94
 2016,%,male,disability,,2.02
 2017,%,male,disability,,1.95
 2018,%,male,disability,,2.00
 2019,%,male,disability,,2.17
+2020,%,male,disability,,2.26
 2015,%,female,disability,,1.29
 2016,%,female,disability,,1.36
 2017,%,female,disability,,1.23
 2018,%,female,disability,,1.26
 2019,%,female,disability,,1.39
+2020,%,female,disability,,1.46
 2015,%,,in case of losing a breadwinner,,0.39
 2016,%,,in case of losing a breadwinner,,0.40
 2017,%,,in case of losing a breadwinner,,0.39
 2018,%,,in case of losing a breadwinner,,0.40
 2019,%,,in case of losing a breadwinner,,0.41
+2020,%,,in case of losing a breadwinner,,0.41
 2015,%,male,in case of losing a breadwinner,,0.32
 2016,%,male,in case of losing a breadwinner,,0.34
 2017,%,male,in case of losing a breadwinner,,0.34
 2018,%,male,in case of losing a breadwinner,,0.35
 2019,%,male,in case of losing a breadwinner,,0.36
+2020,%,male,in case of losing a breadwinner,,0.37
 2015,%,female,in case of losing a breadwinner,,0.46
 2016,%,female,in case of losing a breadwinner,,0.45
 2017,%,female,in case of losing a breadwinner,,0.44
 2018,%,female,in case of losing a breadwinner,,0.44
 2019,%,female,in case of losing a breadwinner,,0.44
+2020,%,female,in case of losing a breadwinner,,0.45
 2015,%,,,up to 51 years old,2.39
 2016,%,,,up to 51 years old,2.46
 2017,%,,,up to 51 years old,2.34
 2018,%,,,up to 51 years old,2.35
 2019,%,,,up to 51 years old,2.48
+2020,%,,,up to 51 years old,2.51
 2015,%,male,,up to 51 years old,2.77
 2016,%,male,,up to 51 years old,2.87
 2017,%,male,,up to 51 years old,2.77
 2018,%,male,,up to 51 years old,2.79
 2019,%,male,,up to 51 years old,2.93
+2020,%,male,,up to 51 years old,2.96
 2015,%,female,,up to 51 years old,2.02
 2016,%,female,,up to 51 years old,2.06
 2017,%,female,,up to 51 years old,1.93
 2018,%,female,,up to 51 years old,1.93
 2019,%,female,,up to 51 years old,2.03
+2020,%,female,,up to 51 years old,2.06
 2015,%,,,aged 51 - 55 years,1.99
 2016,%,,,aged 51 - 55 years,2.36
 2017,%,,,aged 51 - 55 years,2.20
 2018,%,,,aged 51 - 55 years,2.47
 2019,%,,,aged 51 - 55 years,3.03
+2020,%,,,aged 51 - 55 years,3.50
 2015,%,male,,aged 51 - 55 years,1.80
 2016,%,male,,aged 51 - 55 years,2.27
 2017,%,male,,aged 51 - 55 years,2.37
 2018,%,male,,aged 51 - 55 years,2.84
 2019,%,male,,aged 51 - 55 years,3.62
+2020,%,male,,aged 51 - 55 years,4.23
 2015,%,female,,aged 51 - 55 years,2.15
 2016,%,female,,aged 51 - 55 years,2.44
 2017,%,female,,aged 51 - 55 years,2.06
 2018,%,female,,aged 51 - 55 years,2.18
 2019,%,female,,aged 51 - 55 years,2.57
+2020,%,female,,aged 51 - 55 years,2.93
 2015,%,,,aged 56 - 62 years,1.24
 2016,%,,,aged 56 - 62 years,1.37
 2017,%,,,aged 56 - 62 years,1.27
 2018,%,,,aged 56 - 62 years,1.48
 2019,%,,,aged 56 - 62 years,1.90
+2020,%,,,aged 56 - 62 years,2.26
 2015,%,male,,aged 56 - 62 years,0.87
 2016,%,male,,aged 56 - 62 years,0.98
 2017,%,male,,aged 56 - 62 years,1.02
 2018,%,male,,aged 56 - 62 years,1.26
 2019,%,male,,aged 56 - 62 years,1.73
+2020,%,male,,aged 56 - 62 years,2.18
 2015,%,female,,aged 56 - 62 years,1.55
 2016,%,female,,aged 56 - 62 years,1.69
 2017,%,female,,aged 56 - 62 years,1.46
 2018,%,female,,aged 56 - 62 years,1.65
 2019,%,female,,aged 56 - 62 years,2.03
+2020,%,female,,aged 56 - 62 years,2.32
 2015,%,,,aged 63 and older,1.24
 2016,%,,,aged 63 and older,1.39
 2017,%,,,aged 63 and older,1.54
 2018,%,,,aged 63 and older,1.81
 2019,%,,,aged 63 and older,2.30
+2020,%,,,aged 63 and older,2.78
 2015,%,male,,aged 63 and older,0.60
 2016,%,male,,aged 63 and older,0.72
 2017,%,male,,aged 63 and older,0.84
 2018,%,male,,aged 63 and older,1.05
 2019,%,male,,aged 63 and older,1.36
+2020,%,male,,aged 63 and older,1.67
 2015,%,female,,aged 63 and older,1.67
 2016,%,female,,aged 63 and older,1.84
 2017,%,female,,aged 63 and older,2.01
 2018,%,female,,aged 63 and older,2.31
 2019,%,female,,aged 63 and older,2.92
+2020,%,female,,aged 63 and older,3.51
