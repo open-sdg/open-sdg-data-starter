@@ -4,178 +4,214 @@ Year,Units,Sex,Age,Category,Value
 2017,%,,,,1.12
 2018,%,,,,1.14
 2019,%,,,,1.15
+2020,%,,,,1.11
 2015,%,male,,,1.33
 2016,%,male,,,1.39
 2017,%,male,,,1.42
 2018,%,male,,,1.46
 2019,%,male,,,1.48
+2020,%,male,,,1.40
 2015,%,female,,,0.74
 2016,%,female,,,0.76
 2017,%,female,,,0.77
 2018,%,female,,,0.78
 2019,%,female,,,0.77
+2020,%,female,,,0.78
 2015,%,,aged 0-4 years,,0.46
 2016,%,,aged 0-4 years,,0.52
 2017,%,,aged 0-4 years,,0.50
 2018,%,,aged 0-4 years,,0.52
 2019,%,,aged 0-4 years,,0.56
-2015,%,male,aged 0-4 years,,0.55
+2020,%,,aged 0-4 years,,0.58
+2015,%,,aged 0-4 years,,0.55
 2016,%,male,aged 0-4 years,,0.64
 2017,%,male,aged 0-4 years,,0.61
 2018,%,male,aged 0-4 years,,0.64
 2019,%,male,aged 0-4 years,,0.70
+2020,%,male,aged 0-4 years,,0.69
 2015,%,female,aged 0-4 years,,0.36
 2016,%,female,aged 0-4 years,,0.38
 2017,%,female,aged 0-4 years,,0.39
 2018,%,female,aged 0-4 years,,0.38
 2019,%,female,aged 0-4 years,,0.41
+2020,%,female,aged 0-4 years,,0.45
 2015,%,,aged 5-9 years,,1.04
 2016,%,,aged 5-9 years,,1.10
 2017,%,,aged 5-9 years,,1.14
 2018,%,,aged 5-9 years,,1.12
 2019,%,,aged 5-9 years,,1.15
+2020,%,,aged 5-9 years,,1.13
 2015,%,male,aged 5-9 years,,1.34
 2016,%,male,aged 5-9 years,,1.39
 2017,%,male,aged 5-9 years,,1.42
 2018,%,male,aged 5-9 years,,1.43
 2019,%,male,aged 5-9 years,,1.48
+2020,%,male,aged 5-9 years,,1.40
 2015,%,female,aged 5-9 years,,0.71
 2016,%,female,aged 5-9 years,,0.76
 2017,%,female,aged 5-9 years,,0.82
 2018,%,female,aged 5-9 years,,0.76
 2019,%,female,aged 5-9 years,,0.78
+2020,%,female,aged 5-9 years,,0.82
 2015,%,,aged 10-14 years,,1.47
 2016,%,,aged 10-14 years,,1.48
 2017,%,,aged 10-14 years,,1.48
 2018,%,,aged 10-14 years,,1.50
 2019,%,,aged 10-14 years,,1.39
+2020,%,,aged 10-14 years,,1.32
 2015,%,male,aged 10-14 years,,1.86
 2016,%,male,aged 10-14 years,,1.92
 2017,%,male,aged 10-14 years,,1.94
 2018,%,male,aged 10-14 years,,1.92
 2019,%,male,aged 10-14 years,,1.81
+2020,%,male,aged 10-14 years,,1.68
 2015,%,female,aged 10-14 years,,1.02
 2016,%,female,aged 10-14 years,,0.97
 2017,%,female,aged 10-14 years,,0.95
 2018,%,female,aged 10-14 years,,1.01
 2019,%,female,aged 10-14 years,,0.92
+2020,%,female,aged 10-14 years,,0.92
 2015,%,,aged 15 years,,1.78
 2016,%,,aged 15 years,,1.98
 2017,%,,aged 15 years,,2.02
 2018,%,,aged 15 years,,1.96
 2019,%,,aged 15 years,,2.04
+2020,%,,aged 15 years,,1.94
 2015,%,male,aged 15 years,,2.17
 2016,%,male,aged 15 years,,2.40
 2017,%,male,aged 15 years,,2.59
 2018,%,male,aged 15 years,,2.54
 2019,%,male,aged 15 years,,2.58
+2020,%,male,aged 15 years,,2.51
 2015,%,female,aged 15 years,,1.33
 2016,%,female,aged 15 years,,1.49
 2017,%,female,aged 15 years,,1.37
 2018,%,female,aged 15 years,,1.29
 2019,%,female,aged 15 years,,1.39
+2020,%,female,aged 15 years,,1.29
 2015,%,,aged 16-17 years,,1.45
 2016,%,,aged 16-17 years,,1.42
 2017,%,,aged 16-17 years,,1.53
 2018,%,,aged 16-17 years,,1.64
 2019,%,,aged 16-17 years,,1.60
+2020,%,,aged 16-17 years,,1.42
 2015,%,male,aged 16-17 years,,1.90
 2016,%,male,aged 16-17 years,,1.79
 2017,%,male,aged 16-17 years,,1.95
 2018,%,male,aged 16-17 years,,2.12
 2019,%,male,aged 16-17 years,,2.13
+2020,%,male,aged 16-17 years,,1.87
 2015,%,female,aged 16-17 years,,0.95
 2016,%,female,aged 16-17 years,,1.01
 2017,%,female,aged 16-17 years,,1.07
 2018,%,female,aged 16-17 years,,1.10
 2019,%,female,aged 16-17 years,,1.00
+2020,%,female,aged 16-17 years,,0.91
 2015,%,,,total to the total number of children with disabilities (aged 0-17 years),93.46
 2016,%,,,total to the total number of children with disabilities (aged 0-17 years),92.91
 2017,%,,,total to the total number of children with disabilities (aged 0-17 years),94.84
 2018,%,,,total to the total number of children with disabilities (aged 0-17 years),97.66
 2019,%,,,total to the total number of children with disabilities (aged 0-17 years),93.71
+2020,%,,,total to the total number of children with disabilities (aged 0-17 years),89.60
 2015,%,male,,total to the total number of children with disabilities (aged 0-17 years),91.33
 2016,%,male,,total to the total number of children with disabilities (aged 0-17 years),92.18
 2017,%,male,,total to the total number of children with disabilities (aged 0-17 years),93.78
 2018,%,male,,total to the total number of children with disabilities (aged 0-17 years),96.89
 2019,%,male,,total to the total number of children with disabilities (aged 0-17 years),93.59
+2020,%,male,,total to the total number of children with disabilities (aged 0-17 years),87.50
 2015,%,female,,total to the total number of children with disabilities (aged 0-17 years),98.19
 2016,%,female,,total to the total number of children with disabilities (aged 0-17 years),94.46
 2017,%,female,,total to the total number of children with disabilities (aged 0-17 years),97.15
 2018,%,female,,total to the total number of children with disabilities (aged 0-17 years),99.34
 2019,%,female,,total to the total number of children with disabilities (aged 0-17 years),93.98
+2020,%,female,,total to the total number of children with disabilities (aged 0-17 years),94.20
 2015,%,,aged 0-4 years,,12.46
 2016,%,,aged 0-4 years,,13.13
 2017,%,,aged 0-4 years,,12.55
 2018,%,,aged 0-4 years,,12.51
 2019,%,,aged 0-4 years,,12.49
+2020,%,,aged 0-4 years,,12.30
 2015,%,male,aged 0-4 years,,11.44
 2016,%,male,aged 0-4 years,,12.62
 2017,%,male,aged 0-4 years,,11.70
 2018,%,male,aged 0-4 years,,11.82
 2019,%,male,aged 0-4 years,,11.92
+2020,%,male,aged 0-4 years,,11.27
 2015,%,female,aged 0-4 years,,14.72
 2016,%,female,aged 0-4 years,,14.24
 2017,%,female,aged 0-4 years,,14.38
 2018,%,female,aged 0-4 years,,14.01
 2019,%,female,aged 0-4 years,,13.73
+2020,%,female,aged 0-4 years,,14.54
 2015,%,,aged 5-9 years,,27.06
 2016,%,,aged 5-9 years,,27.63
 2017,%,,aged 5-9 years,,28.81
 2018,%,,aged 5-9 years,,28.77
 2019,%,,aged 5-9 years,,28.03
+2020,%,,aged 5-9 years,,26.75
 2015,%,male,aged 5-9 years,,26.77
 2016,%,male,aged 5-9 years,,27.39
 2017,%,male,aged 5-9 years,,27.91
 2018,%,male,aged 5-9 years,,28.59
 2019,%,male,aged 5-9 years,,27.87
+2020,%,male,aged 5-9 years,,25.72
 2015,%,female,aged 5-9 years,,27.70
 2016,%,female,aged 5-9 years,,28.14
 2017,%,female,aged 5-9 years,,30.76
 2018,%,female,aged 5-9 years,,29.16
 2019,%,female,aged 5-9 years,,28.39
+2020,%,female,aged 5-9 years,,28.98
 2015,%,,aged 10-14 years,,32.87
 2016,%,,aged 10-14 years,,32.14
 2017,%,,aged 10-14 years,,32.94
 2018,%,,aged 10-14 years,,34.93
 2019,%,,aged 10-14 years,,32.12
+2020,%,,aged 10-14 years,,30.76
 2015,%,male,aged 10-14 years,,32.39
 2016,%,male,aged 10-14 years,,32.77
 2017,%,male,aged 10-14 years,,33.80
 2018,%,male,aged 10-14 years,,34.94
 2019,%,male,aged 10-14 years,,32.35
+2020,%,male,aged 10-14 years,,30.33
 2015,%,female,aged 10-14 years,,33.92
 2016,%,female,aged 10-14 years,,30.79
 2017,%,female,aged 10-14 years,,31.07
 2018,%,female,aged 10-14 years,,34.92
 2019,%,female,aged 10-14 years,,31.64
+2020,%,female,aged 10-14 years,,31.70
 2015,%,,aged 15 years,,7.86
 2016,%,,aged 15 years,,8.21
 2017,%,,aged 15 years,,8.14
 2018,%,,aged 15 years,,8.51
 2019,%,,aged 15 years,,8.51
+2020,%,,aged 15 years,,8.21
 2015,%,male,aged 15 years,,7.46
 2016,%,male,aged 15 years,,7.83
 2017,%,male,aged 15 years,,8.12
 2018,%,male,aged 15 years,,8.61
 2019,%,male,aged 15 years,,8.51
+2020,%,male,aged 15 years,,8.26
 2015,%,female,aged 15 years,,8.74
 2016,%,female,aged 15 years,,9.01
 2017,%,female,aged 15 years,,8.17
 2018,%,female,aged 15 years,,8.29
 2019,%,female,aged 15 years,,8.53
+2020,%,female,aged 15 years,,8.09
 2015,%,,aged 16-17 years,,13.22
 2016,%,,aged 16-17 years,,11.80
 2017,%,,aged 16-17 years,,12.40
 2018,%,,aged 16-17 years,,12.94
 2019,%,,aged 16-17 years,,12.56
+2020,%,,aged 16-17 years,,11.58
 2015,%,male,aged 16-17 years,,13.27
 2016,%,male,aged 16-17 years,,11.58
 2017,%,male,aged 16-17 years,,12.24
 2018,%,male,aged 16-17 years,,12.93
 2019,%,male,aged 16-17 years,,12.95
+2020,%,male,aged 16-17 years,,11.91
 2015,%,female,aged 16-17 years,,13.11
 2016,%,female,aged 16-17 years,,12.28
 2017,%,female,aged 16-17 years,,12.76
 2018,%,female,aged 16-17 years,,12.96
 2019,%,female,aged 16-17 years,,11.70
+2020,%,female,aged 16-17 years,,10.88
