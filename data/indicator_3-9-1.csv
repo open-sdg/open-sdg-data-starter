@@ -1,7 +1,91 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Sex,Category,Value
+2015,per 100000 population,Total,Lung cancer in adults (estimated above 25 years),19.1
+2015,per 100000 population,Female,Lung cancer in adults (estimated above 25 years),6.8
+2015,per 100000 population,Male,Lung cancer in adults (estimated above 25 years),32.7
+2015,per 100000 population,Total,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),86.4
+2015,per 100000 population,Female,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),80.1
+2015,per 100000 population,Male,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),93.2
+2015,per 100000 population,Total,Cerebrovascular (stroke) in adults (estimated above 25 years),10.2
+2015,per 100000 population,Female,Cerebrovascular (stroke) in adults (estimated above 25 years),11.3
+2015,per 100000 population,Male,Cerebrovascular (stroke) in adults (estimated above 25 years),9.0
+2015,per 100000 population,Total,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2015,per 100000 population,Female,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2015,per 100000 population,Male,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2015,per 100000 population,Total,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),15.6
+2015,per 100000 population,Female,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),14.9
+2015,per 100000 population,Male,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),16.3
+2016,per 100000 population,Total,Lung cancer in adults (estimated above 25 years),18.1
+2016,per 100000 population,Female,Lung cancer in adults (estimated above 25 years),5.9
+2016,per 100000 population,Male,Lung cancer in adults (estimated above 25 years),31.5
+2016,per 100000 population,Total,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),91.9
+2016,per 100000 population,Female,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),89.7
+2016,per 100000 population,Male,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),94.4
+2016,per 100000 population,Total,Cerebrovascular (stroke) in adults (estimated above 25 years),10.6
+2016,per 100000 population,Female,Cerebrovascular (stroke) in adults (estimated above 25 years),11.4
+2016,per 100000 population,Male,Cerebrovascular (stroke) in adults (estimated above 25 years),9.7
+2016,per 100000 population,Total,Acute  respiratory infections in young children  (estimated under 5 years of age),0.1
+2016,per 100000 population,Female,Acute  respiratory infections in young children  (estimated under 5 years of age),0.1
+2016,per 100000 population,Male,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2016,per 100000 population,Total,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),14.0
+2016,per 100000 population,Female,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),12.8
+2016,per 100000 population,Male,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),15.3
+2017,per 100000 population,Total,Lung cancer in adults (estimated above 25 years),17.5
+2017,per 100000 population,Female,Lung cancer in adults (estimated above 25 years),6.9
+2017,per 100000 population,Male,Lung cancer in adults (estimated above 25 years),29.1
+2017,per 100000 population,Total,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),84.5
+2017,per 100000 population,Female,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),79.0
+2017,per 100000 population,Male,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),90.5
+2017,per 100000 population,Total,Cerebrovascular (stroke) in adults (estimated above 25 years),9.2
+2017,per 100000 population,Female,Cerebrovascular (stroke) in adults (estimated above 25 years),9.8
+2017,per 100000 population,Male,Cerebrovascular (stroke) in adults (estimated above 25 years),8.6
+2017,per 100000 population,Total,Acute  respiratory infections in young children  (estimated under 5 years of age),0.1
+2017,per 100000 population,Female,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2017,per 100000 population,Male,Acute  respiratory infections in young children  (estimated under 5 years of age),0.1
+2017,per 100000 population,Total,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),7.9
+2017,per 100000 population,Female,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),6.5
+2017,per 100000 population,Male,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),9.4
+2018,per 100000 population,Total,Lung cancer in adults (estimated above 25 years),15.9
+2018,per 100000 population,Female,Lung cancer in adults (estimated above 25 years),5.8
+2018,per 100000 population,Male,Lung cancer in adults (estimated above 25 years),27.1
+2018,per 100000 population,Total,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),68.2
+2018,per 100000 population,Female,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),61.5
+2018,per 100000 population,Male,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),75.7
+2018,per 100000 population,Total,Cerebrovascular (stroke) in adults (estimated above 25 years),7.2
+2018,per 100000 population,Female,Cerebrovascular (stroke) in adults (estimated above 25 years),7.4
+2018,per 100000 population,Male,Cerebrovascular (stroke) in adults (estimated above 25 years),7.0
+2018,per 100000 population,Total,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2018,per 100000 population,Female,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2018,per 100000 population,Male,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2018,per 100000 population,Total,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),4.8
+2018,per 100000 population,Female,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),3.2
+2018,per 100000 population,Male,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),6.6
+2019,per 100000 population,Total,Lung cancer in adults (estimated above 25 years),18.7
+2019,per 100000 population,Female,Lung cancer in adults (estimated above 25 years),7.2
+2019,per 100000 population,Male,Lung cancer in adults (estimated above 25 years),31.6
+2019,per 100000 population,Total,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),68.7
+2019,per 100000 population,Female,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),61.5
+2019,per 100000 population,Male,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),76.8
+2019,per 100000 population,Total,Cerebrovascular (stroke) in adults (estimated above 25 years),2.1
+2019,per 100000 population,Female,Cerebrovascular (stroke) in adults (estimated above 25 years),1.8
+2019,per 100000 population,Male,Cerebrovascular (stroke) in adults (estimated above 25 years),2.5
+2019,per 100000 population,Total,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2019,per 100000 population,Female,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2019,per 100000 population,Male,Acute  respiratory infections in young children  (estimated under 5 years of age),0
+2019,per 100000 population,Total,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),4.3
+2019,per 100000 population,Female,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),3.0
+2019,per 100000 population,Male,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),5.7
+2020,per 100000 population,Total,Lung cancer in adults (estimated above 25 years),19.6
+2020,per 100000 population,Female,Lung cancer in adults (estimated above 25 years),8.6
+2020,per 100000 population,Male,Lung cancer in adults (estimated above 25 years),31.9
+2020,per 100000 population,Total,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),93.7
+2020,per 100000 population,Female,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),83.2
+2020,per 100000 population,Male,Ischaemic heart diseases (IHD) in adults (estimated above 25 years),105.3
+2020,per 100000 population,Total,Cerebrovascular (stroke) in adults (estimated above 25 years),2.3
+2020,per 100000 population,Female,Cerebrovascular (stroke) in adults (estimated above 25 years),2.0
+2020,per 100000 population,Male,Cerebrovascular (stroke) in adults (estimated above 25 years),2.6
+2020,per 100000 population,Total,Acute  respiratory infections in young children  (estimated under 5 years of age),0.2
+2020,per 100000 population,Female,Acute  respiratory infections in young children  (estimated under 5 years of age),0.1
+2020,per 100000 population,Male,Acute  respiratory infections in young children  (estimated under 5 years of age),0.2
+2020,per 100000 population,Total,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),5.4
+2020,per 100000 population,Female,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),3.9
+2020,per 100000 population,Male,Chronic obstructive pulmonary disease (COPD) in adults (estimated above 25 years),7.1
