@@ -77,7 +77,7 @@ jobs:
     steps:
       - checkout
       - add_ssh_keys:
-          finterprints:
+          fingerprints:
             - "27:49:c4:37:5a:0d:35:d0:e4:b7:45:dd:f4:25:42:df"
       - attach_workspace:
           at: /tmp/build
