@@ -25,7 +25,7 @@ print('Checking user permissions...')
 file_path = os.path.join('scripts', 'validate', 'github-user-list.yml')
 with open(file_path, 'r') as stream:
     try:
-        users = yaml.load(stream)
+        users = yaml.load(stream, Loader=yaml.FullLoader)
     except yaml.YAMLError as e:
         print(e)
         sys.exit(1)
