@@ -4,7 +4,7 @@ Year,Units,Category,Transportation type,Value
 2017,"1,000 people",passenger volume,,200498.2
 2018,"1,000 people",passenger volume,,186430.7
 2019,"1,000 people",passenger volume,,194616.1
-2020,"1,000 people",passenger volume,,69896.1
+2020,"1,000 people",passenger volume,,69899.7
 2015,"1,000 people",,railway transport,346.3
 2016,"1,000 people",,railway transport,352.0
 2017,"1,000 people",,railway transport,366.8
@@ -28,7 +28,7 @@ Year,Units,Category,Transportation type,Value
 2017,"1,000 people",,air transport,2553.8
 2018,"1,000 people",,air transport,2856.7
 2019,"1,000 people",,air transport,3595.6
-2020,"1,000 people",,air transport,883.7
+2020,"1,000 people",,air transport,887.3
 2015,"1,000 people",,electricity transport,21342.4
 2016,"1,000 people",,electricity transport,21190.2
 2017,"1,000 people",,electricity transport,21844.7
@@ -39,8 +39,8 @@ Year,Units,Category,Transportation type,Value
 2016,"1,000 tons",freight volumes,,20483.8
 2017,"1,000 tons",freight volumes,,28133.1
 2018,"1,000 tons",freight volumes,,29182.9
-2019,"1,000 tons",freight volumes,,14722.2
-2020,"1,000 tons",freight volumes,,14822.6
+2019,"1,000 tons",freight volumes,,14732.3
+2020,"1,000 tons",freight volumes,,14889.2
 2015,"1,000 tons",,railway transport,2531.7
 2016,"1,000 tons",,railway transport,2610.9
 2017,"1,000 tons",,railway transport,2640.0
@@ -51,8 +51,8 @@ Year,Units,Category,Transportation type,Value
 2016,"1,000 tons",,road transport,16248.8
 2017,"1,000 tons",,road transport,23683.9
 2018,"1,000 tons",,road transport,24519.0
-2019,"1,000 tons",,road transport,9651.6
-2020,"1,000 tons",,road transport,9734.7
+2019,"1,000 tons",,road transport,9661.7
+2020,"1,000 tons",,road transport,9801.3
 2015,"1,000 tons",,air transport,10.2
 2016,"1,000 tons",,air transport,18.3
 2017,"1,000 tons",,air transport,22.4
