@@ -4,56 +4,67 @@ Year,Units,Sex,Location,Age,Employment status,Type,Value
 2017,%,,,,,,0.9
 2018,%,,,,,,1.4
 2019,%,,,,,,1.1
+2020,%,,,,,,0.4
 2015,%,male,,,,,1.3
 2016,%,male,,,,,1.2
 2017,%,male,,,,,0.8
 2018,%,male,,,,,1.4
 2019,%,male,,,,,1.1
-2015,%,female,,,,,1.2
+2020,%,male,,,,,0
+2015,%,female,,,,,0.4
 2016,%,female,,,,,1.2
 2017,%,female,,,,,0.9
 2018,%,female,,,,,1.4
 2019,%,female,,,,,1.1
+2020,%,female,,,,,0.4
 2015,%,,urban,,,,1.4
 2016,%,,urban,,,,1.0
 2017,%,,urban,,,,0.5
 2018,%,,urban,,,,1.2
 2019,%,,urban,,,,0.8
+2020,%,,urban,,,,0.3
 2015,%,,rural,,,,1.0
 2016,%,,rural,,,,1.5
 2017,%,,rural,,,,1.3
 2018,%,,rural,,,,1.7
 2019,%,,rural,,,,1.6
+2020,%,,rural,,,,0.5
 2015,%,,,aged 0-17 years,,,1.9
 2016,%,,,aged 0-17 years,,,1.2
 2017,%,,,aged 0-17 years,,,1.1
 2018,%,,,aged 0-17 years,,,1.8
 2019,%,,,aged 0-17 years,,,1.7
+2020,%,,,aged 0-17 years,,,0.5
 2015,%,,,aged 18-66 years,,,1.1
 2016,%,,,aged 18-66 years,,,1.1
 2017,%,,,aged 18-66 years,,,0.8
 2018,%,,,aged 18-66 years,,,1.3
 2019,%,,,aged 18-66 years,,,1.0
+2020,%,,,aged 18-66 years,,,0.4
 2015,%,,,,economically active population,,0.6
 2016,%,,,,economically active population,,0.6
 2017,%,,,,economically active population,,0.5
 2018,%,,,,economically active population,,0.7
 2019,%,,,,economically active population,,0.6
+2020,%,,,,economically active population,,0.2
 2015,%,,,,employed,,0.5
 2016,%,,,,employed,,0.4
 2017,%,,,,employed,,0.3
 2018,%,,,,employed,,0.5
 2019,%,,,,employed,,0.5
+2020,%,,,,employed,,0.2
 2015,%,,,,wage employed,,0.4
 2016,%,,,,wage employed,,0.3
 2017,%,,,,wage employed,,0.1
 2018,%,,,,wage employed,,0.3
 2019,%,,,,wage employed,,0.3
+2020,%,,,,wage employed,,0.2
 2015,%,,,,self-employed,,1.0
 2016,%,,,,self-employed,,0.7
 2017,%,,,,self-employed,,0.6
 2018,%,,,,self-employed,,0.9
 2019,%,,,,self-employed,,0.7
+2020,%,,,,self-employed,,0.2
 2015,%,,,,other employed,,0.1
 2016,%,,,,other employed,,0.2
 2017,%,,,,other employed,,0.5
@@ -64,21 +75,25 @@ Year,Units,Sex,Location,Age,Employment status,Type,Value
 2017,%,,,,unemployment,,1.3
 2018,%,,,,unemployment,,2.1
 2019,%,,,,unemployment,,2.2
+2020,%,,,,unemployment,,0.5
 2015,%,,,,economically inactive  population,,1.2
 2016,%,,,,economically inactive  population,,0.8
 2017,%,,,,economically inactive  population,,0.5
 2018,%,,,,economically inactive  population,,0.8
 2019,%,,,,economically inactive  population,,0.7
+2020,%,,,,economically inactive population,,0.4
 2015,%,,,,pensioners,,1.1
 2016,%,,,,pensioners,,0.4
 2017,%,,,,pensioners,,0.5
 2018,%,,,,pensioners,,1.0
 2019,%,,,,pensioners,,0.3
+2020,%,,,,pensioners,,0.3
 2015,%,,,,students,,0.7
 2016,%,,,,students,,0.2
 2017,%,,,,students,,0.4
 2018,%,,,,students,,0.6
 2019,%,,,,students,,0.4
+2020,%,,,,students,,0.6
 2015,%,,,,other inactive population,,1.5
 2016,%,,,,other inactive population,,1.2
 2017,%,,,,other inactive population,,0.5
@@ -89,3 +104,4 @@ Year,Units,Sex,Location,Age,Employment status,Type,Value
 2017,%,,,,,disabled,0.7
 2018,%,,,,,disabled,1.7
 2019,%,,,,,disabled,1.2
+2020,%,,,,,disabled,0.8
