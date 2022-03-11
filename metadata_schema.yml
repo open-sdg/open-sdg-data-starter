@@ -522,26 +522,6 @@ prose:
             label: "Metadata last updated"
             translation_key: metadata_fields.national_metadata_update_url_text
             scope: national
-      ######### Data Info #########
-      - name: "reporting_status"
-        field:
-            element: select
-            label: "Reporting status"
-            translation_key: metadata_fields.reporting_status
-            options:
-              - name: 'complete'
-                value: 'complete'
-                translation_key: status.reported
-              - name: 'inprogress'
-                value: 'inprogress'
-                translation_key: status.statistics_in_progress
-              - name: 'notstarted'
-                value: 'notstarted'
-                translation_key: status.exploring_data_sources
-              - name: 'notapplicable'
-                value: 'notapplicable'
-                translation_key: status.not_applicable
-            scope: data
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
