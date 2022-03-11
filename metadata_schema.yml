@@ -997,4 +997,11 @@ prose:
             label: "Other information"
             translation_key: metadata_fields.source_other_info_1
             scope: source_6
+      ######### Other fields #########
+      - name: un_designated_tier
+        field:
+            element: text
+            label: UN designated tier
+            translation_key: metadata_fields.un_designated_tier
+            scope: global
   ignore: ['/scripts', '/.github']
