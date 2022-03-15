@@ -36,7 +36,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)"
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "4-3-1/data.csv",
@@ -60,7 +60,7 @@
           }
         ]
       },
-      "title": "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "8-3-1/data.csv",
@@ -84,7 +84,7 @@
           }
         ]
       },
-      "title": "Proporción de empleo informal con respecto al empleo total, desglosada por sector y sexo"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "13-1-1/data.csv",
@@ -108,7 +108,7 @@
           }
         ]
       },
-      "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "16-6-2/data.csv",
@@ -132,7 +132,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que se siente satisfecha con su última experiencia de los servicios públicos"
+      "title": "Proportion of population satisfied with their last experience of public services"
     },
     {
       "path": "7-1-2/data.csv",
@@ -156,7 +156,7 @@
           }
         ]
       },
-      "title": "Proporción de la población cuya fuente primaria de energía son los combustibles y tecnologías limpios"
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "10-a-1/data.csv",
@@ -180,7 +180,7 @@
           }
         ]
       },
-      "title": "Proporción de líneas arancelarias que se aplican a las importaciones de los países menos adelantados y los países en desarrollo con arancel cero"
+      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
     },
     {
       "path": "5-c-1/data.csv",
@@ -204,7 +204,7 @@
           }
         ]
       },
-      "title": "Proporción de países con sistemas para el seguimiento de la igualdad de género y el empoderamiento de las mujeres y la asignación de fondos públicos para ese fin"
+      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
     },
     {
       "path": "13-2-2/data.csv",
@@ -228,7 +228,7 @@
           }
         ]
       },
-      "title": "Emisiones totales de gases de efecto invernadero por año"
+      "title": "Total greenhouse gas emissions per year"
     },
     {
       "path": "4-2-1/data.csv",
@@ -252,7 +252,7 @@
           }
         ]
       },
-      "title": "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo"
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi"
     },
     {
       "path": "17-5-1/data.csv",
@@ -276,7 +276,7 @@
           }
         ]
       },
-      "title": "Número de países que adoptan y aplican sistemas de promoción de las inversiones en favor de los países en desarrollo, entre ellos los países menos adelantados"
+      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
     },
     {
       "path": "17-18-3/data.csv",
@@ -300,7 +300,7 @@
           }
         ]
       },
-      "title": "Número de países que cuentan con un plan estadístico nacional plenamente financiado y en proceso de aplicación, desglosado por fuente de financiación"
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "16-6-1/data.csv",
@@ -324,7 +324,7 @@
           }
         ]
       },
-      "title": "Gastos primarios del gobierno en proporción al presupuesto aprobado originalmente, desglosados por sector (o por códigos presupuestarios o elementos similares)"
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "3-7-1/data.csv",
@@ -348,7 +348,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "3-8-1/data.csv",
@@ -372,7 +372,7 @@
           }
         ]
       },
-      "title": "Cobertura de los servicios de salud esenciales"
+      "title": "Coverage of essential health services"
     },
     {
       "path": "17-11-1/data.csv",
@@ -396,7 +396,7 @@
           }
         ]
       },
-      "title": "Participación de los países en desarrollo y los países menos adelantados en las exportaciones mundiales"
+      "title": "Developing countries’ and least developed countries’ share of global exports"
     },
     {
       "path": "2-5-2/data.csv",
@@ -420,7 +420,7 @@
           }
         ]
       },
-      "title": "Proporción de razas y variedades locales consideradas en riesgo de extinción"
+      "title": "Proportion of local breeds classified as being at risk of extinction"
     },
     {
       "path": "5-3-2/data.csv",
@@ -444,7 +444,7 @@
           }
         ]
       },
-      "title": "Proporción de niñas y mujeres de entre 15 y 49 años que han sufrido mutilación o ablación genital femenina, desglosada por edad"
+      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
       "path": "16-8-1/data.csv",
@@ -468,7 +468,7 @@
           }
         ]
       },
-      "title": "Proporción de miembros y derechos de voto de los países en desarrollo en organizaciones internacionales"
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "15-7-1/data.csv",
@@ -492,7 +492,7 @@
           }
         ]
       },
-      "title": "Proporción de especímenes de flora y fauna silvestre comercializados procedentes de la caza furtiva o el tráfico ilícito"
+      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
       "path": "6-b-1/data.csv",
@@ -516,7 +516,7 @@
           }
         ]
       },
-      "title": "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento"
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
       "path": "5-6-2/data.csv",
@@ -540,7 +540,7 @@
           }
         ]
       },
-      "title": "Número de países con leyes y reglamentos que garantizan a los hombres y las mujeres a partir de los 15 años de edad un acceso pleno e igualitario a los servicios de salud sexual y reproductiva y a la información y educación al respecto"
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
       "path": "16-1-2/data.csv",
@@ -564,7 +564,7 @@
           }
         ]
       },
-      "title": "Muertes relacionadas con conflictos por cada 100.000 habitantes, desglosadas por sexo, edad y causa"
+      "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
     },
     {
       "path": "11-7-1/data.csv",
@@ -588,7 +588,7 @@
           }
         ]
       },
-      "title": "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos, desglosada por sexo, edad y personas con discapacidad"
+      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
     },
     {
       "path": "2-2-1/data.csv",
@@ -612,7 +612,7 @@
           }
         ]
       },
-      "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "1-5-3/data.csv",
@@ -636,7 +636,7 @@
           }
         ]
       },
-      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "14-c-1/data.csv",
@@ -660,7 +660,7 @@
           }
         ]
       },
-      "title": "Número de países que, mediante marcos jurídicos, normativos e institucionales, avanzan en la ratificación, la aceptación y la implementación de los instrumentos relacionados con los océanos que aplican el derecho internacional reflejado en la Convención de las Naciones Unidas sobre el Derecho del Mar para la conservación y el uso sostenible de los océanos y sus recursos"
+      "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
     },
     {
       "path": "16-3-3/data.csv",
@@ -708,7 +708,7 @@
           }
         ]
       },
-      "title": "Número de países que elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
+      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
     },
     {
       "path": "16-7-1/data.csv",
@@ -732,7 +732,7 @@
           }
         ]
       },
-      "title": "Proporciones de plazas en las instituciones nacionales y locales, entre ellas: a) las asambleas legislativas, b) la administración pública y c) el poder judicial, en comparación con la distribución nacional, desglosadas por sexo, edad, personas con discapacidad y grupos de población"
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "15-3-1/data.csv",
@@ -756,7 +756,7 @@
           }
         ]
       },
-      "title": "Proporción de tierras degradadas en comparación con la superficie total"
+      "title": "Proportion of land that is degraded over total land area"
     },
     {
       "path": "5-5-1/data.csv",
@@ -780,7 +780,7 @@
           }
         ]
       },
-      "title": "Proporción de escaños ocupados por mujeres en a) los parlamentos nacionales y b) los gobiernos locales"
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
       "path": "8-5-2/data.csv",
@@ -804,7 +804,7 @@
           }
         ]
       },
-      "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
       "path": "6-3-1/data.csv",
@@ -828,7 +828,7 @@
           }
         ]
       },
-      "title": "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada"
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "15-2-1/data.csv",
@@ -852,7 +852,7 @@
           }
         ]
       },
-      "title": "Avances hacia la gestión forestal sostenible"
+      "title": "Progress towards sustainable forest management"
     },
     {
       "path": "14-b-1/data.csv",
@@ -876,7 +876,7 @@
           }
         ]
       },
-      "title": "Grado de aplicación de un marco jurídico, reglamentario, normativo o institucional que reconozca y proteja los derechos de acceso para la pesca en pequeña escala"
+      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
     },
     {
       "path": "17-9-1/data.csv",
@@ -900,7 +900,7 @@
           }
         ]
       },
-      "title": "Valor en dólares de la asistencia financiera y técnica (incluso mediante la cooperación Norte-Sur, Sur‐Sur y triangular) prometida a los países en desarrollo"
+      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
     },
     {
       "path": "10-b-1/data.csv",
@@ -924,7 +924,7 @@
           }
         ]
       },
-      "title": "Corrientes totales de recursos para el desarrollo, desglosadas por país receptor y país donante y por tipo de corriente (por ejemplo, asistencia oficial para el desarrollo, inversión extranjera directa y otras corrientes)"
+      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "6-2-1/data.csv",
@@ -948,7 +948,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "6-5-2/data.csv",
@@ -972,7 +972,7 @@
           }
         ]
       },
-      "title": "Proporción de la superficie de cuencas transfronterizas sujetas a arreglos operacionales para la cooperación en materia de aguas"
+      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
     },
     {
       "path": "3-b-3/data.csv",
@@ -996,7 +996,7 @@
           }
         ]
       },
-      "title": "Proporción de centros de salud que disponen de un conjunto básico de medicamentos esenciales asequibles de manera sostenible"
+      "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis"
     },
     {
       "path": "3-1-2/data.csv",
@@ -1020,7 +1020,7 @@
           }
         ]
       },
-      "title": "Proporción de partos atendidos por personal sanitario especializado"
+      "title": "Proportion of births attended by skilled health personnel"
     },
     {
       "path": "2-a-2/data.csv",
@@ -1044,7 +1044,7 @@
           }
         ]
       },
-      "title": "Total de corrientes oficiales de recursos (asistencia oficial para el desarrollo más otras corrientes oficiales) destinado al sector agrícola"
+      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
     },
     {
       "path": "4-a-1/data.csv",
@@ -1068,7 +1068,7 @@
           }
         ]
       },
-      "title": "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
+      "title": "Proportion of schools offering basic services, by type of service"
     },
     {
       "path": "1-a-1/data.csv",
@@ -1092,7 +1092,7 @@
           }
         ]
       },
-      "title": "Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor"
+      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "7-3-1/data.csv",
@@ -1116,7 +1116,7 @@
           }
         ]
       },
-      "title": "Intensidad energética medida en función de la energía primaria y el PIB"
+      "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
       "path": "16-7-2/data.csv",
@@ -1140,7 +1140,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que considera que la adopción de decisiones es inclusiva y responde a sus necesidades, desglosada por sexo, edad, discapacidad y grupo de población"
+      "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
     },
     {
       "path": "4-b-1/data.csv",
@@ -1164,7 +1164,7 @@
           }
         ]
       },
-      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
+      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
     },
     {
       "path": "14-1-1/data.csv",
@@ -1188,7 +1188,7 @@
           }
         ]
       },
-      "title": "a) Índice de eutrofización costera; y b) densidad de detritos plásticos"
+      "title": "Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "6-a-1/data.csv",
@@ -1212,7 +1212,7 @@
           }
         ]
       },
-      "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno"
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1236,7 +1236,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad"
+      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "3-3-2/data.csv",
@@ -1260,7 +1260,7 @@
           }
         ]
       },
-      "title": "Incidencia de la tuberculosis por cada 100.000 habitantes"
+      "title": "Tuberculosis incidence per 100,000 population"
     },
     {
       "path": "2-4-1/data.csv",
@@ -1284,7 +1284,7 @@
           }
         ]
       },
-      "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1308,7 +1308,7 @@
           }
         ]
       },
-      "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables"
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
       "path": "13-a-1/data.csv",
@@ -1332,7 +1332,7 @@
           }
         ]
       },
-      "title": "Cantidades proporcionadas y movilizadas en dólares de los Estados Unidos al año en relación con el objetivo actual mantenido de movilización colectiva de 100.000 millones de dólares de aquí a 2025"
+      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
     },
     {
       "path": "17-4-1/data.csv",
@@ -1356,7 +1356,7 @@
           }
         ]
       },
-      "title": "Servicio de la deuda en proporción a las exportaciones de bienes y servicios"
+      "title": "Debt service as a proportion of exports of goods and services"
     },
     {
       "path": "14-2-1/data.csv",
@@ -1380,7 +1380,7 @@
           }
         ]
       },
-      "title": "Número de países que aplican enfoques basados en los ecosistemas para gestionar las zonas marinas"
+      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
       "path": "3-9-3/data.csv",
@@ -1404,7 +1404,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad atribuida a intoxicaciones involuntarias"
+      "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
       "path": "3-2-1/data.csv",
@@ -1428,7 +1428,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad de niños menores de 5 años"
+      "title": "Under‑5 mortality rate"
     },
     {
       "path": "12-a-1/data.csv",
@@ -1452,7 +1452,7 @@
           }
         ]
       },
-      "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "17-15-1/data.csv",
@@ -1476,7 +1476,7 @@
           }
         ]
       },
-      "title": "Grado de utilización de los marcos de resultados y las herramientas de planificación de los propios países por los proveedores de cooperación para el desarrollo"
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
     },
     {
       "path": "17-17-1/data.csv",
@@ -1500,7 +1500,7 @@
           }
         ]
       },
-      "title": "Suma en dólares de los Estados Unidos prometida a las alianzas público-privadas centradas en la infraestructura"
+      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
       "path": "8-2-1/data.csv",
@@ -1524,7 +1524,7 @@
           }
         ]
       },
-      "title": "Tasa de crecimiento anual del PIB real por persona empleada"
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "10-7-1/data.csv",
@@ -1548,7 +1548,7 @@
           }
         ]
       },
-      "title": "Costo de la contratación sufragado por el empleado en proporción a los ingresos mensuales percibidos en el país de destino"
+      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
     },
     {
       "path": "16-b-1/data.csv",
@@ -1572,7 +1572,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "2-c-1/data.csv",
@@ -1596,7 +1596,7 @@
           }
         ]
       },
-      "title": "Indicador de anomalías en los precios de los alimentos"
+      "title": "Indicator of food price anomalies"
     },
     {
       "path": "1-4-1/data.csv",
@@ -1620,7 +1620,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que vive en hogares con acceso a los servicios básicos"
+      "title": "Proportion of population living in households with access to basic services"
     },
     {
       "path": "5-6-1/data.csv",
@@ -1644,7 +1644,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva"
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "16-1-4/data.csv",
@@ -1668,7 +1668,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que se siente segura al caminar sola en su zona de residencia"
+      "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
       "path": "11-4-1/data.csv",
@@ -1692,7 +1692,7 @@
           }
         ]
       },
-      "title": "Total de gastos per cápita destinados a la preservación, protección y conservación de todo el patrimonio cultural y natural, desglosado por fuente de financiación (pública y privada), tipo de patrimonio (cultural y natural) y nivel de gobierno (nacional, regional y local/municipal)"
+      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
     },
     {
       "path": "16-4-2/data.csv",
@@ -1716,7 +1716,7 @@
           }
         ]
       },
-      "title": "Proporción de armas incautadas, encontradas o entregadas cuyo origen o contexto ilícitos han sido determinados o establecidos por una autoridad competente, de conformidad con los instrumentos internacionales"
+      "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
     },
     {
       "path": "4-7-1/data.csv",
@@ -1740,7 +1740,7 @@
           }
         ]
       },
-      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "9-3-1/data.csv",
@@ -1764,7 +1764,7 @@
           }
         ]
       },
-      "title": "Proporción del valor añadido total del sector industrial correspondiente a las pequeñas industrias"
+      "title": "Proportion of small-scale industries in total industry value added"
     },
     {
       "path": "9-4-1/data.csv",
@@ -1788,7 +1788,7 @@
           }
         ]
       },
-      "title": "Emisiones de CO2 por unidad de valor añadido"
+      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "3-3-5/data.csv",
@@ -1812,7 +1812,7 @@
           }
         ]
       },
-      "title": "Número de personas que requieren intervenciones contra enfermedades tropicales desatendidas"
+      "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
       "path": "11-a-1/data.csv",
@@ -1836,7 +1836,7 @@
           }
         ]
       },
-      "title": "Número de países que cuentan con políticas urbanas nacionales o planes de desarrollo regionales que a) responden a la dinámica de la población, b) garantizan un desarrollo territorial equilibrado y c) aumentan el margen fiscal local"
+      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
     },
     {
       "path": "9-b-1/data.csv",
@@ -1860,7 +1860,7 @@
           }
         ]
       },
-      "title": "Proporción del valor añadido por la industria de tecnología mediana y alta en el valor añadido total"
+      "title": "Proportion of medium and high-tech industry value added in total value added"
     },
     {
       "path": "14-7-1/data.csv",
@@ -1884,7 +1884,7 @@
           }
         ]
       },
-      "title": "Proporción del PIB correspondiente a la pesca sostenible en los pequeños Estados insulares en desarrollo, en los países menos adelantados y en todos los países"
+      "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
     },
     {
       "path": "9-5-1/data.csv",
@@ -1908,7 +1908,7 @@
           }
         ]
       },
-      "title": "Gastos en investigación y desarrollo en proporción al PIB"
+      "title": "Research and development expenditure as a proportion of GDP"
     },
     {
       "path": "17-3-2/data.csv",
@@ -1932,7 +1932,7 @@
           }
         ]
       },
-      "title": "Volumen de remesas (en dólares de los Estados Unidos) en proporción al PIB total"
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
       "path": "2-1-2/data.csv",
@@ -1956,7 +1956,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria"
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1980,7 +1980,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia física, sexual o psicológica a manos de su actual o anterior pareja en los últimos 12 meses, desglosada por forma de violencia y edad"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "1-4-2/data.csv",
@@ -2004,7 +2004,7 @@
           }
         ]
       },
-      "title": "Proporción del total de la población adulta con derechos seguros de tenencia de la tierra: a) que posee documentación reconocida legalmente al respecto y b) considera seguros sus derechos, desglosada por sexo y tipo de tenencia"
+      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
     },
     {
       "path": "6-1-1/data.csv",
@@ -2028,7 +2028,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
+      "title": "Proportion of population using safely managed drinking water services"
     },
     {
       "path": "17-19-1/data.csv",
@@ -2052,7 +2052,7 @@
           }
         ]
       },
-      "title": "Valor en dólares de todos los recursos proporcionados para fortalecer la capacidad estadística de los países en desarrollo"
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
     },
     {
       "path": "2-2-3/data.csv",
@@ -2076,7 +2076,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada por embarazo (porcentaje)"
+      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
     },
     {
       "path": "8-b-1/data.csv",
@@ -2100,7 +2100,7 @@
           }
         ]
       },
-      "title": "Existencia de una estrategia nacional organizada y en marcha para el empleo de los jóvenes, como estrategia independiente o como parte de una estrategia nacional de empleo"
+      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
       "path": "17-18-2/data.csv",
@@ -2124,7 +2124,7 @@
           }
         ]
       },
-      "title": "Número de países cuya legislación nacional sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
+      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
     },
     {
       "path": "8-4-2/data.csv",
@@ -2148,7 +2148,7 @@
           }
         ]
       },
-      "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "15-6-1/data.csv",
@@ -2172,7 +2172,7 @@
           }
         ]
       },
-      "title": "Número de países que han adoptado marcos legislativos, administrativos y normativos para asegurar una distribución justa y equitativa de los beneficios"
+      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
     },
     {
       "path": "16-5-2/data.csv",
@@ -2196,7 +2196,7 @@
           }
         ]
       },
-      "title": "Proporción de negocios que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a los que un funcionario público les ha pedido un soborno, durante los últimos 12 meses"
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "8-9-1/data.csv",
@@ -2220,7 +2220,7 @@
           }
         ]
       },
-      "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "8-8-2/data.csv",
@@ -2244,7 +2244,7 @@
           }
         ]
       },
-      "title": "Nivel de cumplimiento nacional de los derechos laborales (libertad de asociación y negociación colectiva) con arreglo a las fuentes textuales de la Organización Internacional del Trabajo (OIT) y la legislación interna, desglosado por sexo y estatus migratorio"
+      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
     },
     {
       "path": "7-a-1/data.csv",
@@ -2268,7 +2268,7 @@
           }
         ]
       },
-      "title": "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "3-8-2/data.csv",
@@ -2292,7 +2292,7 @@
           }
         ]
       },
-      "title": "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gastos o ingresos de los hogares"
+      "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
     },
     {
       "path": "6-6-1/data.csv",
@@ -2316,7 +2316,7 @@
           }
         ]
       },
-      "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo"
+      "title": "Change in the extent of water-related ecosystems over time"
     },
     {
       "path": "10-4-2/data.csv",
@@ -2340,7 +2340,7 @@
           }
         ]
       },
-      "title": "Efecto redistributivo de la política fiscal"
+      "title": "Redistributive impact of fiscal policy"
     },
     {
       "path": "14-6-1/data.csv",
@@ -2364,7 +2364,7 @@
           }
         ]
       },
-      "title": "Grado de aplicación de instrumentos internacionales cuyo objetivo es combatir la pesca ilegal, no declarada y no reglamentada"
+      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
     },
     {
       "path": "8-10-1/data.csv",
@@ -2388,7 +2388,7 @@
           }
         ]
       },
-      "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos"
+      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
       "path": "1-5-4/data.csv",
@@ -2412,7 +2412,7 @@
           }
         ]
       },
-      "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "13-2-1/data.csv",
@@ -2436,7 +2436,7 @@
           }
         ]
       },
-      "title": "Número de países con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes y estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales"
+      "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
       "path": "3-1-1/data.csv",
@@ -2460,7 +2460,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad materna"
+      "title": "Maternal mortality ratio"
     },
     {
       "path": "11-1-1/data.csv",
@@ -2484,7 +2484,7 @@
           }
         ]
       },
-      "title": "Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas"
+      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
     },
     {
       "path": "17-7-1/data.csv",
@@ -2508,7 +2508,7 @@
           }
         ]
       },
-      "title": "Total de los fondos destinados a los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
+      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "16-2-3/data.csv",
@@ -2532,7 +2532,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres y hombres jóvenes de entre 18 y 29 años que sufrieron violencia sexual antes de cumplir los 18 años"
+      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
       "path": "3-2-2/data.csv",
@@ -2556,7 +2556,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad neonatal"
+      "title": "Neonatal mortality rate"
     },
     {
       "path": "10-7-3/data.csv",
@@ -2580,7 +2580,7 @@
           }
         ]
       },
-      "title": "Número de personas que murieron o desaparecieron en el proceso de migración hacia un destino internacional"
+      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
     },
     {
       "path": "6-4-1/data.csv",
@@ -2604,7 +2604,7 @@
           }
         ]
       },
-      "title": "Cambio en el uso eficiente de los recursos hídricos con el paso del tiempo"
+      "title": "Change in water-use efficiency over time"
     },
     {
       "path": "16-a-1/data.csv",
@@ -2628,7 +2628,7 @@
           }
         ]
       },
-      "title": "Existencia de instituciones nacionales independientes de derechos humanos, en cumplimiento de los Principios de París"
+      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
     },
     {
       "path": "8-1-1/data.csv",
@@ -2652,7 +2652,7 @@
           }
         ]
       },
-      "title": "Tasa de crecimiento anual del PIB real per cápita"
+      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "13-b-1/data.csv",
@@ -2676,7 +2676,7 @@
           }
         ]
       },
-      "title": "Número de países menos adelantados y pequeños Estados insulares en desarrollo con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes, estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales"
+      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
       "path": "15-1-1/data.csv",
@@ -2700,7 +2700,7 @@
           }
         ]
       },
-      "title": "Superficie forestal en proporción a la superficie total"
+      "title": "Forest area as a proportion of total land area"
     },
     {
       "path": "17-3-1/data.csv",
@@ -2724,7 +2724,7 @@
           }
         ]
       },
-      "title": "Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación Sur-Sur como proporción del ingreso nacional bruto"
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "11-5-2/data.csv",
@@ -2748,7 +2748,7 @@
           }
         ]
       },
-      "title": "Pérdidas económicas directas en relación con el PIB mundial, daños en la infraestructura esencial y número de interrupciones de los servicios básicos atribuidos a desastres"
+      "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
     },
     {
       "path": "9-2-1/data.csv",
@@ -2772,7 +2772,7 @@
           }
         ]
       },
-      "title": "Valor añadido del sector manufacturo en proporción al PIB y per cápita"
+      "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
       "path": "15-4-1/data.csv",
@@ -2796,7 +2796,7 @@
           }
         ]
       },
-      "title": "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
+      "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
       "path": "10-7-4/data.csv",
@@ -2820,7 +2820,7 @@
           }
         ]
       },
-      "title": "Proporción de la población integrada por refugiados, desglosada por país de origen"
+      "title": "Proportion of the population who are refugees, by country of origin"
     },
     {
       "path": "5-5-2/data.csv",
@@ -2844,7 +2844,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres en cargos directivos"
+      "title": "Proportion of women in managerial positions"
     },
     {
       "path": "15-9-1/data.csv",
@@ -2868,7 +2868,7 @@
           }
         ]
       },
-      "title": "a) Número de países que han establecido metas nacionales de conformidad con la segunda Meta de Aichi del Plan Estratégico para la Diversidad Biológica 2011-2020 o metas similares en sus estrategias y planes de acción nacionales en materia de diversidad biológica y han informado de sus progresos en el logro de estas metas; y b) integración de la biodiversidad en los sistemas nacionales de contabilidad y presentación de informes, definidos como implementación del Sistema de Contabilidad Ambiental y Económica"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r"
     },
     {
       "path": "14-5-1/data.csv",
@@ -2892,7 +2892,7 @@
           }
         ]
       },
-      "title": "Cobertura de las zonas protegidas en relación con las zonas marinas"
+      "title": "Coverage of protected areas in relation to marine areas"
     },
     {
       "path": "3-4-2/data.csv",
@@ -2916,7 +2916,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad por suicidio"
+      "title": "Suicide mortality rate"
     },
     {
       "path": "8-4-1/data.csv",
@@ -2940,7 +2940,7 @@
           }
         ]
       },
-      "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB"
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
       "path": "11-2-1/data.csv",
@@ -2964,7 +2964,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que tiene fácil acceso al transporte público, desglosada por sexo, edad y personas con discapacidad"
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
     },
     {
       "path": "12-3-1/data.csv",
@@ -2988,7 +2988,7 @@
           }
         ]
       },
-      "title": "a) Índice de pérdidas de alimentos y b) índice de desperdicio de alimentos"
+      "title": "(a) Food loss index and (b) food waste index"
     },
     {
       "path": "3-d-1/data.csv",
@@ -3012,7 +3012,7 @@
           }
         ]
       },
-      "title": "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud"
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
     },
     {
       "path": "10-4-1/data.csv",
@@ -3036,7 +3036,7 @@
           }
         ]
       },
-      "title": "Proporción del PIB generada por el trabajo"
+      "title": "Labour share of GDP"
     },
     {
       "path": "10-6-1/data.csv",
@@ -3060,7 +3060,7 @@
           }
         ]
       },
-      "title": "Proporción de miembros y derechos de voto de los países en desarrollo en organizaciones internacionales"
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "16-2-1/data.csv",
@@ -3084,7 +3084,7 @@
           }
         ]
       },
-      "title": "Proporción de niños de entre 1 y 17 años que han sufrido algún castigo físico o agresión psicológica a manos de sus cuidadores en el último mes"
+      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
       "path": "3-d-2/data.csv",
@@ -3108,7 +3108,7 @@
           }
         ]
       },
-      "title": "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos seleccionados"
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
     },
     {
       "path": "17-14-1/data.csv",
@@ -3132,7 +3132,7 @@
           }
         ]
       },
-      "title": "Número de países que cuentan con mecanismos para mejorar la coherencia de las políticas de desarrollo sostenible"
+      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
     },
     {
       "path": "4-6-1/data.csv",
@@ -3156,7 +3156,7 @@
           }
         ]
       },
-      "title": "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo"
+      "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
     },
     {
       "path": "12-7-1/data.csv",
@@ -3180,7 +3180,7 @@
           }
         ]
       },
-      "title": "Grado de aplicación de políticas y planes de acción sostenibles en materia de adquisiciones públicas"
+      "title": "Degree of sustainable public procurement policies and action plan implementation"
     },
     {
       "path": "8-a-1/data.csv",
@@ -3204,7 +3204,7 @@
           }
         ]
       },
-      "title": "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio"
+      "title": "Aid for Trade commitments and disbursements"
     },
     {
       "path": "3-6-1/data.csv",
@@ -3228,7 +3228,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
+      "title": "Death rate due to road traffic injuries"
     },
     {
       "path": "16-5-1/data.csv",
@@ -3252,7 +3252,7 @@
           }
         ]
       },
-      "title": "Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses"
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "11-7-2/data.csv",
@@ -3276,7 +3276,7 @@
           }
         ]
       },
-      "title": "Proporción de personas que han sido víctimas de acoso físico o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
+      "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
     },
     {
       "path": "17-13-1/data.csv",
@@ -3300,7 +3300,7 @@
           }
         ]
       },
-      "title": "Tablero macroeconómico"
+      "title": "Macroeconomic Dashboard"
     },
     {
       "path": "16-4-1/data.csv",
@@ -3324,7 +3324,7 @@
           }
         ]
       },
-      "title": "Valor total de las corrientes financieras ilícitas entrantes y salientes (en dólares corrientes de los Estados Unidos)"
+      "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
     },
     {
       "path": "11-6-2/data.csv",
@@ -3348,7 +3348,7 @@
           }
         ]
       },
-      "title": "Niveles medios anuales de partículas finas en suspensión (por ejemplo, PM2.5 y PM10) en las ciudades (ponderados según la población)"
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "11-5-1/data.csv",
@@ -3372,7 +3372,7 @@
           }
         ]
       },
-      "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "17-6-1/data.csv",
@@ -3396,7 +3396,7 @@
           }
         ]
       },
-      "title": "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
+      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "1-2-2/data.csv",
@@ -3420,7 +3420,7 @@
           }
         ]
       },
-      "title": "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "9-a-1/data.csv",
@@ -3444,7 +3444,7 @@
           }
         ]
       },
-      "title": "Total de apoyo internacional oficial (asistencia oficial para el desarrollo más otras corrientes oficiales de recursos) destinado a la infraestructura"
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "3-7-2/data.csv",
@@ -3468,7 +3468,7 @@
           }
         ]
       },
-      "title": "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años) por cada 1.000 mujeres de ese grupo de edad"
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
       "path": "7-b-1/data.csv",
@@ -3492,7 +3492,7 @@
           }
         ]
       },
-      "title": "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "17-1-2/data.csv",
@@ -3516,7 +3516,7 @@
           }
         ]
       },
-      "title": "Proporción del presupuesto nacional financiado por impuestos internos"
+      "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
       "path": "15-a-1/data.csv",
@@ -3540,7 +3540,7 @@
           }
         ]
       },
-      "title": "a) Asistencia oficial para el desarrollo destinada concretamente a la conservación y el uso sostenible de la biodiversidad y b) ingresos generados y financiación movilizada mediante instrumentos económicos pertinentes para la biodiversidad"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "11-3-1/data.csv",
@@ -3564,7 +3564,7 @@
           }
         ]
       },
-      "title": "Relación entre la tasa de consumo de tierras y la tasa de crecimiento de la población"
+      "title": "Ratio of land consumption rate to population growth rate"
     },
     {
       "path": "4-1-1/data.csv",
@@ -3588,7 +3588,7 @@
           }
         ]
       },
-      "title": "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
       "path": "17-16-1/data.csv",
@@ -3612,7 +3612,7 @@
           }
         ]
       },
-      "title": "Número de países que informan de sus progresos en los marcos de múltiples interesados para el seguimiento de la eficacia de las actividades de desarrollo que apoyan el logro de los Objetivos de Desarrollo Sostenible"
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "14-4-1/data.csv",
@@ -3636,7 +3636,7 @@
           }
         ]
       },
-      "title": "Proporción de poblaciones de peces cuyos niveles son biológicamente sostenibles"
+      "title": "Proportion of fish stocks within biologically sustainable levels"
     },
     {
       "path": "9-5-2/data.csv",
@@ -3660,7 +3660,7 @@
           }
         ]
       },
-      "title": "Número de investigadores (en equivalente a tiempo completo) por cada millón de habitantes"
+      "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
       "path": "14-3-1/data.csv",
@@ -3684,7 +3684,7 @@
           }
         ]
       },
-      "title": "Acidez media del mar (pH) medida en un conjunto convenido de estaciones de muestreo representativas"
+      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
     },
     {
       "path": "10-c-1/data.csv",
@@ -3708,7 +3708,7 @@
           }
         ]
       },
-      "title": "Costo de las remesas en proporción a las sumas remitidas"
+      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "17-2-1/data.csv",
@@ -3732,7 +3732,7 @@
           }
         ]
       },
-      "title": "Asistencia oficial para el desarrollo neta, total y para los países menos adelantados en proporción al ingreso nacional bruto (INB) de los donantes del Comité de Asistencia para el Desarrollo de la Organización de Cooperación y Desarrollo Económicos (OCDE)"
+      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
     },
     {
       "path": "10-1-1/data.csv",
@@ -3756,7 +3756,7 @@
           }
         ]
       },
-      "title": "Tasas de crecimiento per cápita de los gastos o ingresos de los hogares del 40% más pobre de la población y la población total"
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
       "path": "8-6-1/data.csv",
@@ -3780,7 +3780,7 @@
           }
         ]
       },
-      "title": "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
       "path": "12-2-2/data.csv",
@@ -3804,7 +3804,7 @@
           }
         ]
       },
-      "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "17-19-2/data.csv",
@@ -3828,7 +3828,7 @@
           }
         ]
       },
-      "title": "Proporción de países que a) han realizado al menos un censo de población y vivienda en los últimos diez años; y b) han registrado el 100% de los nacimientos y el 80% de las defunciones"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "15-5-1/data.csv",
@@ -3852,7 +3852,7 @@
           }
         ]
       },
-      "title": "Índice de la Lista Roja"
+      "title": "Red List Index"
     },
     {
       "path": "3-b-1/data.csv",
@@ -3876,7 +3876,7 @@
           }
         ]
       },
-      "title": "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
       "path": "8-7-1/data.csv",
@@ -3900,7 +3900,7 @@
           }
         ]
       },
-      "title": "Proporción y número de niños de entre 5 y 17 años que realizan trabajo infantil, desglosados por sexo y edad"
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "16-3-2/data.csv",
@@ -3924,7 +3924,7 @@
           }
         ]
       },
-      "title": "Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total"
+      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "14-a-1/data.csv",
@@ -3948,7 +3948,7 @@
           }
         ]
       },
-      "title": "Proporción del presupuesto total de investigación asignada a la investigación en el campo de la tecnología marina"
+      "title": "Proportion of total research budget allocated to research in the field of marine technology"
     },
     {
       "path": "16-1-1/data.csv",
@@ -3972,7 +3972,7 @@
           }
         ]
       },
-      "title": "Número de víctimas de homicidios intencionales por cada 100.000 habitantes, desglosado por sexo y edad"
+      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
       "path": "3-5-1/data.csv",
@@ -3996,7 +3996,7 @@
           }
         ]
       },
-      "title": "Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas"
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
       "path": "5-a-1/data.csv",
@@ -4020,7 +4020,7 @@
           }
         ]
       },
-      "title": "a) Proporción del total de la población agrícola con derechos de propiedad o derechos seguros sobre tierras agrícolas, desglosada por sexo; y b) proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia"
+      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
     },
     {
       "path": "16-1-3/data.csv",
@@ -4044,7 +4044,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica y c) violencia sexual en los últimos 12 meses"
+      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
       "path": "9-c-1/data.csv",
@@ -4068,7 +4068,7 @@
           }
         ]
       },
-      "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología"
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "1-5-1/data.csv",
@@ -4092,7 +4092,7 @@
           }
         ]
       },
-      "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 habitantes"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "3-a-1/data.csv",
@@ -4116,7 +4116,7 @@
           }
         ]
       },
-      "title": "Prevalencia del consumo actual de tabaco a partir de los 15 años de edad (edades ajustadas)"
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "16-3-1/data.csv",
@@ -4140,7 +4140,7 @@
           }
         ]
       },
-      "title": "Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
+      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "12-6-1/data.csv",
@@ -4164,7 +4164,7 @@
           }
         ]
       },
-      "title": "Número de empresas que publican informes sobre sostenibilidad"
+      "title": "Number of companies publishing sustainability reports"
     },
     {
       "path": "11-6-1/data.csv",
@@ -4188,7 +4188,7 @@
           }
         ]
       },
-      "title": "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas con respecto al total de residuos municipales generados, desglosada por ciudad"
+      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
     },
     {
       "path": "4-2-2/data.csv",
@@ -4212,7 +4212,7 @@
           }
         ]
       },
-      "title": "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo"
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "16-9-1/data.csv",
@@ -4236,7 +4236,7 @@
           }
         ]
       },
-      "title": "Proporción de niños menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil, desglosada por edad"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "2-5-1/data.csv",
@@ -4260,7 +4260,7 @@
           }
         ]
       },
-      "title": "Número de recursos genéticos vegetales y animales para la alimentación y la agricultura preservados en instalaciones de conservación a medio y largo plazo"
+      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
       "path": "4-c-1/data.csv",
@@ -4284,7 +4284,7 @@
           }
         ]
       },
-      "title": "Proporción de docentes con las calificaciones mínimas requeridas, por nivel educativo"
+      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
     },
     {
       "path": "17-1-1/data.csv",
@@ -4308,7 +4308,7 @@
           }
         ]
       },
-      "title": "Total de ingresos del gobierno en proporción al PIB, desglosado por fuente"
+      "title": "Total government revenue as a proportion of GDP, by source"
     },
     {
       "path": "6-4-2/data.csv",
@@ -4332,7 +4332,7 @@
           }
         ]
       },
-      "title": "Nivel de estrés hídrico: extracción de agua dulce en proporción a los recursos de agua dulce disponibles"
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "3-9-1/data.csv",
@@ -4356,7 +4356,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente"
+      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "8-10-2/data.csv",
@@ -4380,7 +4380,7 @@
           }
         ]
       },
-      "title": "Proporción de adultos (a partir de 15 años de edad) que tienen una cuenta en un banco u otra institución financiera o un proveedor de servicios de dinero móvil"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "11-3-2/data.csv",
@@ -4404,7 +4404,7 @@
           }
         ]
       },
-      "title": "Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas y funcionan con regularidad y democráticamente"
+      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
     },
     {
       "path": "17-10-1/data.csv",
@@ -4428,7 +4428,7 @@
           }
         ]
       },
-      "title": "Promedio arancelario mundial ponderado"
+      "title": "Worldwide weighted tariff-average"
     },
     {
       "path": "5-1-1/data.csv",
@@ -4452,7 +4452,7 @@
           }
         ]
       },
-      "title": "Determinar si existen o no marcos jurídicos para promover, hacer cumplir y supervisar la igualdad y la no discriminación por razón de sexo"
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
     },
     {
       "path": "3-9-2/data.csv",
@@ -4476,7 +4476,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad atribuida al agua insalubre, el saneamiento deficiente y la falta de higiene (exposición a servicios insalubres de agua, saneamiento e higiene para todos (WASH))"
+      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
       "path": "13-1-2/data.csv",
@@ -4500,7 +4500,7 @@
           }
         ]
       },
-      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "3-3-4/data.csv",
@@ -4524,7 +4524,7 @@
           }
         ]
       },
-      "title": "Incidencia de la hepatitis B por cada 100.000 habitantes"
+      "title": "Hepatitis B incidence per 100,000 population"
     },
     {
       "path": "3-5-2/data.csv",
@@ -4548,7 +4548,7 @@
           }
         ]
       },
-      "title": "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil en litros de alcohol puro"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "9-3-2/data.csv",
@@ -4572,7 +4572,7 @@
           }
         ]
       },
-      "title": "Proporción de las pequeñas industrias que han obtenido un préstamo o una línea de crédito"
+      "title": "Proportion of small-scale industries with a loan or line of credit"
     },
     {
       "path": "2-b-1/data.csv",
@@ -4596,7 +4596,7 @@
           }
         ]
       },
-      "title": "Subsidios a la exportación de productos agropecuarios"
+      "title": "Agricultural export subsidies"
     },
     {
       "path": "9-2-2/data.csv",
@@ -4620,7 +4620,7 @@
           }
         ]
       },
-      "title": "Empleo del sector manufacturero en proporción al empleo total"
+      "title": "Manufacturing employment as a proportion of total employment"
     },
     {
       "path": "12-4-1/data.csv",
@@ -4644,7 +4644,7 @@
           }
         ]
       },
-      "title": "Número de partes en los acuerdos ambientales multilaterales internacionales sobre desechos peligrosos y otros productos químicos que cumplen sus compromisos y obligaciones de transmitir información como se exige en cada uno de esos acuerdos"
+      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
     },
     {
       "path": "7-2-1/data.csv",
@@ -4668,7 +4668,7 @@
           }
         ]
       },
-      "title": "Proporción de energía renovable en el consumo final total de energía"
+      "title": "Renewable energy share in the total final energy consumption"
     },
     {
       "path": "3-4-1/data.csv",
@@ -4692,7 +4692,7 @@
           }
         ]
       },
-      "title": "Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer, la diabetes o las enfermedades respiratorias crónicas"
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "1-5-2/data.csv",
@@ -4716,7 +4716,7 @@
           }
         ]
       },
-      "title": "Pérdidas económicas directas atribuidas a los desastres en relación con el producto interno bruto (PIB) mundial"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "2-a-1/data.csv",
@@ -4740,7 +4740,7 @@
           }
         ]
       },
-      "title": "Índice de orientación agrícola para el gasto público"
+      "title": "The agriculture orientation index for government expenditures"
     },
     {
       "path": "7-1-1/data.csv",
@@ -4764,7 +4764,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que tiene acceso a la electricidad"
+      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "3-b-2/data.csv",
@@ -4788,7 +4788,7 @@
           }
         ]
       },
-      "title": "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica"
+      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "2-3-2/data.csv",
@@ -4812,7 +4812,7 @@
           }
         ]
       },
-      "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
+      "title": "Average income of small-scale food producers, by sex and indigenous status"
     },
     {
       "path": "3-3-1/data.csv",
@@ -4836,7 +4836,7 @@
           }
         ]
       },
-      "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave"
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "16-10-2/data.csv",
@@ -4860,7 +4860,7 @@
           }
         ]
       },
-      "title": "Número de países que adoptan y aplican garantías constitucionales, legales o normativas para el acceso público a la información"
+      "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
     },
     {
       "path": "12-c-1/data.csv",
@@ -4884,7 +4884,7 @@
           }
         ]
       },
-      "title": "Cantidad de subsidios a los combustibles fósiles por unidad de PIB (producción y consumo)"
+      "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP"
     },
     {
       "path": "13-3-1/data.csv",
@@ -4908,7 +4908,7 @@
           }
         ]
       },
-      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "11-b-1/data.csv",
@@ -4932,7 +4932,7 @@
           }
         ]
       },
-      "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "9-1-2/data.csv",
@@ -4956,7 +4956,7 @@
           }
         ]
       },
-      "title": "Volumen de transporte de pasajeros y carga, desglosado por medio de transporte"
+      "title": "Passenger and freight volumes, by mode of transport"
     },
     {
       "path": "2-2-2/data.csv",
@@ -4980,7 +4980,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "10-7-2/data.csv",
@@ -5004,7 +5004,7 @@
           }
         ]
       },
-      "title": "Número de países que han aplicado políticas migratorias bien gestionadas que facilitan la migración y la movilidad ordenadas, seguras, regulares y responsables de las personas"
+      "title": "Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "12-4-2/data.csv",
@@ -5028,7 +5028,7 @@
           }
         ]
       },
-      "title": "a) Desechos peligrosos generados per cápita y b) proporción de desechos peligrosos tratados, desglosados por tipo de tratamiento"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "10-5-1/data.csv",
@@ -5052,7 +5052,7 @@
           }
         ]
       },
-      "title": "Indicadores de solidez financiera"
+      "title": "Financial Soundness Indicators"
     },
     {
       "path": "10-2-1/data.csv",
@@ -5076,7 +5076,7 @@
           }
         ]
       },
-      "title": "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad"
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
       "path": "16-10-1/data.csv",
@@ -5100,7 +5100,7 @@
           }
         ]
       },
-      "title": "Número de casos verificados de asesinato, secuestro, desaparición forzada, detención arbitraria y tortura de periodistas, miembros asociados de los medios de comunicación, sindicalistas y defensores de los derechos humanos, en los últimos 12 meses"
+      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
     },
     {
       "path": "6-5-1/data.csv",
@@ -5124,7 +5124,7 @@
           }
         ]
       },
-      "title": "Grado de gestión integrada de los recursos hídricos"
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "4-1-2/data.csv",
@@ -5148,7 +5148,7 @@
           }
         ]
       },
-      "title": "Índice de finalización (enseñanza primaria, primer ciclo de enseñanza secundaria y segundo ciclo de enseñanza secundaria)"
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
       "path": "15-b-1/data.csv",
@@ -5172,7 +5172,7 @@
           }
         ]
       },
-      "title": "a) Asistencia oficial para el desarrollo destinada concretamente a la conservación y el uso sostenible de la biodiversidad y b) ingresos generados y financiación movilizada mediante instrumentos económicos pertinentes para la biodiversidad"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "5-4-1/data.csv",
@@ -5196,7 +5196,7 @@
           }
         ]
       },
-      "title": "Proporción de tiempo dedicado al trabajo doméstico y asistencial no remunerado, desglosada por sexo, edad y ubicación"
+      "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
     },
     {
       "path": "4-4-1/data.csv",
@@ -5220,7 +5220,7 @@
           }
         ]
       },
-      "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "5-2-2/data.csv",
@@ -5244,7 +5244,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos12 meses, desglosada por edad y lugar del hecho"
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
       "path": "1-a-2/data.csv",
@@ -5268,7 +5268,7 @@
           }
         ]
       },
-      "title": "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
       "path": "2-3-1/data.csv",
@@ -5292,7 +5292,7 @@
           }
         ]
       },
-      "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)"
+      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
     },
     {
       "path": "12-b-1/data.csv",
@@ -5316,7 +5316,7 @@
           }
         ]
       },
-      "title": "Aplicación de instrumentos normalizados de contabilidad para hacer un seguimiento de los aspectos económicos y ambientales de la sostenibilidad del turismo"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
       "path": "5-3-1/data.csv",
@@ -5340,7 +5340,7 @@
           }
         ]
       },
-      "title": "Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años"
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "17-12-1/data.csv",
@@ -5364,7 +5364,7 @@
           }
         ]
       },
-      "title": "Promedio ponderado de los aranceles que enfrentan los países en desarrollo, los países menos adelantados y los pequeños Estados insulares en desarrolloPromedio de los aranceles que enfrentan los países en desarrollo, los países menos adelantados y los pequeños Estados insulares en desarrollo"
+      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
     },
     {
       "path": "6-3-2/data.csv",
@@ -5388,7 +5388,7 @@
           }
         ]
       },
-      "title": "Proporción de masas de agua de buena calidad"
+      "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
       "path": "15-8-1/data.csv",
@@ -5412,7 +5412,7 @@
           }
         ]
       },
-      "title": "Proporción de países que han aprobado la legislación nacional pertinente y han destinado recursos suficientes para la prevención o el control de las especies exóticas invasoras"
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
     },
     {
       "path": "5-a-2/data.csv",
@@ -5436,7 +5436,7 @@
           }
         ]
       },
-      "title": "Proporción de países cuyo ordenamiento jurídico (incluido el derecho consuetudinario) garantiza la igualdad de derechos de la mujer a la propiedad o el control de las tierras"
+      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
     },
     {
       "path": "2-1-1/data.csv",
@@ -5460,7 +5460,7 @@
           }
         ]
       },
-      "title": "Prevalencia de la subalimentación"
+      "title": "Prevalence of undernourishment"
     },
     {
       "path": "1-b-1/data.csv",
@@ -5508,7 +5508,7 @@
           }
         ]
       },
-      "title": "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
+      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
       "path": "12-2-1/data.csv",
@@ -5532,7 +5532,7 @@
           }
         ]
       },
-      "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB"
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
       "path": "15-1-2/data.csv",
@@ -5556,7 +5556,7 @@
           }
         ]
       },
-      "title": "Proporción de lugares importantes para la biodiversidad terrestre y del agua dulce incluidos en zonas protegidas, desglosada por tipo de ecosistema"
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
     },
     {
       "path": "16-2-2/data.csv",
@@ -5580,7 +5580,7 @@
           }
         ]
       },
-      "title": "Número de víctimas de la trata de personas por cada 100.000 habitantes, desglosado por sexo, edad y tipo de explotación"
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
     },
     {
       "path": "12-8-1/data.csv",
@@ -5604,7 +5604,7 @@
           }
         ]
       },
-      "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, \nc) la formación del profesorado y d) la evaluación de los estudiantes"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "15-4-2/data.csv",
@@ -5628,7 +5628,7 @@
           }
         ]
       },
-      "title": "Índice de cobertura verde de las montañas"
+      "title": "Mountain Green Cover Index"
     },
     {
       "path": "11-b-2/data.csv",
@@ -5652,7 +5652,7 @@
           }
         ]
       },
-      "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "17-18-1/data.csv",
@@ -5700,7 +5700,7 @@
           }
         ]
       },
-      "title": "Lesiones ocupacionales mortales y no mortales por cada 100.000 trabajadores, desglosadas por sexo y estatus migratorio"
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
       "path": "5-b-1/data.csv",
@@ -5724,7 +5724,7 @@
           }
         ]
       },
-      "title": "Proporción de personas que poseen un teléfono móvil, desglosada por sexo"
+      "title": "Proportion of individuals who own a mobile telephone, by sex"
     },
     {
       "path": "12-5-1/data.csv",
@@ -5748,7 +5748,7 @@
           }
         ]
       },
-      "title": "Tasa nacional de reciclado, en toneladas de material reciclado"
+      "title": "National recycling rate, tons of material recycled"
     },
     {
       "path": "15-c-1/data.csv",
@@ -5772,7 +5772,7 @@
           }
         ]
       },
-      "title": "Proporción de especímenes de flora y fauna silvestre comercializados procedentes de la caza furtiva o el tráfico ilícito"
+      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
       "path": "3-3-3/data.csv",
@@ -5796,7 +5796,7 @@
           }
         ]
       },
-      "title": "Incidencia de la malaria por cada 1.000 habitantes"
+      "title": "Malaria incidence per 1,000 population"
     },
     {
       "path": "17-8-1/data.csv",
@@ -5820,7 +5820,7 @@
           }
         ]
       },
-      "title": "Proporción de personas que utilizan Internet"
+      "title": "Proportion of individuals using the Internet"
     },
     {
       "path": "9-1-1/data.csv",
@@ -5844,7 +5844,7 @@
           }
         ]
       },
-      "title": "Proporción de la población rural que vive a menos de 2 km de una carretera transitable todo el año"
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "3-c-1/data.csv",
@@ -5868,7 +5868,7 @@
           }
         ]
       },
-      "title": "Densidad y distribución del personal sanitario"
+      "title": "Health worker density and distribution"
     },
     {
       "path": "13-1-3/data.csv",
@@ -5892,7 +5892,7 @@
           }
         ]
       },
-      "title": "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "4-5-1/data.csv",
@@ -5916,7 +5916,7 @@
           }
         ]
       },
-      "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
     },
     {
       "path": "10-3-1/data.csv",
@@ -5940,7 +5940,7 @@
           }
         ]
       },
-      "title": "Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     }
   ]
 }
