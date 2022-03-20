@@ -1,0 +1,306 @@
+name-1-3-1-a: Proportion of registered disabled people to the total number of population at the end of the year  
+name-1-3-1-b: Children with disabilities from diseases (aged 0-17 years)
+name-1-3-1-c: Proportion of pensioners to the total number of population at the end of the year
+name-1-3-1-d: Ratio of elderly pensioners. Ratio of age pensioners and the retirement age stipulated by law and aged population
+name-1-3-1-e: Proportion of families receiving family benefits to households
+name-1-3-1-f: Proportion of families receiving social benefits to households
+name-1-3-1-g: Proportion of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year
+name-1-3-1-h: Children of orphans (aged 0-17 years) at the end of the year
+name-1-3-1-i: Children who return to relatives from orphanages (aged 0-17 years)
+name-1-3-1-j: Children with disabilities living in orphanages (aged 0-17 years) at the end of the year
+name-1-3-1-ja: Adopted children (aged 0-17 years)
+name-1-3-1-jb: Adopted children by social groups (aged 0-17 years)
+name-1-3-1-jc: Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year
+name-1-3-1-ka: Share of poor population who receive family benefit
+name-1-3-1-kb: Share of poor population who receive social assistance, including family benefit
+name-1-4-1-a: Centralized water supply
+name-1-4-1-b: Centralized sewerage system
+name-1-5-1-a: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
+name-2-c-1-a: Food and non-alcoholic beverages price index (compared to the previous year)
+name-2-4-1-a: "Sown areas under agricultural crops, areas of perennial crops and arable lands "
+name-3-1-1-a: Maternal mortality ratio (average three-year indicator)
+name-3-2-2-a: Infant mortality rate
+name-3-3-1-a: HIV infection transmission from HIV-infected mothers with non-breastfeeding to child
+name-3-3-1-b: Percentage of people living with HIV, who know their  status
+name-3-3-1-c: Percentage of people living with HIV, who know their  status, who receive ARV treatment
+name-3-3-1-d: Percentage of HIV patients, who receive ARV   treatment, who have unrecognized level of viral load (VL)
+name-3-3-2-a: Multi-drug resistant tuberculosis morbidity indicator (per 100,000 population)
+name-3-3-3-a: Number of local cases in malaria per year
+name-3-3-4-a: 0-18 years old  patients with acute hepatitis B  ( per 100,000 population)
+name-3-3-4-b: Coverage of 3 doses of vaccine with hepatitis B alone or combined ingredient with 95 and more ingredients
+name-3-3-5-a: Number of patients with leishmaniasis
+name-3-3-5-b: Case of death from leishmaniosis
+name-3-5-1-a: The number of patients suffering from drug addiction
+name-3-5-2-a: The volume of alcoholic beverages consumed by the household during a year (pure alcohol in liters).
+name-3-7-2-a: Adolescent birth rate (aged 15-17 years) per 1,000 women in that age group
+name-3-8-1-a: Providing antenatal care and care by qualified specialis
+name-3-8-1-b: At least one ultrasound examination during pregnancy
+name-3-8-1-c: During the first two days after birth, the mother's postnatal check
+name-3-8-1-d: During the first two days after birth, the newborn testing
+name-3-9-1-a: Number of deaths caused by registered social-domestic toxication cases
+name-3-b-1-a: Indicator of coverage  in vaccines among targeted quantities, 1 year of age
+name-3-b-1-b: Indicator of coverage  in vaccines among targeted quantities, 2 years of age
+name-3-b-1-c: Indicator of coverage  in vaccines among targeted quantities, 7 years of age
+name-3-c-1-a: Number of physicians conducting professional activities per 10,000 population
+name-4-1-1b: Proportion of children at the end of primary achieving at least a minimum proficiency level in  (i) reading and (ii) mathematics
+name-4-1-1c: Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics
+name-4-2-2-a: Gross enrolment  of children 3 -5 years of age in pre-primary education
+name-4-3-1-a: Gross Enrollment Ration in general educatioin
+name-4-4-1-a: Number of pupils per computer in general education schools
+name-4-5-1-a: Gender parity index
+name-4-6-1-a: Literacy rate among population aged from 10-24  years old
+name-4-c-1-a: Proportion of trained teachers
+name-5-6-1-a: Women currently married or in union that are using any type of contraception, only Condition 3 "She can make a decision about healthcare either by herself or jointly" fulfilled
+name-5-a-1-a-a: Proportion of households with ownership over agricultural land
+name-5-a-1-b-a-1: Proportion of women age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed
+name-5-a-1-b-a-2: Proportion of men age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed
+name-5-b-1-a: Proportion of households who own a mobile telephone
+name-6-1-1-a: Proportion of  households with centralized water supply
+name-6-2-1-a: Proportion of population using safely managed sanitation facility
+name-6-2-1-b: Proportion of population using hand-washing facility with soap and water
+name-6-2-1-c: Proportion of population using sanitary-hygienic services defined by sanitation norms
+name-6-3-1-a: Proportion of insufficiently treated wastewater in the total volume of generated wastewater
+name-7-1-1-a: Proportion of households with access to electricity 
+name-7-1-2-a: Proportion of households with primary reliance on clean fuels and technology
+name-8-5-1-a: Average Monthly Nominal Wages / Salaries
+name-10-7-2-a: Percentage of returned migrants who undertook paid work during the last 7 days
+name-10-7-2-b: Proportion of individual asylum applications granted
+name-11-1-1-a: "Proportion of urban households whose dwelling units are: Cottage/temporary shelter, Dwelling of joint residence, Dormitory, other dwelling unit or who are homeless"
+name-11-5-1-a: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
+name-11-6-1-a: Urban solid waste regularly collected with adequate final discharge
+name-12-3-1-a: Food loss
+name-13-1-1-a: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
+name-14-3-1-a: Average Lake Sevan acidity (pH) measured at agreed suite of representative sampling stations
+name-14-5-1-a: Coverage of protected water areas in relation to lakes and reservoirs
+name-14-a-1-a: Budget allocated to research and complex protection related to lake Sevan
+name-15-1-2-a: Number and proportion of protected areas in the country by categories
+name-15-3-1-a: Proportion of lands in need of improvement over total land area
+name-15-5-1-a-1: Registered vertebrate and invertebrate species, of which
+name-15-5-1-a-2: Registered high and low plant species, of which
+name-16-1-1-a: Number of homicide cases per 100,000 population
+name-16-2-2-a: "The number of cases of human trafficking or exploitation "
+name-17-1-1-a: Total central government revenue as a proportion of GDP
+name-17-3-1-a: Foreign direct investments (FDI)
+name-17-4-1-a: External public debt service as a proportion of exports of goods and services
+name-17-8-1-a: Proportion of individuals using the Internet by sex and age groups 
+description-9-5-1: This statistics is conducted only for public sector
+description-9-5-2: This statistics is conducted only for public sector
+description-8-8-1: This statistics does not apply to migrants
+comments-8-5-1-a: "* Since 2018 the source of information for the average wage calculation is the database of the Individual records on income tax and social security tax authorized by the State Revenue Committee of the Republic of Armenia (SRC RA). In order to provide comparability of indicators on wages/salaries for 2017-2018 the 2017 indicator is provided by the database of SRC RA."
+comments-5-b-1: Data collected since 2017
+available-8-4-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
+description-8-4-2: "The value of goods purchased by RA resident households for final consumption,
+the same per capita and in relation to GDP "
+calculations-8-4-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+comments-8-4-2: "The basis for estimating  the value of purchased goods for households final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
+available-12-2-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
+description-12-2-2: "The value of goods purchased by RA resident households for final consumption,
+the same per capita and in relation to GDP "
+calculations-12-2-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+comments-12-2-2: "The basis for estimating  the value of purchased goods for households final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
+description-17-3-1-a: "The foreign direct investment is the acquisition by a resident(s) of one country 10% or more of the voting  power in the capital of another country's resident organization, all financial claims and liabilities with those investors and related organizations, as well as the share of those investors in organization profit. Direct investments are implemented:
+1) In the authorized and emission  capital, in the form of bonds, shares, equity participation, i.e., when another organization is managing the voting shares (common stocks, interests, shares) of not less than 50% (subsidiary) and when another organization owns 10-50% of the voting power (affiliated company),
+2) In the direct investor's share to the other elements of entity's own capital, 3) In debt instruments. out in form of bonds, other securities (excepting shares), credits, loans, deposits."
+coverage-17-3-1-a: "It covers all marzes of RA and Yerevan city. "
+calculations-17-3-1-a: "The calculations are carried out in accordance with the filling procedure specified in the statistical reporting form"
+comments-17-3-1-a: "The main sources of data collection are the foreign investments and foreign investment implementing organizations, as well as data and additional calculations received from RA Central Bank on indicators of foreign investments. The data collection is implemented by the statistical reporting form in accordance with the Annual and Five Year Statistical Programs (https://www.armstat.am/am/?nid=80&id=2271). "
+description-8-5-1-a: "Тhе source of information օn wages / salaries before 2018 was the data submitted by the establishments trough the statistical reports and since 2018 - the database of the Personal Income Tax and Social Tax (Payment), authorized by the State Revenue Committee of the RA covering establishments with at least 1 paid employees. "
+definitions-8-5-1-a: "Nominal wage is the amount of employee's pretax gross compensation, which characterizes the level of payout of link with the prices of goods and services.
+Employees’ remuneration and other payments equal to it are the gross wages/salaries in return for the job done in cash and (or) in kind before deduction of compulsory taxes defined by law. "
+calculations-8-5-1-a: "Average monthly nominal wage is calculated as the sum of remuneration and other payments equal to it (both in cash and in kind) divided by the average monthly payroll number of employees."
+comments-8-5-1-a: "https://www.armstat.am/file/article/trud_2019_11.pdf"
+description-12-3-1-a: " Food loss is the sum of losses of all product groups / product types included in the RA National Food Balance. "
+comments-12-3-1-a: " https://www.armstat.am/am/?nid=82&id=2283"
+description-2-4-1-a: " National Indicator includes the data on arable land and perennial plantings and agricultural crop areas.
+Arable land is the land used for sowing agricultural crops, including perennial grasses and clean fallow.
+Perennial plantings is the land used for perennial plantings, as well as fruit nurseries.
+Agricultural crop areas are the areas of actual sowing of agricultural crops, including double sowing and sub-sowing, in the inter-row areas of orchards and vineyards."
+comments-2-4-1-a: " https://www.armstat.am/am/?nid=586&year=2019"
+description-2-c-1-a: " The food and non-alcoholic beverages index shows the monthly changes in the prices of goods purchased by households in the consumer market of the Republic of Armenia.
+The price observations for the calculation are carried out on a monthly basis, through a three-time visit to the trade points, strictly keeping the 10-day visit interval (on the 1st, 10th, 20th of each month, in the next days). Two to three representatives with clear descriptions are selected for each product."
+definitions-2-c-1-a: " The food and non-alcoholic beverages price index determines the change in the overall level of prices of foodstuff and non-alcoholic beverages of the stable basket over a period of time and the ratio of that value to the base period over the reporting period. The index characterizes the change in the general level of food prices and non-alcoholic beverages purchased by the population on an annual, quarterly, monthly basis."
+calculations-2-c-1-a: " The lowest level (of each commodity) indices are calculated by the Jevons formula, as the ratio of the average geometric prices of the selected species recorded in the current and base period of each commodity. For the aggregation of commodity groups and the total RA main indexes the constant weights by the modified Laspeyres formula is used."
+comments-2-c-1-a: " For the methodological guidelines for observation of consumer prices of goods and tarrifs for services and the calculation of consumer price indexes see the following link:  https://www.armstat.am/file/doc/99518258.pdf"
+description-1-3-1-ka: " This indicator is the ratio of family benefit recipients to the total number of vulnerable people. The latter is calculated by subtracting from the total population all persons of working age who are included in the social insurance system or receive benefits, as well as all persons of retirement age who also receive benefits. "
+definitions-1-3-1-ka: " State benefit is a regular or one-time financial assistance provided from the state budget."
+calculations-1-3-1-ka: " The ratio of the poor receiving  to the total number of poor."
+comments-1-3-1-ka: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-1-3-1-kb: " This indicator is calculated by dividing the number of beneficiaries , the recipients of social assistance (including family benefits) in the total population (or group) by  the total number of population (or group). "
+definitions-1-3-1-kb: " Social assistance - a set of social services provided to the family in order to prevent or alleviate the difficulties of life, to meet their basic needs, to integrate into society, as well as to prevent the difficult situation of life."
+calculations-1-3-1-kb: "The ratio of the poor receiving social assistance (including family benefit) to the total number of poor."
+comments-1-3-1-kb: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-3-5-2-a: " The volume of alcohol consumed by households per year in pure alcohol liters, divided by the total number of households."
+calculations-3-5-2-a: "The indicator is calculated by the volume of alcohol consumed by households per year in pure alcohol liters, divided by the total number of households."
+comments-3-5-2-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-5-b-1-a: "Dividing the number of households with a mobile phone by the total number of households. "
+calculations-5-b-1-a: "The indicator is calculated by dividing the number of households with a mobile phone by the total number of households. "
+comments-5-b-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-6-1-1-a: "  Dividing the number of households with centralized water supply by the total number of households. "
+definitions-6-1-1-a: "Pipeline clean water supply to consumers"
+calculations-6-1-1-a: " The  indicator is calculated by dividing the number of households with centralized water supply by the total number of households. "
+comments-6-1-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-7-1-1-a: "Dividing the number of households with electricity by the total number of households."
+calculations-7-1-1-a: "The  indicator is calculated by dividing the number of households with electricity by the total number of households. "
+comments-7-1-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-7-1-2-a: " Dividing the number of households primarily dependent on clean fuel and technology by the total number of households. "
+definitions-7-1-2-a: " Clean fuel (сentral heating, electricity and gas)"
+calculations-7-1-2-a: " The figure is calculated by dividing the number of households primarily dependent on clean fuel and technology by the total number of households. "
+comments-7-1-2-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-17-8-1-a: "Dividing the number of people using the Internet  during the last 3 months by the total number of people. "
+calculations-17-8-1-a: "The  indicator is calculated by dividing the number of people using the Internet (from anywhere) during the last 3 months by the total number of people. "
+comments-17-8-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-17-1-1-a: " The indicator is calculated as a percentage of Central Government revenues to Gross Domestic Product (indicator for the reporting year)."
+description-17-4-1-a: " The indicator provides an opportunity to assess the problems related to the country's foreign debt service.
+The source of information is the references provided by the Ministry of Finance of the Republic of Armenia on the external public debt of the Republic of Armenia, which is considered as an administrative register, including the external public debt of the Republic of Armenia formed by credit-loan agreements, debt service, foreign loan receipts."
+definitions-17-4-1-a: " External public debt is the sum of debt obligations assumed on behalf of the Republic of Armenia and on behalf of the Central Bank to non-residents of the Republic of Armenia and to foreign states, and existing debt liabilities at a certain point.“Exports of goods and services” data concepts correspond to the sixth edition of the Balance of Payments and International Investment Position Manual (BPM6)."
+calculations-17-4-1-a: " External public debt service as a proportion of exports of goods and services is calculated as a ratio of External public debt service to Exports of goods and services in percent."
+comments-17-4-1-a: " http://www.minfin.am/hy/page/avelin/"
+description-3-1-1-a: " Maternal mortality rate is defined as the number of women's death  due to pregnancy in specified time period, regardless  of its duration, which occurred during the period of pregnancy itself or  within 42 days after its termination, from any cause related to or aggravated by the pregnancy or its course (except for accidents or other incidental reasons). "
+definitions-3-1-1-a: " The ratio defines the three-year average of maternal mortality level . "
+calculations-3-1-1-a: " The indicator is calculated as а ratio of recorded maternal deaths over the last three years,  per 100 000 live births over the same time period. "
+comments-3-1-1-a: " Source:  Records of   Civil  status Acts on deaths"
+description-3-2-2-a: " Infant mortality rate characterizes the  number of death cases of children  under one year of age over the specified year. "
+definitions-3-2-2-a: " The indicator defines the mortality ratio  of children under one year  of age . "
+calculations-3-2-2-a: " The indicator is calculated as the ratio of recorded infant deaths over the specified year  per 1000 live births  of the same year. "
+comments-3-2-2-a: " Source: records of Civil  Status Acts  on deaths under one year of age"
+description-3-3-5-b: " The indicator characterises the Death cases  attributed from leishmaniasis (ICD-10: B55)  in the reporting year. "
+definitions-3-3-5-b: " The indicator defines the mortality rate attributed to   leishmaniasis. "
+calculations-3-3-5-b: " The indicator is calculated out of the recorded deaths from leishmaniasis over the specified year. "
+comments-3-3-5-b: " Source:  records of  Civil  status Acts on deaths "
+description-3-7-2-a: " The indicator characterises the number of births to adolesents  aged  15-17  over the reporting year  "
+definitions-3-7-2-a: " The indicator defines the ferility rate of adolesents to 15-17 years of age. "
+calculations-3-7-2-a: "The indicator is calculated as the ratio of recorded births to adolesents  15-17 years of age over the specified year,  per 1,000 women of the given age group. "
+comments-3-7-2-a: " Source:  records of Civil  status Acts on births "
+description-4-6-1-a: " The indicator characterises the proportion of population  at age 10-24 years  having a certain level of education according to the International Standard Classification of Education (primary, basic, secondary, pre-vocational, middle vocational, higher and postgraduate), as well as having no primary education (both learners and non-learners), but can read in whatever language, understand what he/she has read, or can describe a simple reality of his/her daily life in written. "
+definitions-4-6-1-a: "Literacy rate of population at the 10-24 age group "
+calculations-4-6-1-a: "The share of the 10-24 year old population having a certain level of education to  the number of population of the same age. "
+comments-4-6-1-a: " Source: RA Population Census results "
+description-11-1-1-a: " The indicator characterises the  share of urban households whose residential building was a lodge/temporary shelter, joint livimg quarters, dormitory, other living areas adapted for living, or  homeless. "
+definitions-11-1-1-a: "The indicator defines the % of urban households living in lodge/temporary shelters, joint living quarters, dormitories, other living areas adapted for living or homeless "
+calculations-11-1-1-a: "In percent to total. "
+comments-11-1-1-a: " Source: latest RA  Population Census "
+description-16-1-1-a: " The indicator defines the registered death cases caused by homicide in the reporting year  (ICD-10: X85-Y09)"
+definitions-16-1-1-a: " Mortality rate attributed from homicide"
+calculations-16-1-1-a: " The indicator is calculated as the ratio of recorded deaths  caused by homicide over the specified year,  per 100 000 population."
+comments-16-1-1-a: " Source:  Civil  status records of deaths "
+description-6-3-1-a: "The indicator describes the proportion of insufficiently treated wastewater in the treated wastewater. "
+definitions-6-3-1-a: " Wastewater - water contaminated as a result of the use of water resources for industrial or domestic purposes, as well as rain, melt or drainage water discharged from the territories of settlements, economic or other facilities that do not meet the requirements of the maximum allowable outflow.
+Insufficiently treated wastewater - wastewater of primary or mechanical treatment. "
+calculations-6-3-1-a: "Insufficiently treated wastewater / polluted (without treatment) + insufficiently treated wastewater * 100 "
+comments-6-3-1-a: " Reference to the relevant UNECE indicator published on Armstat website. The volume of polluted wastewater by indicators and years
+https://armstatbank.am/pxweb/hy/ArmStatBank/ArmStatBank__8%20Environment__(C)%20Water%20resources__13.(C16)%20Polluted%20waste%20water%20(without%20purification%20and%20insufficiently%20purified%20waste%20water),%20by%20years/EE-c16-1.px/?rxid=f732c078-ef7e-413e-9b8c-15d7a1e5bcbd "
+description-14-3-1-a: " 14.3.1global indicator is  mainly based on observations that contain/limit the carbon system required to determine the variability of water acidity in a water management zone. The carbon system in this context refers to 4 main measurable indicators. pH (sliding scale hydrogen ion concentration), CT (total dissolved inorganic carbon), pCO2 (partial pressure of carbon dioxide) and AT (total alkalinity).Only pH is presented as a national indicator. "
+definitions-14-3-1-a: " Acidification of Lake Sana'a water is the decrease in water pH over a period of decades or more that results mainly from the absorption of carbon dioxide from the atmosphere. Water area services  These are the benefits provided by the lake to people, which can be recreational, economic, environmental (providing coastal protection) or cultural. pH is the average annual value. Representative sampling stations are those stations that: 1) have a frequency of measurement sufficient to convey important information on changes in the acidification of the carbonates in the chemical composition of the lake և trends of impacts on water systems;  2) Ensures sufficient data quality and comprehensive metadata information to enable integration with data from other stations in the country. For the monitoring of Lake Sevan, sampling is carried out at 17 observation points, twice a year, both from the lake surface and from different depths."
+calculations-14-3-1-a: " The value of the indicator is obtained by means of a corresponding measuring device"
+comments-14-3-1-a: " Link to SDG 14.3.1 global indicator
+https://unstats.un.org/sdgs/tierIII-indicators/files/Tier3-14-03-01.pdf "
+description-14-5-1-a: " The indicator describes the share of wеtlands with special conservation status defined by the Ramsar Convention in the total water area of the country. "
+definitions-14-5-1-a: " pecially protected территоры: land (including surface and groundwater and subsoil) and areas of the respective air basin, separated by the law and separate natural objects, which are of ecological, scientific, educational, health, historical-cultural, recreational, tourism, aesthetic value and for which a special protection regime is established. Wetlands: areas occupied by water bodies - rivers, natural and artificial reservoirs, lakes, as well as areas designated for hydraulic, water management and other facilities necessary for the use and protection of water bodies."
+calculations-14-5-1-a: " The share of the total area of Lake Sevan and Arpa (water areas with special status) in the water lands of the Republic of Armenia"
+description-15-1-2-a: " The indicator describes the number of areas with special protection regime and the ratio to the total area of the country according to the categories defined by the International Organization for Conservation of Nature. "
+definitions-15-1-2-a: "Specially protected area: land (including surface and groundwater and subsoils) and areas of the respective air basin, separated bylawand separate natural objects, which are of ecological, scientific, educational, health, historical-cultural, recreational, tourism, aesthetic value. և for which a special protection regime is established.
+National park - an area of international (or) national significance representing environmental, scientific, historical-cultural, aesthetic, recreational values, which can be used for scientific, educational, recreational, cultural-economic purposes due to the combination of natural landscapes and cultural values and has a special protection mode.
+Sanctuary - an area of scientific, educational, historical-cultural, economic value, where the protection of ecosystems և their components և natural reproduction are ensured.
+Reserve - an area of international and(or) national significance with special environmental, aesthetic features of scientific, educational, historical and cultural value, where the processes of development of the natural environment take place without direct human intervention. "
+calculations-15-1-2-a: " National parks + reserves + sanctuaries (ha) / total area * 100
+National parks (ha) / total area * 100
+Reserves (ha) / total area * 100
+Sanctuaries (ha) / total area * 100 "
+comments-15-1-2-a: " Number and proportion of protected areas in the country  by categories
+https://armstatbank.am/pxweb/hy/ArmStatBank/ArmStatBank__8%20Environment__(D)%20%20Biodiversity/EE-d1.px/table/tableViewLayout2/?rxid=b319419d-982a-4a31-9b26-864a2445955d "
+description-15-3-1-a: " The indicator describes the share of degraded lands in the total area of the country. "
+definitions-15-3-1-a: "Soil erosed by wind - these soils decompose under the influence of wind (wind erosion-deflation).
+Soil erosed by water - these soils degrade under the influence of water (water erosion).
+Salinised -these soils contain easily soluble amounts of toxic salts  in their profile for agricultural crops (salt marshes, salinised soils, alkalis).
+Secondary salinised - where the process of accumulation of harmful salts for agricultural crops is conditioned by wrong human economic activity (irrigation equipment, increase of groundwater level as a result of violation of regimes, irrigation with mineralized water, etc.)
+Alkalinised - these soils contain a large amount of exchangeable sodium (sometimes magnesium) when absorbed, in the iliuvial horizon.
+Unsettled soil - damaged by entrails extraction (quarries, open pit mines, etc.), as it were, soils that are covered with industrial wastes, mining chemicals, etc. These are decommissioned lands that have not been reclaimed.
+Hyper - moist soils are completely saturated with water.
+Rocky - These are the soils that contain stones of different sizes in their profile.
+Contaminated with waste - hese are the soils (areas) that are polluted with various pollutants (industrial, construction, domestic, etc.)
+Swampied - these are the soils that have been formed under the influence of special moist (swamp) vegetation in conditions of excess surface or groundwater moisture. 
+Deserted - these are the soils where the features (indicators) typical of desert landscapes appear. Desertification is the degradation of lands (territories). "
+calculations-15-3-1-a: "Lands in need of improvement / total land area * 100 "
+description-1-3-1-a: " In the indicator of the share of registered persons with disabilities at the end of the year from the total  number of population it is reflected the share of registered persons with disabilities  from the total number of population by sex and age, city, village."
+definitions-1-3-1-a: " Disabled - a person who, becaise of health impairment has a need for social protection due to limitations in living activities."
+calculations-1-3-1-a: " The ratio of registered persons with disabilities to the population."
+comments-1-3-1-a: " https://armstat.am/file/article/soc_vich_2019_11.pdf"
+description-1-3-1-b: " In the indicator of the children disabled from diseases  (0-17 years old) it is reflected the share of children disabled from disaeses  (0-17 years old) from the total number of population of 0-17 yeras old and percentage of children disabled from diseases from the total number of children with disabilities by sex and age."
+definitions-1-3-1-b: " Disabled - a person who, becaise of health impairment has a need for social protection due to limitations in living activities."
+calculations-1-3-1-b: " The ratio of children with disabilities from diseases to the population of the appropriate age."
+comments-1-3-1-b: " https://armstat.am/file/article/soc_vich_2019_9.pdf"
+description-1-3-1-c: " The indicator of the share of pensioners from the total number of population at the end of the year is the share of pensioners at the end of the year from the total number of the population by gender and age,  type of pension, and the population of the appropriate age. "
+calculations-1-3-1-c: "Ratio of pensioners (by sex and age, type of pension) to the population."
+comments-1-3-1-c: " https://armstat.am/file/article/soc_vich_2019_12.pdf"
+description-1-3-1-d: " In the indicator it is included the ratio of  age pensioners and 63 age and higher population by gender."
+calculations-1-3-1-d: " The ratio of elderly pensioners to the population."
+comments-1-3-1-d: " https://armstat.am/file/article/soc_vich_2019_12.pdf"
+description-1-3-1-e: " In the indicator it is reflected the share of families receiving family allowance from the total number of households."
+definitions-1-3-1-e: " State benefit is regular or one-time financial assistance provided from the state budget."
+calculations-1-3-1-e: " The ratio of families receiving family allowance to households."
+comments-1-3-1-e: " https://armstat.am/file/article/soc_vich_2019_13.pdf"
+description-1-3-1-f: " The indicator is the share of families receiving social benefits from the total number of houswholds."
+definitions-1-3-1-f: "State benefit is regular or one-time financial assistance provided from the state budget."
+calculations-1-3-1-f: "The ratio of families receiving social benefits to households."
+comments-1-3-1-f: " https://armstat.am/file/article/soc_vich_2019_13.pdf"
+description-1-3-1-g: " The indicator of  the  share of beneficiaries in the case of old age, disability and loss of breadwinner at the end of the year from the total number of population is the share of the beneficiaries at the end of the year from the total number of population in the case of old age, disability and the loss of breadwinner. "
+definitions-1-3-1-g: " State benefit is regular or one-time financial assistance provided from the state budget."
+calculations-1-3-1-g: " The ratio of beneficiaries for old age, disability or loss of breadwinner to the population."
+comments-1-3-1-g: " https://armstat.am/file/article/soc_vich_2019_13.pdf"
+description-1-3-1-h: " The indicator of the orphanage children (0-17 years old) at the end of the year is the number of orphanage children and the share of the orphanage children from the appropriate age population."
+definitions-1-3-1-h: " Social service organizations for the elderly and disabled and orphanages are medical and social institutions  intended for the permanent residence, household and medical care for the adults in need of care, the disabled and children."
+calculations-1-3-1-h: " Number of children in orphanages and their ratio to the population in corresponding age."
+comments-1-3-1-h: " https://armstat.am/file/article/soc_vich_2019_15.pdf"
+description-1-3-1-i: " The number of  children returned to relatives from orphanages  at the age of 0-17 "
+definitions-1-3-1-i: " Social service organizations for the elderly and disabled and orphanages are medical and social institutions  intended for the permanent residence, household and medical care for the adults in need of care, the disabled and children."
+calculations-1-3-1-i: " Number of children returned to relatives from orphanages."
+comments-1-3-1-i: " https://armstat.am/file/article/soc_vich_2019_15.pdf"
+description-1-3-1-j: " Disabled children living in orphanages (0-17 years old), at the end of the year is the number of disabled children living in  orphanages (0-17 years old) at the end of the year and the share of disabled children living in  orphanages from 0-17 years old population"
+definitions-1-3-1-j: " Social service organizations for the elderly and disabled and orphanages are medical and social institutions  intended for the permanent residence, household and medical care for the adults in need of care, the disabled and children."
+calculations-1-3-1-j: " Number of children with disabilities living in orphanages and their ratio to children with disabilities."
+comments-1-3-1-j: " https://armstat.am/file/article/soc_vich_2019_15.pdf"
+description-1-3-1-ja: " The indicator of adopted children (0-17 years old) is the number of adopted children by ages"
+calculations-1-3-1-ja: " Number of adopted children."
+comments-1-3-1-ja: " https://armstat.am/file/article/soc_vich_2019_16.pdf"
+description-1-3-1-jb: " The indicator of  adopted children by social groups (0-17 years old) is the number of adopted children by social groups and gender and  share from the total number of adopted children"
+calculations-1-3-1-jb: " Number of adopted children by social groups and their ratio to adopted children."
+comments-1-3-1-jb: " https://armstat.am/file/article/soc_vich_2019_16.pdf"
+description-1-3-1-jc: " The number of beneficiaries receiving maternity benefits for unemployed persons, at the end of the year "
+definitions-1-3-1-jc: " State benefit is a regular or one-time financial assistance provided from the state budget."
+calculations-1-3-1-jc: " Number of beneficiaries receiving maternity benefits for unemployed person."
+comments-1-3-1-jc: " https://armstat.am/file/article/soc_vich_2019_13.pdf"
+description-3-5-1-a: " The number of registered patients suffering from drug addiction per 100000 inhabitants"
+calculations-3-5-1-a: " The ratio of registered drug addicts to the population."
+comments-3-5-1-a: " https://armstat.am/file/article/soc_vich_2019_9.pdf"
+description-4-1-1-b: " The indicator is calculated as a percentage of the 10-year-old population and  5th grade pupils "
+definitions-4-1-1-b: " Secondary school - a type of educational institution implementing basic general education programs with advanced teaching of one or more general, including stream or separate subjects. "
+calculations-4-1-1-b: " The ratio of 5th grade pupils of the secondary schools to the 10-year-old population. "
+comments-4-1-1-b: " https://armstat.am/file/article/soc_vich_2019_2.pdf "
+description-4-1-1-c: " The indicator is calculated as a percentage of the 14-year-old population and  9th grade pupils"
+definitions-4-1-1-c: " Secondary school - a type of educational institution implementing basic general education programs with advanced teaching of one or more general, including stream or separate subjects."
+calculations-4-1-1-c: " The ratio of 9th grade pupils of the secondary schools to the 14-year-old population."
+comments-4-1-1-c: " https://armstat.am/file/article/soc_vich_2019_2.pdf"
+description-4-2-2-a: " The indicator of gross enrollment of children aged 3-5 in pre-school institutions is  the proportion of 3-5 years old children attending pre-school institutions from the population of the corresponding age "
+definitions-4-2-2-a: " Preschool age: child's 0-6 years old.      A pupil - a child of preschool age studying in the pre-school education and development program. "
+calculations-4-2-2-a: " The ratio of 3-5 years old children attending preschool to the population in  corresponding age. "
+comments-4-2-2-a: " https://armstat.am/file/article/soc_vich_2019_1.pdf "
+description-4-3-1-a: " Gross enrollment indicator at all eduacational levels by gender"
+description-4-4-1-a: " The ratio of the number of pupils in secondary schools per one computer "
+definitions-4-4-1-a: " Secondary school - a type of educational institution implementing basic general education programs with advanced teaching of one or more general, including stream or separate subjects. "
+calculations-4-4-1-a: "The ratio of secondary school pupils to the number of computers allocated to schools. "
+comments-4-4-1-a: " https://armstat.am/file/article/soc_vich_2019_2.pdf "
+description-4-5-1-a: " Coefficient of the ratio of the gross enrollment of men to the gross enrollment rate of women at the educational levels "
+calculations-4-5-1-a: " The ratio of male gross enrollment to female gross enrollment."
+description-4-c-1-a: " Proportion of teachers trained in the academic year out of the total number of teachers"
+definitions-4-c-1-a: " Teacher - a pedagogical worker who ensures the mastery of the subject programs by the students in the educational institution and is directly responsible for that process.      Teacher training - mastery and improvement of new professional knowledge, skills and abilities in accordance with the teacher training standards and programs determined by the authorized body of state education management in the training organizations."
+calculations-4-c-1-a: " The ratio of trained teachers to the number of secondary school teachers. "
+comments-4-c-1-a: " https://armstat.am/file/article/soc_vich_2019_2.pdf"
+description-16-1-1-a: " It is the number of murders per 100.000 inhabitants "
+definitions-16-1-1-a: " Murder is the unlawful intentional killing of another person."
+calculations-16-1-1-a: " The number of registered murders per 100,000 inhabitants "
+comments-16-1-1-a: " https://armstat.am/file/article/soc_vich_2019_31.pdf "
+description-16-3-2: " The indicator is the percentage of the number of prisoners who did not receive a sentence from the total number of prisoners."
+definitions-16-3-2: " Verdict - decesions held in Court of  first instance and  the Court of Appeals  on the guilt or innocence of the defendant, whether apply or not to apply a sentence against him, or other issues."
+calculations-16-3-2: " The ratio of arrested to the total number of prisoners."
+comments-16-3-2: " https://armstat.am/file/article/soc_vich_2019_33.pdf"
+

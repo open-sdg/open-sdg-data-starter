@@ -1,0 +1,107 @@
+
+# This config file is for use with the `build_data` and `check_data` functions,
+# which are helpers for implementations of Open SDG. This file allows easy use
+# of those functions without altering Python code.
+
+# Languages
+# ---------
+# This tells sdg-build to perform "translated builds" for each of the specified
+# languages. Each build is in its own subfolder - one for each language.
+languages:
+  - en
+  - hy
+  - ru
+
+# Destination directory
+# ---------------------
+# This identifies a directory to hold the "built" files. The default is '_site'.
+site_dir: _site
+
+# Schema file
+# -----------
+# This identifies a file containing the schema (possible fields) for metadata.
+# Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
+schema_file: _prose.yml
+
+# Source directory
+# ----------------
+# This identifies the directory that holds the 'data' and 'meta' folders.
+# The default, '', points to the root of this repository.
+src_dir: ''
+
+# Inputs
+# ------
+# The allows control over the inputs of data and metadata. This can be omitted
+# if you are using the standard Open SDG approach of CSV data and YAML metadata.
+# But if you would like to use non-standard inputs (such as SDMX) then you can
+# use this as needed.
+#
+# Each item must have a "class" which corresponds to classes in the sdg/inputs
+# folder. Further, each item can have any/all of the parameters that class uses.
+# The defaults below show what is used when this is omitted.
+inputs:
+  - class: InputCsvData
+    path_pattern: data/indicator_*.csv
+  - class: InputYamlMdMeta
+    path_pattern: meta/*.md
+    git: true
+    git_data_dir: data
+
+# Translations
+# ------------
+# The allows control over the imported translations. This can be omitted if you
+# are happy with the defaults. But if you are using custom translation repos
+# or non-standard inputs (such as SDMX) then you can use this as needed.
+#
+# Each item must have a "class" which corresponds to classes in the sdg-build
+# project. Further, each item can have any/all of the parameters that class uses.
+# The defaults below show what is used when this is omitted.
+translations:
+  # This pulls in translations from a Git repository.
+  - class: TranslationInputSdgTranslations
+    source: https://github.com/open-sdg/sdg-translations.git
+    tag: 1.7.0
+  # This pulls in translations from a local 'translations' folder.
+  - class: TranslationInputYaml
+    source: translations
+
+# Reporting status extra fields
+# -----------------------------
+# This allows the build to generate stats for reporting status by additional
+# fields, beyond the default "status by goal" report.
+reporting_status_extra_fields: []
+
+# Map layers
+# ----------
+# This allows the build to generate one or more GeoJSON files to be used by
+# Open SDG maps. The parameters available correspond to the OutputGeoJson class.
+# See sdg/outputs/OutputGeoJson.py for more information. Uncomment the map_layers
+# below and adjust if you would like to use the Open SDG mapping functionality.
+# Note that the GeoJSON files can either be remote (as in the example below) or
+# local, relative to the src_dir specified above.
+#map_layers:
+#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
+#    name_property: rgn17nm
+#    id_property: rgn17cd
+#    output_subfolder: regions
+#    filename_prefix: indicator_
+
+# Documentation settings
+# ----------------------
+# This controls the automatic documentation that is created for your build.
+#
+# This is the logo at the top of the automated documentation pages.
+docs_branding: SDG data build documentation
+# This displays at the top of the automated documentation homepage.
+docs_intro: This is a list of examples of endpoints and output that are
+  available on this service. Click each of the links below for more information
+  on the available output.
+# This can be uncommented and updated so allow links to your indicator pages.
+# The URL here should have [id] instead of the indicator ID.
+#docs_indicator_url: https://my-github-org/my-site-repository/[id]
+# This can be uncommented to show translation columns in the disaggregation report.
+#docs_translate_disaggregations: true
+# This can be uncommented to show additional columns in the disaggregation report.
+# This is mainly intended to show units of measurement and series, which are not
+# normally considered "disaggregation".
+# docs_extra_disaggregations: ['Units', 'Series']
