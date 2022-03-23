@@ -4,4 +4,4 @@ gitpython
 ruamel.yaml>=0.15
 requests
 git+https://github.com/dougmet/yamlmd
-git+git://github.com/open-sdg/sdg-build@0.3.0
+git+https://github.com/open-sdg/sdg-build@0.3.0
