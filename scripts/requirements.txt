@@ -3,5 +3,5 @@ pandas
 gitpython
 ruamel.yaml>=0.15
 requests
-git+git://github.com/dougmet/yamlmd
+https://github.com/dougmet/yamlmd
 git+git://github.com/open-sdg/sdg-build@0.3.0
