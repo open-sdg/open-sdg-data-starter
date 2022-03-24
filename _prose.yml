@@ -3,28 +3,7 @@ prose:
   ignore: ['/scripts']
   metadata:
     meta:
-    ############ Page Data ############
-      - name: "title"
-        field:
-            element: text
-            label: "Page Title"
-            scope: page
-      - name: "sdg_goal"
-        field:
-            element: hidden
-            label: "SDG Goal"
-            scope: page
-      - name: "permalink"
-        field:
-            element: hidden
-            label: "Permalink"
-            scope: page
-      - name: "layout"
-        field:
-            element: hidden
-            label: "Layout"
-            scope: page
-    ######### Global Metadata #########
+      ######### Global Metadata #########
       - name: "indicator_name"
         field:
             element: text
@@ -122,92 +101,16 @@ prose:
             element: text
             label: "Other information"
             scope: national
-      - name: "national_data_update_url"
+      - name: "national_data_updated_date"
         field:
             element: hidden
             label: "Data last updated"
             scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            scope: national
-      - name: "national_metadata_update_url"
+      - name: "national_metadata_updated_date"
         field:
             element: hidden
             label: "Metadata last updated"
             scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            scope: national
-       ######### Data Info #########
-      - name: "reporting_status"
-        field:
-            element: select
-            label: "Reporting status"
-            options:
-              - name: 'complete'
-                value: 'complete'
-              - name: 'inprogress'
-                value: 'inprogress'
-              - name: 'notstarted'
-                value: 'notstarted'
-            scope: data
-      - name: data_non_statistical
-        field:
-            element: checkbox
-            label: Non-statistical indicator
-            help: Check this box if this indicator does not have numeric data associated with it
-            value: false
-            scope: data
-      - name: data_footnote
-        field:
-            element: text
-            label: Footnote
-            help: Footnotes appear under the chart and by data tables
-            scope: data
-      - name: data_geocode_regex
-        field:
-            element: text
-            label: GeoCode Regular Expression
-            help: A regex on which geocodes to include
-            scope: data
-      - name: data_keywords
-        field:
-            element: text
-            label: Search Keywords
-            help: Comma separated keywords for search page
-            scope: data
-      - name: data_show_map
-        field:
-            element: checkbox
-            label: Show the map when GeoCodes are present?
-            help: If this box is checked then the prescence of a GeoCode field will trigger a map
-            value: false
-            scope: data
-      - name: "indicator_sort_order"
-        field:
-            element: text
-            label: "Indicator display order (within Goal page)"
-            scope: data
-      ######### Chart Info #########
-      - name: "graph_type"
-        field:
-            element: select
-            label: "Graph type"
-            options:
-              - name: 'line'
-                value: 'line'
-              - name: 'bar'
-                value: 'bar'
-            scope: graph
-      - name: "graph_title"
-        field:
-            element: text
-            label: "Graph Title"
-            scope: graph
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
