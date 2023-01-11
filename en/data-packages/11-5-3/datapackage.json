@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Año"
+            "title": "Year"
           },
           {
             "name": "Value",
@@ -25,6 +25,6 @@
     }
   ],
   "profile": "data-package",
-  "name": "17-6-2",
-  "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+  "name": "11-5-3",
+  "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
 }
