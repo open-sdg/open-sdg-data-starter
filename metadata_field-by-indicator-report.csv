@@ -1,0 +1,308 @@
+Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
+#1-1-1,notstarted,World Bank (WB),,,,,line
+#1-2-1,notstarted,World Bank,,,,,line
+#1-2-2,notstarted,"The World Bank, UNICEF, UNDP",,,,,line
+#1-3-1,notstarted,World Bank (WB),,,,,line
+#1-4-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
+#1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-5-4,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#1-a-1,notstarted,OECD,,,,,line
+#1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#1-b-1,notstarted,,,,,,line
+#10-1-1,notstarted,World Bank (WB),,,,,line
+#10-2-1,notstarted,World Bank (WB),,,,,line
+#10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
+#10-4-1,notstarted,International Labour Organization (ILO),,,,,line
+#10-4-2,notstarted,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line
+#10-5-1,notstarted,International Monetary Fund,,,,,line
+#10-6-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
+",,,,,line
+#10-7-1,notstarted,International Labour Organization (ILO) and World Bank (WB),,,,,line
+#10-7-2,notstarted,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,,,,,line
+#10-7-3,notstarted,International Organization for Migration,,,,,line
+#10-7-4,notstarted,United Nations High Commissioner for Refugees (UNHCR),,,,,line
+#10-a-1,notstarted,"International Trade Centre (ITC)
+United Nations Conference on Trade and Development (UNCTAD)
+The World Trade Organization (WTO)",,,,,line
+#10-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#10-c-1,notstarted,World Bank,,,,,line
+#11-1-1,notstarted,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
+#11-2-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#11-3-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#11-3-2,notstarted,UN-Habitat,,,,,line
+#11-4-1,notstarted,UNESCO Institute for Statistics,,,,,line
+#11-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#11-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#11-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
+#11-6-1,notstarted,"UN-Habitat, UNSD",,,,,line
+#11-6-2,notstarted,World Health Organization (WHO),,,,,line
+#11-7-1,notstarted,UN-HABITAT,,,,,line
+#11-7-2,notstarted,Custodian Agency: United Nations on Drugs and Crime (UNODC),,,,,line
+#11-a-1,notstarted,"UN-Habitat
+UNFPA",,,,,line
+#11-b-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#11-b-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#12-2-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#12-3-1,notstarted,The Food and Agriculture Organization of the United Nations,,,,,line
+#12-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
+#12-5-1,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
+#12-6-1,notstarted,"United Nations Conference on Trade and Development (UNCTAD)
+United Nations Environment Programme(UNEP)",,,,,line
+#12-7-1,notstarted,UNEP United Nations Environment Programme,,,,,line
+#12-8-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
+UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
+#12-a-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
+#12-b-1,notstarted,World Tourism Organization (UNWTO),,,,,line
+#12-c-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#13-1-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#13-1-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#13-1-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+#13-2-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
+#13-2-2,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
+#13-3-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
+UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
+#13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
+#13-b-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
+#14-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#14-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
+#14-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#14-5-1,notstarted,"BirdLife International (BLI)
+International Union for Conservation of Nature (IUCN)
+UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
+UN Environment",,,,,line
+#14-6-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#14-7-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#14-a-1,notstarted,Intergovernmental Oceanographic Commission of UNESCO,,,,,line
+#14-b-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#14-c-1,notstarted,"Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat",,,,,line
+#15-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#15-1-2,notstarted,"BirdLife International (BLI)
+International Union for Conservation of Nature (IUCN)
+UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
+UN Environment",,,,,line
+#15-2-1,notstarted,Food and Agriculture Organization of the United Nations (FAO) ,,,,,line
+#15-3-1,notstarted,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",,,,,line
+#15-4-1,notstarted,"BirdLife International (BLI)
+International Union for Conservation of Nature (IUCN)
+UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
+UN Environment",,,,,line
+#15-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#15-5-1,notstarted,International Union for Conservation of Nature (IUCN),,,,,line
+#15-6-1,notstarted,Secretariat of the Convention on Biological Diversity (CBD),,,,,line
+#15-7-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#15-8-1,notstarted,International Union for Conservation of Nature (IUCN),,,,,line
+#15-9-1,notstarted,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",,,,,line
+#15-a-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
+#15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
+#15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-1-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
+#16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-1-4,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-10-1,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",,,,,line
+#16-10-2,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
+#16-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#16-2-2,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-2-3,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#16-3-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-3-2,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-3-3,notstarted,"United Nations Development Programme (UNDP), United Nations Office on Drugs and Crime (UNODC) and Organization for Economic Cooperation and Development (OECD)",,,,,line
+#16-4-1,notstarted,UNODC and UNCTAD,,,,,line
+#16-4-2,notstarted,UNODC and UNODA,,,,,line
+#16-5-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-5-2,notstarted,World Bank (WB),,,,,line
+#16-6-1,notstarted,World Bank (WB),,,,,line
+#16-6-2,notstarted,UNDP Oslo Governance Centre,,,,,line
+#16-7-1,notstarted,Inter-Parliamentary Union (IPU),,,,,line
+#16-7-2,notstarted,UNDP Oslo Governance Centre,,,,,line
+#16-8-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
+",,,,,line
+#16-9-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#16-a-1,notstarted,United Nations Office of the High Commissioner for Human Rights,,,,,line
+#16-b-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
+#17-1-1,notstarted,IMF Statistics Department (Government Finance Division),,,,,line
+#17-1-2,notstarted,IMF Statistics Department (Government Finance Division),,,,,line
+#17-10-1,notstarted,"International Trade Centre (ITC)
+United Nations Conference on Trade and Development (UNCTAD)
+The World Trade Organization (WTO)",,,,,line
+#17-11-1,notstarted,"International Trade Centre (ITC)
+United Nations Conference on Trade and Development (UNCTAD)
+The World Trade Organization (WTO)",,,,,line
+#17-12-1,notstarted,"International Trade Centre (ITC)
+United Nations Conference on Trade and Development (UNCTAD)
+The World Trade Organization (WTO)",,,,,line
+#17-13-1,notstarted,World Bank,,,,,line
+#17-14-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#17-15-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
+United Nations Development Programme (UNDP)",,,,,line
+#17-16-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
+United Nations Development Programme (UNDP)",,,,,line
+#17-17-1,notstarted,World Bank,,,,,line
+#17-18-1,notstarted,,,,,,line
+#17-18-2,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
+#17-18-3,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
+#17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
+#17-19-2,notstarted,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",,,,,line
+#17-2-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#17-3-1,notstarted,OECD and UNCTAD,,,,,line
+#17-3-2,notstarted,World Bank (WB),,,,,line
+#17-4-1,notstarted,World Bank (WB),,,,,line
+#17-5-1,notstarted,United Nations Conference on Trade and Development (UNCTAD),,,,,line
+#17-6-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#17-8-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-1-2,notstarted,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
+#2-2-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
+World Health Organization (WHO)
+World Bank (WB)",,,,,line
+#2-2-2,notstarted,"United Nations Children&apos;s Fund (UNICEF)
+World Health Organization (WHO)
+World Bank (WB)",,,,,line
+#2-2-3,notstarted,World Health Organization (WHO),,,,,line
+#2-3-1,notstarted,Food and Agriculture Organization (FAO),,,,,line
+#2-3-2,notstarted,Food and Agriculture Organization (FAO),,,,,line
+#2-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-5-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-5-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
+#2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
+#3-1-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
+#3-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
+#3-2-2,notstarted,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
+#3-3-1,notstarted,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
+#3-3-2,notstarted,World Health Organization (WHO),,,,,line
+#3-3-3,notstarted,Global Malaria Programme at World Health Organization(WHO),,,,,line
+#3-3-4,notstarted,World Health Organization ,,,,,line
+#3-3-5,notstarted,World Health Organization (WHO),,,,,line
+#3-4-1,notstarted,World Health Organization (WHO) ,,,,,line
+#3-4-2,notstarted,World Health Organization (WHO) ,,,,,line
+#3-5-1,notstarted,"World Health Organization (WHO) 
+United Nations Office on Drugs and Crime (UNODC) ",,,,,line
+#3-5-2,notstarted,World Health Organization (WHO) ,,,,,line
+#3-6-1,notstarted,World Health Organization (WHO) ,,,,,line
+#3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA) 
+United Nations Population Fund (UNFPA) ",,,,,line
+#3-7-2,notstarted,"Population Division, Department of Economic and Social Affairs (DESA) 
+United Nations Population Fund (UNFPA)",,,,,line
+#3-8-1,notstarted,World Health Organization (WHO) ,,,,,line
+#3-8-2,notstarted,World Health Organization (WHO) and the World Bank,,,,,line
+#3-9-1,notstarted,World Health Organization (WHO),,,,,line
+#3-9-2,notstarted,World Health Organization (WHO),,,,,line
+#3-9-3,notstarted,"World Health Organization (WHO)
+ ",,,,,line
+#3-a-1,notstarted,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
+#3-b-1,notstarted,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
+#3-b-2,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
+#3-b-3,notstarted,World Health Organization (WHO),,,,,line
+#3-c-1,notstarted,"Health Workforce Department, World Health Organization (WHO)",,,,,line
+#3-d-1,notstarted,World Health Organization (WHO),,,,,line
+#3-d-2,notstarted,World Health Organization (WHO) ,,,,,line
+#4-1-1,notstarted,UNESCO Institute of Statistics (UIS),,,,,line
+#4-1-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#4-2-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-3-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-4-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#4-5-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-6-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-7-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
+UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
+#4-a-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#4-c-1,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#5-1-1,notstarted,"UN Women, World Bank Group, OECD Development Centre",,,,,line
+#5-2-1,notstarted,"World Health Organization (WHO)
+United Nations Children&apos;s Fund (UNICEF)
+United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
+United Nations Office on Drugs and Crime (UNODC)
+United Nations Population Fund (UNFPA)
+United Nations Statistics Division (UNSD)",,,,,line
+#5-2-2,notstarted,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
+United Nations Children&apos;s Fund (UNICEF)
+United Nations Statistics Division (UNSD)
+World Health Organization (WHO)
+United Nations Population Fund (UNFPA)",,,,,line
+#5-3-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
+#5-5-1,notstarted,UN-Women,,,,,line
+#5-5-2,notstarted,International Labour Organization (ILO),,,,,line
+#5-6-1,notstarted,United Nations Population Fund (UNFPA),,,,,line
+#5-6-2,notstarted,United Nations Population Fund (UNFPA),,,,,line
+#5-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#5-b-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#5-c-1,notstarted,UN Women in collaboration with OECD and UNDP,,,,,line
+#6-1-1,notstarted,"World Health Organization (WHO)
+United Nations Children&apos;s Fund (UNICEF)",,,,,line
+#6-2-1,notstarted,"World Health Organization (WHO)
+United Nations Children&apos;s Fund (UNICEF)",,,,,line
+#6-3-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
+World Health Organization (WHO)
+United Nations Statistics Division (UNSD)",,,,,line
+#6-3-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#6-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#6-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#6-5-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#6-5-2,notstarted,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
+United Nations Economic Commission for Europe (UNECE)",,,,,line
+#6-6-1,notstarted,Secretariat of the Ramsar Convention on Wetlands,,,,,line
+#6-a-1,notstarted,"World Health Organization (WHO)
+United Nations Environment Programme (UNEP)
+Organisation for Economic Co-operation and Development (OECD)",,,,,line
+#6-b-1,notstarted,"World Health Organization (WHO)
+United Nations Environment Programme (UNEP)
+Organisation for Economic Co-operation and Development (OECD)",,,,,line
+#7-1-1,notstarted,World Bank Group,,,,,line
+#7-1-2,notstarted,World Health Organization (WHO),,,,,line
+#7-2-1,notstarted,"International Energy Agency (IEA) 
+United Nations Statistics Division (UNSD) 
+International Renewable Energy Agency (IRENA)",,,,,line
+#7-3-1,notstarted,"International Energy Agency (IEA) 
+United Nations Statistics Division (UNSD)",,,,,line
+#7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
+#7-b-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
+#8-1-1,notstarted,United Nations Statistics Division (UNSD),,,,,line
+#8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
+#8-10-2,notstarted,World Bank (WB) ,,,,,line
+#8-2-1,notstarted,International Labour Organization (ILO) ,,,,,line
+#8-3-1,notstarted,International Labour Organization (ILO),,,,,line
+#8-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#8-4-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#8-5-1,notstarted,International Labour Organization (ILO),,,,,line
+#8-5-2,notstarted,International Labour Organization (ILO) ,,,,,line
+#8-6-1,notstarted,International Labour Organization (ILO),,,,,line
+#8-7-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
+International Labour Organization (ILO)",,,,,line
+#8-8-1,notstarted,International Labour Organisation (ILO),,,,,line
+#8-8-2,notstarted,International Labour Organization (ILO),,,,,line
+#8-9-1,notstarted,World Tourism Organization (UNWTO) ,,,,,line
+#8-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
+#8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
+#9-1-1,notstarted,World Bank,,,,,line
+#9-1-2,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Economic Commission for Europe (UNECE); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
+#9-2-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
+#9-2-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
+(with the collaboration of the International Labour Organization &#x2013; ILO)",,,,,line
+#9-3-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
+#9-3-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
+World Bank",,,,,line
+#9-4-1,notstarted,"International Energy Agency (IEA)
+United Nations Industrial Development Organization (UNIDO)",,,,,line
+#9-5-1,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
+#9-5-2,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
+#9-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
+#9-b-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
+#9-c-1,notstarted,International Telecommunication Union (ITU),,,,,line
