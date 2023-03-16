@@ -124,8 +124,6 @@ docs_intro: This is a list of examples of endpoints and output that are
 docs_metadata_fields:
     - key: reporting_status
       label: Reporting status
-    - key: un_designated_tier
-      label: UN designated tier
     - key: SDG_CUSTODIAN_AGENCIES__GLOBAL
       label: UN custodian agency
     - key: data_non_statistical
