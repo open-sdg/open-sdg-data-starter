@@ -3,7 +3,8 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-2-1,notstarted,World Bank,,,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
 #1-3-1,notstarted,International Labour Organization (ILO),,,,,line
-#1-4-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#1-4-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
+WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",,,,,line
 #1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
 #1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
@@ -120,7 +121,7 @@ UN Environment",,,,,line
 #16-5-2,notstarted,World Bank (WB),,,,,line
 #16-6-1,notstarted,World Bank (WB),,,,,line
 #16-6-2,notstarted,United Nations Development Programme (UNDP) ,,,,,line
-#16-7-1,notstarted,Inter-Parliamentary Union (IPU),,,,,line
+#16-7-1,notstarted,UNDP Oslo Governance Centre,,,,,line
 #16-7-2,notstarted,UNDP Oslo Governance Centre,,,,,line
 #16-8-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",,,,,line
@@ -237,7 +238,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-3-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
-#5-5-1,notstarted,UN-Women,,,,,line
+#5-5-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women),,,,,line
 #5-5-2,notstarted,International Labour Organization (ILO),,,,,line
 #5-6-1,notstarted,United Nations Population Fund (UNFPA),,,,,line
 #5-6-2,notstarted,United Nations Population Fund (UNFPA),,,,,line
@@ -258,7 +259,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #6-5-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #6-5-2,notstarted,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
 United Nations Economic Commission for Europe (UNECE)",,,,,line
-#6-6-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#6-6-1,notstarted,Secretariat of the Ramsar Convention on Wetlands,,,,,line
 #6-a-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
@@ -292,7 +293,7 @@ International Labour Organization (ILO)",,,,,line
 #8-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
 #9-1-1,notstarted,World Bank,,,,,line
-#9-1-2,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Economic Commission for Europe (UNECE); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
+#9-1-2,notstarted,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
 #9-2-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-2-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
 (with the collaboration of the International Labour Organization &#x2013; ILO)",,,,,line
