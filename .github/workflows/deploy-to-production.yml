@@ -53,13 +53,13 @@ jobs:
       run: |
         cp public/robots-prod.txt _site/robots.txt
     - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
-        REPOSITORY_NAME: PRODUCTION_ORGANISATION/PRODUCTION_REPOSITORY
-        ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
-        FOLDER: _site
-        CLEAN: true
+        repository-name: PRODUCTION_ORGANISATION/PRODUCTION_REPOSITORY
+        token: ${{ secrets.token }}
+        branch: gh-pages
+        folder: _site
+        clean: true
     - name: Waiting 4 minutes for production data deployment
       run: |
         sleep 240
