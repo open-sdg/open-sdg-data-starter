@@ -2,4 +2,3 @@ git+https://github.com/dougmet/yamlmd
 git+https://github.com/open-sdg/sdg-build@2.4.0
 frictionless==4.40.8
 pydantic==1.*
-setuptools<=80.10.2
